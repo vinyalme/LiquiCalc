@@ -1,6 +1,9 @@
 # calculador_taxa_saas
 Simulador completo de taxas de adquirência (MDR Padrão, Flex e antecipações) com base em vendas no cartão. Este projeto é a base para o futuro app LiquiCalc, focado em calcular o valor real a ser recebido por vendedores e lojistas.
 
+## 🗂️ Estrutura do Projeto – Detalhada
+
+```text
 📦 LiquiCalc
 ├── 📁 conceitos/                 # Fundamentos técnicos e explicações de cálculo
 │   ├── 📄 mdr-padrao.md         # Explicação da MDR padrão: conceito, fórmula e aplicação
@@ -17,6 +20,7 @@ Simulador completo de taxas de adquirência (MDR Padrão, Flex e antecipações)
 
 ├── 📄 README.md                 # Apresentação geral: objetivo, uso, tecnologias e estrutura
 └── 📄 LICENSE                   # Licença de uso do projeto (ex: MIT, GPL, etc.)
+```
 
 
 Vamos **destrinchar os cálculos matemáticos** envolvidos em cada modalidade do mercado de adquirência, com foco em mostrar **quanto o cliente efetivamente vai receber** em cada cenário.
