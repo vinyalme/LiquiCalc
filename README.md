@@ -21,7 +21,59 @@ Simulador completo de taxas de adquirência (MDR Padrão, Flex e antecipações)
 ├── 📄 README.md                 # Apresentação geral: objetivo, uso, tecnologias e estrutura
 └── 📄 LICENSE                   # Licença de uso do projeto (ex: MIT, GPL, etc.)
 ```
-
+```text
+📦 LiquiCalc
+├── 📁 0_conceitos/
+│   ├── 📄 0_mdr-padrao.md
+│   ├── 📄 1_mdr-flex.md
+│   └── 📄 2_antecipacao.md
+│
+├── 📁 1_simulacoes/
+│   ├── 📁 0_excel/
+│   │   └── 📁 simulador_excel/
+│   │       ├── 📁 LiquiCalc.1.3v/
+│   │       │   └── 📄 LiquiCalc.xlsx
+│   │       ├── 📁 simulador_mdr-padrao1.0v/
+│   │       │   └── 📄 simulador_mdr-padrao.xlsx
+│   │       ├── 📁 simulador_mdr-flex1.1v/
+│   │       │   └── 📄 simulador_mdr-flex.xlsx
+│   │       └── 📁 simulador_antecipacao1.2v/
+│   │           └── 📄 simulador_antecipacao.xlsx
+│   │
+│   ├── 📁 1_calculadora-bat/
+│   │   ├── 📁 LiquiCalc.2.3v/
+│   │   │   └── 📄 LiquiCalc.bat
+│   │   ├── 📁 simulador_mdr-padrao2.0v/
+│   │   │   └── 📄 simulador_mdr-padrao.bat
+│   │   ├── 📁 simulador_mdr-flex2.1v/
+│   │   │   └── 📄 simulador_mdr-flex.bat
+│   │   └── 📁 simulador_antecipacao2.2v/
+│   │       └── 📄 simulador_antecipacao.bat
+│   │
+│   └── 📁 2_calculadora-web/
+│       ├── 📁 LiquiCalc.3.3v/
+│       │   ├── 📄 index.html
+│       │   ├── 📄 style.css
+│       │   └── 📄 script.js
+│       ├── 📁 simulador_mdr-padrao3.0v/
+│       │   ├── 📄 index.html
+│       │   ├── 📄 style.css
+│       │   └── 📄 script.js
+│       ├── 📁 simulador_mdr-flex3.1v/
+│       │   ├── 📄 index.html
+│       │   ├── 📄 style.css
+│       │   └── 📄 script.js
+│       └── 📁 simulador_antecipacao3.2v/
+│           ├── 📄 index.html
+│           ├── 📄 style.css
+│           └── 📄 script.js
+│
+├── 📁 4_docs/
+│   └── 📄 roadmap.md
+│
+├── 📄 README.md
+└── 📄 LICENSE
+```
 
 Vamos **destrinchar os cálculos matemáticos** envolvidos em cada modalidade do mercado de adquirência, com foco em mostrar **quanto o cliente efetivamente vai receber** em cada cenário.
 
