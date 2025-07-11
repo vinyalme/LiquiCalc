@@ -2,25 +2,6 @@
 Simulador completo de taxas de adquirência (MDR Padrão, Flex e antecipações) com base em vendas no cartão. Este projeto é a base para o futuro app LiquiCalc, focado em calcular o valor real a ser recebido por vendedores e lojistas.
 
 ## 🗂️ Estrutura do Projeto – Detalhada
-
-```text
-📦 LiquiCalc
-├── 📁 conceitos/                 # Fundamentos técnicos e explicações de cálculo
-│   ├── 📄 mdr-padrao.md         # Explicação da MDR padrão: conceito, fórmula e aplicação
-│   ├── 📄 mdr-flex.md           # Explicação da MDR flexível (fator 1 e fator 2)
-│   └── 📄 antecipacao.md        # Como funciona a antecipação de recebíveis e seu impacto nos valores
-
-├── 📁 simulacoes/               # Protótipos e testes práticos em diferentes ambientes
-│   ├── 📁 excel/                # Simulação em Excel, com fórmulas aplicadas e modelos de teste
-│   ├── 📁 calculadora-bat/      # Simulação em script .bat (linha de comando Windows)
-│   └── 📁 calculadora-web/      # Simulação web interativa (HTML, CSS, JavaScript)
-
-├── 📁 docs/                     # Documentação do projeto e arquivos de apoio
-│   └── 📄 roadmap.md            # Etapas planejadas, progresso e próximos passos do LiquiCalc
-
-├── 📄 README.md                 # Apresentação geral: objetivo, uso, tecnologias e estrutura
-└── 📄 LICENSE                   # Licença de uso do projeto (ex: MIT, GPL, etc.)
-```
 ```text
 📦 LiquiCalc
 ├── 📁 0_conceitos/                              # Fundamentos técnicos e explicações de cálculo
