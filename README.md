@@ -23,56 +23,56 @@ Simulador completo de taxas de adquirência (MDR Padrão, Flex e antecipações)
 ```
 ```text
 📦 LiquiCalc
-├── 📁 0_conceitos/
-│   ├── 📄 0_mdr-padrao.md
-│   ├── 📄 1_mdr-flex.md
-│   └── 📄 2_antecipacao.md
+├── 📁 0_conceitos/                              # Fundamentos técnicos e explicações de cálculo
+│   ├── 📄 0_mdr-padrao.md                       # Explicação da MDR padrão: conceito, fórmula e aplicação
+│   ├── 📄 1_mdr-flex.md                         # Explicação da MDR flexível (fator 1 e fator 2)
+│   └── 📄 2_antecipacao.md                      # Como funciona a antecipação de recebíveis e seu impacto nos valores
 │
 ├── 📁 1_simulacoes/
 │   ├── 📁 0_excel/
 │   │   └── 📁 simulador_excel/
-│   │       ├── 📁 LiquiCalc.1.3v/
+│   │       ├── 📁 LiquiCalc.1.3v/               # Versão consolidada com todos os cálculos em um único arquivo
 │   │       │   └── 📄 LiquiCalc.xlsx
-│   │       ├── 📁 simulador_mdr-padrao1.0v/
+│   │       ├── 📁 simulador_mdr-padrao1.0v/     # Simulador exclusivo para cálculo da MDR padrão
 │   │       │   └── 📄 simulador_mdr-padrao.xlsx
-│   │       ├── 📁 simulador_mdr-flex1.1v/
+│   │       ├── 📁 simulador_mdr-flex1.1v/       # Simulador exclusivo para cálculo da MDR flexível
 │   │       │   └── 📄 simulador_mdr-flex.xlsx
-│   │       └── 📁 simulador_antecipacao1.2v/
+│   │       └── 📁 simulador_antecipacao1.2v/    # Simulador para MDR padrão + antecipação de recebíveis
 │   │           └── 📄 simulador_antecipacao.xlsx
 │   │
 │   ├── 📁 1_calculadora-bat/
-│   │   ├── 📁 LiquiCalc.2.3v/
+│   │   ├── 📁 LiquiCalc.2.3v/                   # Versão consolidada com todos os cálculos em um único script
 │   │   │   └── 📄 LiquiCalc.bat
-│   │   ├── 📁 simulador_mdr-padrao2.0v/
+│   │   ├── 📁 simulador_mdr-padrao2.0v/         # Script exclusivo para cálculo da MDR padrão
 │   │   │   └── 📄 simulador_mdr-padrao.bat
-│   │   ├── 📁 simulador_mdr-flex2.1v/
+│   │   ├── 📁 simulador_mdr-flex2.1v/           # Script exclusivo para cálculo da MDR flexível
 │   │   │   └── 📄 simulador_mdr-flex.bat
-│   │   └── 📁 simulador_antecipacao2.2v/
+│   │   └── 📁 simulador_antecipacao2.2v/        # Script para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.bat
 │   │
-│   └── 📁 2_calculadora-web/
-│       ├── 📁 LiquiCalc.3.3v/
+│   └── 📁 2_calculadora-web/                    # Simulações web interativas com HTML, CSS e JS
+│       ├── 📁 LiquiCalc.3.3v/                   # Versão consolidada com todos os cálculos em uma única interface
 │       │   ├── 📄 index.html
 │       │   ├── 📄 style.css
 │       │   └── 📄 script.js
-│       ├── 📁 simulador_mdr-padrao3.0v/
+│       ├── 📁 simulador_mdr-padrao3.0v/         # Simulador exclusivo para cálculo da MDR padrão
 │       │   ├── 📄 index.html
 │       │   ├── 📄 style.css
 │       │   └── 📄 script.js
-│       ├── 📁 simulador_mdr-flex3.1v/
+│       ├── 📁 simulador_mdr-flex3.1v/           # Simulador exclusivo para cálculo da MDR flexível
 │       │   ├── 📄 index.html
 │       │   ├── 📄 style.css
 │       │   └── 📄 script.js
-│       └── 📁 simulador_antecipacao3.2v/
+│       └── 📁 simulador_antecipacao3.2v/        # Simulador para MDR padrão + antecipação de recebíveis
 │           ├── 📄 index.html
 │           ├── 📄 style.css
 │           └── 📄 script.js
 │
 ├── 📁 4_docs/
-│   └── 📄 roadmap.md
+│   └── 📄 roadmap.md                            # Etapas planejadas, progresso e próximos passos do LiquiCalc
 │
-├── 📄 README.md
-└── 📄 LICENSE
+├── 📄 README.md                                 # Apresentação geral: objetivo, uso, tecnologias e estrutura
+└── 📄 LICENSE                                   # Licença de uso do projeto
 ```
 
 Vamos **destrinchar os cálculos matemáticos** envolvidos em cada modalidade do mercado de adquirência, com foco em mostrar **quanto o cliente efetivamente vai receber** em cada cenário.
