@@ -84,3 +84,29 @@ Ou seja: quanto mais parcelas, **mais a taxa sobe** por causa do **Fator 2**.
 > Mas quanto mais andares (parcelas) você sobe, mais caro fica — por causa do F2.
 
 ---
+---
+### 🔹 **2. MDR Flex (com Fator 1 e Fator 2)**
+
+**Definição:**
+Usado em crédito parcelado. A taxa aumenta conforme o número de parcelas.
+
+**Fórmula:**
+
+```text
+Taxa final = Fator 1 + (nº de parcelas - 1) × Fator 2
+Valor líquido = Valor bruto × (1 - Taxa final)
+```
+
+**Exemplo:**
+
+* Venda: R\$ 1.000,00
+* Parcelado em 4x
+* Fator 1 = 4,09%
+* Fator 2 = 1,29%
+
+```text
+Taxa final = 4,09% + (4 - 1) × 1,29% = 7,96%
+Valor líquido = 1.000 × (1 - 0,0796) = R$ 920,40
+```
+
+---
