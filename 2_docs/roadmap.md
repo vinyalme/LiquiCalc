@@ -9,13 +9,13 @@
 ├── 📁 1_simulacoes/ [C]
 │   ├── 📁 0_excel/ [C]
 │   │   └── 📁 simulador_excel/ [ ]
-│   │       ├── 📁 LiquiCalc.1.3v/ [ ]               # Versão consolidada com todos os cálculos em um único arquivo
+│   │       ├── 📁 0_LiquiCalc.1.3v/ [ ]               # Versão consolidada com todos os cálculos em um único arquivo
 │   │       │   └── 📄 LiquiCalc.1.3.xlsx [ ]
-│   │       ├── 📁 simulador_mdr-padrao1.0v/ [ ]     # Simulador exclusivo para cálculo da MDR padrão
+│   │       ├── 📁 1_simulador_mdr-padrao1.0v/ [ ]     # Simulador exclusivo para cálculo da MDR padrão
 │   │       │   └── 📄 simulador_mdr-padrao.xlsx [ ]
-│   │       ├── 📁 simulador_mdr-flex1.1v/ [ ]       # Simulador exclusivo para cálculo da MDR flexível
+│   │       ├── 📁 2_simulador_mdr-flex1.1v/ [ ]       # Simulador exclusivo para cálculo da MDR flexível
 │   │       │   └── 📄 simulador_mdr-flex.xlsx [ ]
-│   │       └── 📁 simulador_antecipacao1.2v/ [ ]    # Simulador para MDR padrão + antecipação de recebíveis
+│   │       └── 📁 3_simulador_antecipacao1.2v/ [ ]    # Simulador para MDR padrão + antecipação de recebíveis
 │   │           └── 📄 simulador_antecipacao.xlsx [ ]
 │   │
 │   ├── 📁 1_calculadora-bat/ [C]
