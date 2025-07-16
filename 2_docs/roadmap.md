@@ -10,7 +10,7 @@
 │   ├── 📁 0_excel/ [C]
 │   │   └── 📁 simulador_excel/ [ ]
 │   │       ├── 📁 LiquiCalc.1.3v/ [ ]               # Versão consolidada com todos os cálculos em um único arquivo
-│   │       │   └── 📄 LiquiCalc.xlsx [ ]
+│   │       │   └── 📄 LiquiCalc1.3.xlsx [ ]
 │   │       ├── 📁 simulador_mdr-padrao1.0v/ [ ]     # Simulador exclusivo para cálculo da MDR padrão
 │   │       │   └── 📄 simulador_mdr-padrao.xlsx [ ]
 │   │       ├── 📁 simulador_mdr-flex1.1v/ [ ]       # Simulador exclusivo para cálculo da MDR flexível
