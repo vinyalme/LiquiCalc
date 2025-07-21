@@ -89,6 +89,7 @@ D = DONE
 │   │       └── 📄 simulador_antecipacao.bat (P)
 │
 │   └── 📁 2_calculadora-web/ (E)                      # Simulações web interativas com HTML, CSS e JS
+│       ├── 📄 README.md **
 │       ├── 📁 LiquiCalc.3.3v/ (P)                     # Versão consolidada com todos os cálculos em uma única interface
 │       │   ├── 📄 index.html (P)
 │       │   ├── 📄 style.css (P)
