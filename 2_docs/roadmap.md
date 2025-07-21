@@ -55,6 +55,7 @@
 C = CREATED 
 D = DONE
 ```
+```text
 ## 🗂️ Estrutura do Projeto – Detalhada
 
 📦 LiquiCalc (V)  
@@ -108,7 +109,7 @@ D = DONE
 │
 ├── 📄 LICENSE (V)                                     # Licença de uso do projeto (MIT License)
 └── 📄 README.md (A)                                   # Apresentação geral: objetivo, uso, tecnologias e estrutura
-
+```
 
 ## 📊 Classificações por Estado de Maturidade da Documentação
 
