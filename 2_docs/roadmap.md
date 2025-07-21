@@ -1,5 +1,5 @@
 ## 🗂️ Estrutura do Projeto – Detalhada
-
+```
 📦 LiquiCalc (V)  
 ├── 📁 0_conceitos/ (V)                              # Fundamentos técnicos e explicações de cálculo
 │   ├── 📄 0_mdr-padrao.md (E)                       # Explicação da MDR padrão: conceito, fórmula e aplicação
