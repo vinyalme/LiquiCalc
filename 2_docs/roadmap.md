@@ -66,7 +66,7 @@ D = DONE
 │
 ├── 📁 1_simulacoes/ (V)
 │   ├── 📁 0_excel/ (E)
-│   │   └── 📁 simulador_excel/ (A)
+│   │   └── 📁 simulador_excel/ (O)
 │   │       ├── 📄 README.md **
 │   │       ├── 📁 0_LiquiCalc.1.3v/ (A)               # Versão consolidada com todos os cálculos em um único arquivo
 │   │       │   └── 📄 LiquiCalc.1.3.xlsx (P)
@@ -76,7 +76,7 @@ D = DONE
 │   │       │   └── 📄 simulador_mdr-flex.xlsx (E)
 │   │       └── 📁 3_simulador_antecipacao1.2v/ (A)    # Simulador para MDR padrão + antecipação de recebíveis
 │   │           └── 📄 simulador_antecipacao.xlsx (E)
-│
+│   │ 
 │   ├── 📁 1_calculadora-bat/ (E)
 │   │   ├── 📄 README.md **
 │   │   ├── 📁 LiquiCalc.2.3v/ (P)                     # Versão consolidada com todos os cálculos em um único script
@@ -87,7 +87,7 @@ D = DONE
 │   │   │   └── 📄 simulador_mdr-flex.bat (P)
 │   │   └── 📁 simulador_antecipacao2.2v/ (P)          # Script para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.bat (P)
-│
+│   │
 │   └── 📁 2_calculadora-web/ (E)                      # Simulações web interativas com HTML, CSS e JS
 │       ├── 📄 README.md **
 │       ├── 📁 LiquiCalc.3.3v/ (P)                     # Versão consolidada com todos os cálculos em uma única interface
