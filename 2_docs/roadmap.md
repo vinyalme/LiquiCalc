@@ -8,16 +8,15 @@
 │
 ├── 📁 1_simulacoes/ (V)
 │   ├── 📁 0_excel/ (E)
-│   │   └── 📁 simulador_excel/ (O)
-│   │       ├── 📄 README.md **
-│   │       ├── 📁 0_LiquiCalc.1.3v/ (A)               # Versão consolidada com todos os cálculos em um único arquivo
-│   │       │   └── 📄 LiquiCalc.1.3.xlsx (P)
-│   │       ├── 📁 1_simulador_mdr-padrao1.0v/ (A)     # Simulador exclusivo para cálculo da MDR padrão
-│   │       │   └── 📄 simulador_mdr-padrao.xlsx (E)
-│   │       ├── 📁 2_simulador_mdr-flex1.1v/ (A)       # Simulador exclusivo para cálculo da MDR flexível
-│   │       │   └── 📄 simulador_mdr-flex.xlsx (E)
-│   │       └── 📁 3_simulador_antecipacao1.2v/ (A)    # Simulador para MDR padrão + antecipação de recebíveis
-│   │           └── 📄 simulador_antecipacao.xlsx (E)
+│   │   ├── 📄 README.md **
+│   │   ├── 📁 0_LiquiCalc.1.3v/ (A)               # Versão consolidada com todos os cálculos em um único arquivo
+│   │   │   └── 📄 LiquiCalc.1.3.xlsx (P)
+│   │   ├── 📁 1_simulador_mdr-padrao1.0v/ (A)     # Simulador exclusivo para cálculo da MDR padrão
+│   │   │   └── 📄 simulador_mdr-padrao.xlsx (E)
+│   │   ├── 📁 2_simulador_mdr-flex1.1v/ (A)       # Simulador exclusivo para cálculo da MDR flexível
+│   │   │   └── 📄 simulador_mdr-flex.xlsx (E)
+│   │   └── 📁 3_simulador_antecipacao1.2v/ (A)    # Simulador para MDR padrão + antecipação de recebíveis
+│   │       └── 📄 simulador_antecipacao.xlsx (E)
 │   │ 
 │   ├── 📁 1_calculadora-bat/ (E)
 │   │   ├── 📄 README.md **
