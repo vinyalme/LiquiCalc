@@ -17,7 +17,7 @@ Simulador completo de taxas de adquirência (MDR Padrão, MDR Flex e antecipaç�
 │   │   ├── 📁 1_simulador_mdr-padrao1.0v/         # Simulador exclusivo para cálculo da MDR padrão
 │   │   │   └── 📄 simulador_mdr-padrao.xlsx
 │   │   ├── 📁 2_simulador_mdr-flex1.1v/           # Simulador exclusivo para cálculo da MDR flexível
-│   │   │   └── 📄 simulador_mdr-flex.xlsx (E)
+│   │   │   └── 📄 simulador_mdr-flex.xlsx 
 │   │   └── 📁 3_simulador_antecipacao1.2v/ (A)    # Simulador para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.xlsx (E)
 │   │ 
