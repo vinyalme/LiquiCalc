@@ -12,7 +12,7 @@ Simulador completo de taxas de adquirência (MDR Padrão, MDR Flex e antecipaç�
 ├── 📁 1_simulacoes/ 
 │   ├── 📁 0_excel/ 
 │   │   ├── 📄 README.md **
-│   │   ├── 📁 0_LiquiCalc.1.3v/ (A)               # Versão consolidada com todos os cálculos em um único arquivo
+│   │   ├── 📁 0_LiquiCalc.1.3v/                   # Versão consolidada com todos os cálculos em um único arquivo
 │   │   │   └── 📄 LiquiCalc.1.3.xlsx (P)
 │   │   ├── 📁 1_simulador_mdr-padrao1.0v/ (A)     # Simulador exclusivo para cálculo da MDR padrão
 │   │   │   └── 📄 simulador_mdr-padrao.xlsx (E)
