@@ -3,7 +3,7 @@ Simulador completo de taxas de adquirência (MDR Padrão, MDR Flex e antecipaç�
    
 ## 🗂️ Estrutura do Projeto – Detalhada
 ```text
-📦 LiquiCalc (V)  
+📦 LiquiCalc   
 ├── 📁 0_conceitos/ (V)                              # Fundamentos técnicos e explicações de cálculo
 │   ├── 📄 0_mdr-padrao.md (E)                       # Explicação da MDR padrão: conceito, fórmula e aplicação
 │   ├── 📄 1_mdr-flex.md (E)                         # Explicação da MDR flexível (fator 1 e fator 2)
