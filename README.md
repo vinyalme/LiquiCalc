@@ -9,7 +9,7 @@ Simulador completo de taxas de adquirência (MDR Padrão, MDR Flex e antecipaç�
 │   ├── 📄 1_mdr-flex.md                             # Explicação da MDR flexível (fator 1 e fator 2)
 │   └── 📄 2_antecipacao.md                          # Como funciona a antecipação de recebíveis e seu impacto nos valores
 │
-├── 📁 1_simulacoes/ (V)
+├── 📁 1_simulacoes/ 
 │   ├── 📁 0_excel/ (E)
 │   │   ├── 📄 README.md **
 │   │   ├── 📁 0_LiquiCalc.1.3v/ (A)               # Versão consolidada com todos os cálculos em um único arquivo
