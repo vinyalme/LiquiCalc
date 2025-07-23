@@ -34,7 +34,7 @@ Simulador completo de taxas de adquirência (MDR Padrão, MDR Flex e antecipaç�
 │   │
 │   └── 📁 2_calculadora-web/ (E)                      # Simulações web interativas com HTML, CSS e JS
 │       ├── 📄 README.md **
-│       ├── 📁 LiquiCalc.3.3v/ (P)                     # Versão consolidada com todos os cálculos em uma única interface
+│       ├── 📁 LiquiCalc.3.3v/                         # Versão consolidada com todos os cálculos em uma única interface
 │       │   ├── 📄 index.html 
 │       │   ├── 📄 style.css 
 │       │   └── 📄 script.js 
