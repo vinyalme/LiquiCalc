@@ -52,7 +52,7 @@ Simulador completo de taxas de adquirência (MDR Padrão, MDR Flex e antecipaç�
 │           └── 📄 script.js 
 │
 ├── 📁 2_docs/ 
-│   └── 📄 roadmap.md                                  # Etapas planejadas, progresso e próximos passos do LiquiCalc
+│   └── 📄 roadmap.md                                # Etapas planejadas, progresso e próximos passos do LiquiCalc
 │
 ├── 📄 LICENSE                                         # Licença de uso do projeto (MIT License)
 └── 📄 README.md                                       # Apresentação geral: objetivo, uso, tecnologias e estrutura
