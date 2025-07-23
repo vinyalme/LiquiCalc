@@ -30,7 +30,7 @@ Simulador completo de taxas de adquirência (MDR Padrão, MDR Flex e antecipaç�
 │   │   ├── 📁 simulador_mdr-flex2.1v/ (P)             # Script exclusivo para cálculo da MDR flexível
 │   │   │   └── 📄 simulador_mdr-flex.bat (P)
 │   │   └── 📁 simulador_antecipacao2.2v/ (P)          # Script para MDR padrão + antecipação de recebíveis
-│   │       └── 📄 simulador_antecipacao.bat (P)
+│   │       └── 📄 simulador_antecipacao.bat 
 │   │
 │   └── 📁 2_calculadora-web/                          # Simulações web interativas com HTML, CSS e JS
 │       ├── 📄 README.md **
