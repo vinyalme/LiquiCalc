@@ -27,7 +27,7 @@ Simulador completo de taxas de adquirência (MDR Padrão, MDR Flex e antecipaç�
 │   │   │   └── 📄 LiquiCalc.bat 
 │   │   ├── 📁 simulador_mdr-padrao2.0v/             # Script exclusivo para cálculo da MDR padrão
 │   │   │   └── 📄 simulador_mdr-padrao.bat 
-│   │   ├── 📁 simulador_mdr-flex2.1v/                 # Script exclusivo para cálculo da MDR flexível
+│   │   ├── 📁 simulador_mdr-flex2.1v/               # Script exclusivo para cálculo da MDR flexível
 │   │   │   └── 📄 simulador_mdr-flex.bat 
 │   │   └── 📁 simulador_antecipacao2.2v/              # Script para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.bat 
