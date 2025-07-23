@@ -40,7 +40,7 @@ Simulador completo de taxas de adquirência (MDR Padrão, MDR Flex e antecipaç�
 │       │   └── 📄 script.js (P)
 │       ├── 📁 simulador_mdr-padrao3.0v/ (P)           # Simulador exclusivo para cálculo da MDR padrão
 │       │   ├── 📄 index.html (P)
-│       │   ├── 📄 style.css (P)
+│       │   ├── 📄 style.css 
 │       │   └── 📄 script.js 
 │       ├── 📁 simulador_mdr-flex3.1v/                 # Simulador exclusivo para cálculo da MDR flexível
 │       │   ├── 📄 index.html 
