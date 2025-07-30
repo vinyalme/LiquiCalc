@@ -117,7 +117,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 
 - Excel
 - Batch Script (.bat)
-- HTML / CSS / JavaScript
+- HTML / CSS / JavaScript / Python
 - Markdown
 - GitHub Pages *(futuramente)*
 
