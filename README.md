@@ -1,3 +1,9 @@
+# 💳 LiquiCalc
+
+**Simulador completo de taxas de adquirência** — MDR Padrão, MDR Flex e Antecipações — baseado em vendas no cartão.  
+Este projeto é a base para o futuro **app LiquiCalc**, uma calculadora simples e eficiente para vendedores e lojistas descobrirem **quanto realmente vão receber** após taxas e prazos.
+
+---
 # LiquiCalc 
 Simulador completo de taxas de adquirência (MDR Padrão, MDR Flex e antecipações) com base em vendas no cartão. Este projeto é a base para o futuro app LiquiCalc, focado em calcular o valor real a ser recebido por vendedores e lojistas.
    
