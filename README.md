@@ -18,7 +18,7 @@ O foco é mostrar **de forma clara e precisa quanto o cliente realmente recebe**
 
 ---
 
-## 🔧 Como usar
+## ⚙️ Como usar
 
 Escolha a versão que melhor se encaixa com o seu objetivo:
 
