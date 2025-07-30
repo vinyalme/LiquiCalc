@@ -112,3 +112,16 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 | **Rel.10**      | Evoluções futuras                | Evolução e Funcionalidades: planejamento e desenvolvimento de melhorias como PWA, suporte a idiomas, multi-moeda e dashboards                        | 4.0.0 (previsto) | Contínuo       | Pendente     |
 
 ---
+
+## 🛠️ Tecnologias utilizadas
+
+- Excel
+- Batch Script (.bat)
+- HTML / CSS / JavaScript
+- Markdown
+- GitHub Pages *(futuramente)*
+
+---
+
+© 2025 • Projeto LiquiCalc  
+Distribuído sob os termos da [MIT License](./LICENSE).
