@@ -113,7 +113,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 
 - Excel
 - Batch Script (.bat)
