@@ -52,7 +52,7 @@
 │   └── 📄 roadmap.md (A)                              # Etapas planejadas, progresso e próximos passos do LiquiCalc
 │
 ├── 📄 LICENSE (V)                                     # Licença de uso do projeto (MIT License)
-└── 📄 README.md (A)                                   # Apresentação geral: objetivo, uso, tecnologias e estrutura
+└── 📄 README.md (V)                                   # Apresentação geral: objetivo, uso, tecnologias e estrutura
 ```
 
 ## 📊 Classificações por Estado de Maturidade da Documentação
