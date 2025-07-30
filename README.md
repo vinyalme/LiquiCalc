@@ -5,6 +5,18 @@ Este projeto é a base para o futuro **app LiquiCalc**, uma calculadora simples 
 
 ---
 
+## 🎯 Objetivo
+
+Desenvolver uma ferramenta gratuita e acessível que auxilie qualquer pessoa a entender, simular e calcular os valores líquidos de vendas feitas no crédito/débito, considerando:
+
+- Taxas de adquirência (MDR padrão e flexível)
+- Antecipação de recebíveis
+- Impacto dos prazos e bandeiras no valor final
+- Comparação entre modalidades de recebimento
+
+O foco é mostrar **de forma clara e precisa quanto o cliente realmente recebe**, em cada cenário de venda.
+
+---
    
 ## 🗂️ Estrutura do Projeto – Detalhada
 ```text
