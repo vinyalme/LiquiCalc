@@ -29,8 +29,11 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 > Nenhuma instalação é necessária. Tudo funciona de forma local e offline.
 
 ---   
+
 ## 🗂️ Estrutura do Projeto – Detalhada
+
 ```text
+
 📦 LiquiCalc   
 ├── 📁 0_conceitos/                                  # Fundamentos técnicos e explicações de cálculo
 │   ├── 📄 0_mdr-padrao.md                           # Explicação da MDR padrão: conceito, fórmula e aplicação
@@ -84,6 +87,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │
 ├── 📄 LICENSE                                       # Licença de uso do projeto (MIT License)
 └── 📄 README.md                                     # Apresentação geral: objetivo, uso, tecnologias e estrutura
+
 ```
 
 ### **Cronograma de Releases — LiquiCalc (com tópicos, descrições e releases)**
