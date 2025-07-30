@@ -90,6 +90,29 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 
 ```
 
+---
+
+## 📅 Cronograma de Releases
+
+| Release  | Tópico                            | Descrição                                                                 | Versão       | Prazo Estimado | Status       |
+|----------|-----------------------------------|---------------------------------------------------------------------------|--------------|----------------|--------------|
+| Rel.1    | Conceito e modelagem técnica      | Estudo técnico dos fundamentos e fórmulas aplicáveis                      | 1.0.0        | 1 semana       | Em andamento |
+| Rel.1.1  | Testes iniciais                   | Simulações com dados reais para validar os cálculos                      | 1.0.1        | 1 dia          | Pendente     |
+| Rel.2    | Protótipos em Excel               | Criação das planilhas individuais e versão consolidada                   | 1.1.0–1.3.0  | 2 semanas      | Pendente     |
+| Rel.2.1  | Validação dos protótipos          | Testes controlados com base em dados reais                               | 1.3.1        | 1 dia          | Pendente     |
+| Rel.3    | Scripts executáveis (.bat)        | Simuladores em linha de comando para cada modalidade                     | 2.0.0–2.3.0  | 1 semana       | Pendente     |
+| Rel.3.1  | Testes dos scripts                | Validação dos menus, cálculos e comparações com Excel                   | 2.3.1        | 1 dia          | Pendente     |
+| Rel.4    | Interface Web interativa          | Protótipo Web com HTML/CSS/JS e simulações dinâmicas                     | 3.0.0–3.3.0  | 2 semanas      | Pendente     |
+| Rel.4.1  | Testes da interface Web           | Validação da lógica e funcionamento da interface                         | 3.3.1        | 1 dia          | Pendente     |
+| Rel.5    | Testes integrados                 | Comparações cruzadas entre Excel, .bat e Web                             | 3.3.2        | 1 semana       | Pendente     |
+| Rel.6    | Documentação de uso               | Guias rápidos, exemplos práticos e resolução de erros                    | 3.3.2        | 1 semana       | Pendente     |
+| Rel.7    | Empacotamento e publicação        | Geração de pacotes ZIP, instaladores e deploy no GitHub Pages            | 3.3.2        | 1 semana       | Pendente     |
+| Rel.8    | Coleta de feedback                | Distribuição beta com coleta de sugestões reais                          | 3.3.2        | 2 semanas      | Pendente     |
+| Rel.9    | Release oficial                   | Lançamento público estável da calculadora Web                            | 3.4.0        | 1 semana       | Pendente     |
+| Rel.10   | Evoluções futuras                 | Planejamento de novas funções: PWA, idiomas, moedas, dashboards, etc.    | 4.0.0 (prev) | Contínuo       | Pendente     |
+
+---
+
 ### **Cronograma de Releases — LiquiCalc (com tópicos, descrições e releases)**
 
 | Release         | Tópico                          | Descrição                                                                                                                                              | Versão           | Prazo Estimado | Status Atual |
