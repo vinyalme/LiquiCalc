@@ -3,7 +3,7 @@
 📦 LiquiCalc (V)  
 ├── 📁 0_conceitos/ (V)                              # Fundamentos técnicos e explicações de cálculo
 │   ├── 📄 0_mdr-padrao.md (R)                       # Explicação da MDR padrão: conceito, fórmula e aplicação
-│   ├── 📄 1_mdr-flex.md (E)                         # Explicação da MDR flexível (fator 1 e fator 2)
+│   ├── 📄 1_mdr-flex.md (R)                         # Explicação da MDR flexível (fator 1 e fator 2)
 │   └── 📄 2_antecipacao.md (E)                      # Como funciona a antecipação de recebíveis e seu impacto nos valores
 │
 ├── 📁 1_simulacoes/ (V)
