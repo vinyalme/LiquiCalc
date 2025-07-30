@@ -17,7 +17,18 @@ Desenvolver uma ferramenta gratuita e acessível que auxilie qualquer pessoa a e
 O foco é mostrar **de forma clara e precisa quanto o cliente realmente recebe**, em cada cenário de venda.
 
 ---
-   
+
+## 🔧 Como usar
+
+Escolha a versão que melhor se encaixa com o seu objetivo:
+
+- **Planilha Excel:** Acesse `1_simulacoes/0_excel/` e abra o arquivo `.xlsx` da versão desejada.
+- **Script .bat (modo texto):** Vá até `1_simulacoes/1_calculadora-bat/` e execute o arquivo `.bat`.
+- **Simulador Web:** Abra o arquivo `index.html` em `1_simulacoes/2_calculadora-web/` no navegador.
+
+> Nenhuma instalação é necessária. Tudo funciona de forma local e offline.
+
+---   
 ## 🗂️ Estrutura do Projeto – Detalhada
 ```text
 📦 LiquiCalc   
