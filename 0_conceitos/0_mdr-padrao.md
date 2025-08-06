@@ -19,5 +19,5 @@ Valor líquido = Valor bruto × (1 - Taxa MDR)
 Valor líquido = 1.000 × (1 - 0,0379) = R$ 962,10
 ```
 
----   
+---    
  
