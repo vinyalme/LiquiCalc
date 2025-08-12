@@ -136,17 +136,3 @@ Existem formas de reduzir ou contornar o impacto da MDR:
 - [Shield Bank – Como a MDR impacta seu negócio e como se livrar dela](https://shieldbank.com.br/blog/mdr-taxas-cartao/)  
 
 ---
-
-
-
-
-
-### 🔹 **1. MDR Padrão (Crédito à Vista ou Parcelado)**
-
-**Definição:**
-O valor da venda sofre uma taxa percentual única (MDR), independente do número de parcelas. O cliente recebe no prazo contratado (D+30, por exemplo).
-
-**Fórmula:**
-
-```text
-Valor líquido = Valor bruto × (1 - Taxa MDR)
