@@ -157,5 +157,3 @@ Valor líquido = Valor bruto × (1 - Taxa MDR)
 * Venda: R\$ 1.000,00
 * Taxa MDR: 3,79%
 * Prazo: D+30
-
-```text
