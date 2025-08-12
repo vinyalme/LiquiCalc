@@ -150,6 +150,3 @@ O valor da venda sofre uma taxa percentual única (MDR), independente do número
 
 ```text
 Valor líquido = Valor bruto × (1 - Taxa MDR)
-```
-
-**Exemplo:**
