@@ -97,7 +97,7 @@ O simulador de MDR padrão do LiquiCalc permite:
 
 ## 📉 Impacto no Negócio
 
-A MDR pode variar de **1,3% a 5%**, dependendo da adquirente, bandeira e negociação. Em empresas com margens apertadas, esse custo pode comprometer a rentabilidade.
+A MDR pode variar de **0,5% a 5%**, dependendo da adquirente, bandeira e negociação. Em empresas com margens apertadas, esse custo pode comprometer a rentabilidade.
 
 📊 Segundo especialistas, o Brasil possui uma das MDRs mais altas do mundo, especialmente em vendas parceladas.
 
