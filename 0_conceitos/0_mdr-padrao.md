@@ -70,7 +70,7 @@ A MDR não é uma taxa única, mas sim a soma de três componentes:
 🔍 Essa composição pode variar conforme:
 
 - Tipo de cartão (nacional, internacional, corporativo)  
-- Bandeira (Visa, Mastercard, Elo, etc.)  
+- Bandeira (Visa, Mastercard, Elo, Cabal, Amex, etc.) 
 - Segmento do lojista (MCC)  
 - Tipo de venda (presencial ou online)  
 
