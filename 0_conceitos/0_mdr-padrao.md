@@ -83,7 +83,7 @@ A MDR não é uma taxa única, mas sim a soma de três componentes:
 O simulador de MDR padrão do LiquiCalc permite:
 
 - Inserir o valor da venda  
-- Escolher a modalidade (débito, crédito à vista, crédito parcelado)  
+- Escolher a modalidade (Débito, Crédito à Vista, Crédito Parcelado, Pré-aprovação) 
 - Definir a taxa MDR  
 - Obter o valor líquido com precisão  
 
