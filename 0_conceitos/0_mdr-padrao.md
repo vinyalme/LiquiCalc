@@ -22,7 +22,7 @@ MDR (Merchant Discount Rate), ou Taxa de Desconto do Comerciante, é a tarifa co
 Ela remunera três agentes principais:
 
 - 🏦 A adquirente (maquininha)  
-- 🏁 A bandeira do cartão (Visa, Mastercard, Eloetc.)  
+- 🏁 A bandeira do cartão (Visa, Mastercard, Elo, Cabal, etc.)  
 - 🏛️ O banco emissor do cliente  
 
 📌 Exemplo: numa venda de R$ 1.000 com MDR de 3%, o lojista recebe R$ 970.
