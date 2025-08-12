@@ -134,5 +134,3 @@ Existem formas de reduzir ou contornar o impacto da MDR:
 - [iDinheiro – O que é MDR e como funciona](https://www.idinheiro.com.br/financas-pessoais/o-que-e-mdr/)  
 - [InfinitePay – O que é taxa MDR](https://blog.infinitepay.io/o-que-e-taxa-mdr/)  
 - [Shield Bank – Como a MDR impacta seu negócio e como se livrar dela](https://shieldbank.com.br/blog/mdr-taxas-cartao/)  
-
----
