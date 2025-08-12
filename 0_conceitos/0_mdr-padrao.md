@@ -31,7 +31,7 @@ A MDR pode variar conforme:
 
 - A bandeira do cartão  
 - A modalidade da venda (débito, crédito à vista, crédito parcelado)  
-- O prazo de recebimento (D+2, D+30, etc.)  
+- O prazo de recebimento (D+1, D+2, D+15, D+30 e etc.)  
 - O volume de vendas e a negociação com a adquirente  
 
 ---
