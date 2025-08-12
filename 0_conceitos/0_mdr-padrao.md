@@ -155,4 +155,3 @@ Valor líquido = Valor bruto × (1 - Taxa MDR)
 **Exemplo:**
 
 * Venda: R\$ 1.000,00
-* Taxa MDR: 3,79%
