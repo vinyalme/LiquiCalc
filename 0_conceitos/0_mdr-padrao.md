@@ -18,7 +18,7 @@
 
 ## 🧠 O que é MDR?
 
-MDR (Merchant Discount Rate), ou Taxa de Desconto do Comerciante, é a tarifa cobrada pelas adquirentes — como Cielo, Rede, Stone, InfinitePay — sobre cada transação feita com cartão de crédito ou débito. Essa taxa representa o custo do serviço de processamento do pagamento e é descontada automaticamente do valor da venda antes do repasse ao lojista.
+MDR (Merchant Discount Rate), ou Taxa de Desconto do Comerciante, é a tarifa cobrada pelas adquirentes — como Cielo, Rede, Stone, InfinitePay, Clover e etc — sobre cada transação feita com cartão de crédito ou débito. Essa taxa representa o custo do serviço de processamento do pagamento e é descontada automaticamente do valor da venda antes do repasse ao lojista.
 
 Ela remunera três agentes principais:
 
