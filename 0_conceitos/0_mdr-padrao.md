@@ -61,7 +61,8 @@ Valor Líquido = 500 × (1 - 0,028) = 500 × 0,972 = R$ 486,00
 
 ---
 
-### 💸 Fórmula de Cálculo da Taxa Cobrada
+## 💸 Fórmula de Cálculo da Taxa Cobrada
+A fórmula básica para calcular o valor da taxa cobrada em cima da venda é:
 ```plaintext
 Taxa Cobrada = Valor Bruto × MDR
 ```
