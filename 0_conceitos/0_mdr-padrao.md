@@ -57,6 +57,8 @@ Onde:
 Valor Líquido = 500 × (1 - 0,028) = 500 × 0,972 = R$ 486,00
 ```
 
+🔎 Ou seja, o empreendedor receberá **R$ 486,00 líquidos** pela venda.
+
 ---
 
 ## 🧩 Composição da MDR
