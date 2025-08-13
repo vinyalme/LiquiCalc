@@ -6,6 +6,7 @@
 
 - [🧠 O que é MDR?](#-o-que-é-mdr)
 - [📐 Fórmula de Cálculo](#-fórmula-de-cálculo)
+- [💸 Fórmula de Cálculo da Taxa Cobrada](#-fórmula-de-cálculo-da-taxa-cobrada)
 - [🧩 Composição da MDR](#-composição-da-mdr)
 - [📊 Aplicações no LiquiCalc](#-aplicações-no-liquicalc)
 - [📉 Impacto no Negócio](#-impacto-no-negócio)
