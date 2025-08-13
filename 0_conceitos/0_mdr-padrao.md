@@ -26,7 +26,8 @@ Ela remunera três agentes principais:
 - 🏁 A bandeira do cartão (Visa, Mastercard, Elo, Cabal, Amex, etc.)  
 - 🏛️ O banco emissor do cliente  
 
-📌 Exemplo: numa venda de R$ 1.000 com MDR de 3%, o lojista recebe R$ 970.
+📌 Exemplo: em uma venda de R$ 1.000 com MDR de 3%, o lojista recebe R$ 970, ou seja, paga R$ 30,00 em taxas. 
+
 
 A MDR pode variar conforme:
 
