@@ -95,7 +95,7 @@ A MDR não é uma taxa única, mas sim a soma de três componentes:
 - Tipo de cartão (Nacional, Internacional, Corporativo / Empresarial, Pré-pago, Débito, Crédito, Universitário / Jovem, Black / Infinite / Platinum, Cashback, Cartão de loja / Private Label, Virtual, Contactless (Aproximação), Cartão de benefícios e Cartão BNDES)
 - Bandeira (Visa, Mastercard, Elo, Cabal, Amex, etc.) 
 - Segmento do lojista (MCC)  
-- Tipo de venda (presencial ou online)  
+- Tipo de venda (Presencial ou Online)
 
 💡 Em geral, cartões corporativos e internacionais possuem taxas maiores.
 
