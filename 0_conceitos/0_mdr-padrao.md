@@ -97,7 +97,7 @@ A MDR não é uma taxa única, mas sim a soma de três componentes:
 - Segmento do lojista (MCC)  
 - Tipo de venda (Presencial ou Online)
 
-💡 Em geral, cartões corporativos e internacionais possuem taxas maiores.
+💡 Em geral, cartões corporativos, internacionais e Voucher possuem taxas maiores.
 
 ---
 
