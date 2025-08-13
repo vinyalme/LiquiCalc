@@ -61,6 +61,23 @@ Valor Líquido = 500 × (1 - 0,028) = 500 × 0,972 = R$ 486,00
 
 ---
 
+### 💸 Fórmula de Cálculo da Taxa Cobrada
+Taxa Cobrada = Valor Bruto × MDR
+
+Onde:  
+- Valor Bruto = valor total da venda  
+- MDR = taxa percentual aplicada pela adquirente (em decimal)
+
+**Exemplo prático:**  
+Venda de R$ 500,00 no crédito à vista com MDR de 2,8%:  
+```plaintext
+Taxa Cobrada = 500 × 0,028 = **R$ 14,00**
+```
+
+🔎 Ou seja, o empreendedor pagará **R$ 14,00** de taxa sobre essa venda.
+
+---
+
 ## 🧩 Composição da MDR
 
 A MDR não é uma taxa única, mas sim a soma de três componentes:
