@@ -56,7 +56,7 @@ A taxa de antecipação é aplicada de forma proporcional por parcela:
 | 3x       | 1x, 2x, 3x taxa sobre cada parcela |
 
 ```plaintext
-**Taxa Cobrada = Valor Líquido × (Taxa × Número de Parcelas)**
+Taxa Cobrada = Valor Líquido × (Taxa × Número de Parcelas)
 ````
 
 📌 Exemplo: Venda de R\$ 1.000 parcelada em 3x, com MDR de 3% e taxa de antecipação de 2%:
