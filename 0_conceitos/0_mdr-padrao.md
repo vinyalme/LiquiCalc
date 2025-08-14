@@ -102,6 +102,30 @@ A MDR não é uma taxa única, mas sim a soma de três componentes:
 
 ---
 
+## 📌 Contexto de Aplicação
+
+O **MDR Padrão** é aplicável apenas quando o lojista **não utiliza MDR Flex**. Dentro desse contexto, ele pode operar em três cenários distintos: 
+
+### ✅ 1. Sem Antecipação 
+- O lojista recebe conforme a **agenda financeira** da adquirente.
+- Exemplo: Crédito à vista → D+30 corridos (liquidação em dia útil).
+
+### ✅ 2. Com Antecipação Automática
+- O lojista contratou antecipação com recebimento em D+1, D+2, D+5, D+15 ou D+30.
+- A taxa de antecipação é aplicada **sobre o valor líquido** (após MDR Padrão).
+- A liquidação ocorre sempre em **dias úteis**.
+
+### ✅ 3. Com Antecipação Manual 
+- O lojista solicita antecipação pontual de um valor específico.
+- Pode ser usada em vendas de alto valor ou em momentos de necessidade de caixa.
+- A taxa é proporcional às parcelas antecipadas.
+
+### ❌ Quando o MDR Padrão não é aplicável 
+- Quando o lojista utiliza **MDR Flex**, que é uma modalidade exclusiva com recebimento automático em D+2.
+- Nesse caso, o MDR Padrão é substituído por uma estrutura de taxa única e não pode coexistir.
+  
+---
+
 ## 📊 Aplicações no LiquiCalc
 
 O simulador de MDR padrão do LiquiCalc permite:
