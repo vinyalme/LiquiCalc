@@ -106,7 +106,7 @@ A MDR não é uma taxa única, mas sim a soma de três componentes:
 
 O **MDR Padrão** é aplicável apenas quando o lojista **não utiliza MDR Flex**. Dentro desse contexto, ele pode operar em três cenários distintos: 
 
-✅ 1. Sem Antecipação 
+###✅ 1. Sem Antecipação 
 - O lojista recebe conforme a **agenda financeira** da adquirente.
 - Exemplo: Crédito à vista → D+30 corridos (liquidação em dia útil).
 
