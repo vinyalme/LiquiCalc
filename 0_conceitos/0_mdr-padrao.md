@@ -9,7 +9,7 @@
 - [💸 Fórmula de Cálculo da Taxa Cobrada](#-fórmula-de-cálculo-da-taxa-cobrada)
 - [🧩 Composição da MDR](#-composição-da-mdr)
 - [📊 Aplicações no LiquiCalc](#-aplicações-no-liquicalc)
-- [📌 Contexto de Aplicação](#contexto-de-aplicacao)
+- [📌 Contexto de Aplicação](#-contexto-de-aplicacao)
 - [📉 Impacto no Negócio](#-impacto-no-negócio)
 - [⚖️ Alternativas e Redução](#️-alternativas-e-redução)
 - [📎 Observações Importantes](#-observações-importantes)
