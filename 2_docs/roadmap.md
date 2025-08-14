@@ -4,7 +4,7 @@
 ├── 📁 0_conceitos/ (V)                              # Fundamentos técnicos e explicações de cálculo
 │   ├── 📄 0_mdr-padrao.md (V)                       # Explicação da MDR padrão: conceito, fórmula e aplicação
 │   ├── 📄 1_mdr-flex.md (A)                         # Explicação da MDR flexível (fator 1 e fator 2)
-│   └── 📄 2_antecipacao.md (R)                      # Como funciona a antecipação de recebíveis e seu impacto nos valores
+│   └── 📄 2_antecipacao.md (A)                      # Como funciona a antecipação de recebíveis e seu impacto nos valores
 │
 ├── 📁 1_simulacoes/ (V)
 │   ├── 📁 0_excel/ (E)
