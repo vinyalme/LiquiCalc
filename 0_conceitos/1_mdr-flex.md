@@ -100,6 +100,23 @@ A MDR Flexível pode ser composta por:
 
 ---
 
+## 📌 Contexto de Aplicação
+
+O MDR Flexível é utilizado exclusivamente quando o lojista opta por receber suas vendas com liquidação automática em D+2. 
+Essa modalidade não permite a contratação de antecipações adicionais (automáticas ou manuais), pois o modelo já considera o recebimento antecipado como padrão. 
+
+### ✅ Quando o MDR Flexível é aplicável 
+- O lojista contratou MDR Flex com liquidação em D+2.
+- A taxa é calculada com base nos fatores definidos (Fator 1 e Fator 2).
+- O valor líquido é recebido em até dois dias úteis após a venda.
+
+- ### ❌ Quando o MDR Flexível não é aplicável
+- Quando o lojista deseja receber conforme a agenda financeira (D+30, D+60...).
+- Quando o lojista utiliza antecipação automática com datas como D+1, D+5, D+15 etc.
+- Quando o lojista solicita antecipação manual de valores específicos.
+  
+---
+
 ## 📊 Aplicações no LiquiCalc
 
 O simulador LiquiCalc permite:
