@@ -111,7 +111,7 @@ Essa modalidade não permite a contratação de antecipações adicionais (autom
 - A taxa é calculada com base nos fatores definidos (Fator 1 e Fator 2).
 - O valor líquido é recebido em até dois dias úteis após a venda.
 
-- ### ❌ Quando o MDR Flexível não é aplicável
+### ❌ Quando o MDR Flexível não é aplicável
 - Quando o lojista deseja receber conforme a agenda financeira (D+30, D+60...).
 - Quando o lojista utiliza antecipação automática com datas como D+1, D+5, D+15 etc.
 - Quando o lojista solicita antecipação manual de valores específicos.
