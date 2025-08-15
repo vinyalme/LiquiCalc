@@ -147,7 +147,7 @@ O simulador de MDR padrão do LiquiCalc permite:
 
 A MDR pode variar de **0,5% a 5%**, dependendo da adquirente, bandeira e negociação. Em empresas com margens apertadas, esse custo pode comprometer a rentabilidade.
 
-📊 Segundo especialistas, o Brasil possui uma das MDRs mais altas do mundo, especialmente em vendas parceladas.
+📊 Segundo especialistas, o Brasil possui uma das MDRs mais altas do mundo, especialmente em vendas parceladas. (Fonte [Shield Bank](https://shieldbank.com.br/2024/10/20/o-que-e-taxa-mdr-como-ela-impacta-seu-negocio-e-como-se-livrar-dela/))
 
 🚫 Além disso, o lojista nem sempre tem visibilidade clara sobre a composição da taxa, o que dificulta a comparação entre maquininhas.
 
