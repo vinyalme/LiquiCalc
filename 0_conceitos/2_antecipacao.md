@@ -161,7 +161,7 @@ Formas de reduzir o impacto da antecipação:
 * [InfinitePay – Antecipação em D+1 e D+2](https://ajuda.infinitepay.io/pt-BR/articles/10301865-posso-antecipar-minhas-vendas-para-receber-no-mesmo-dia)
 * [Equals – Simulador de antecipação de recebíveis](https://equals.com.br/blog/simular-antecipacao-de-recebiveis-conheca-a-solucao-da-equals/)
 * [Serasa – Guia de antecipação para pequenos negócios](https://www.serasaexperian.com.br/conteudos/pequenas-empresas/)
-* [Caixa Econômica Federal – Como adquirir a Azulzinha, a maquininha da Caixa Econômica?](https://selectra.net.br/financas/maquininha/caixa)
+* [Caixa Econômica Federal – Como solicitar a antecipação de pagamentos na maquininha da Caixa?](https://selectra.net.br/financas/maquininha/caixa)
 * [Artigo científico - ANTECIPAÇÃO DE RECEBÍVEIS – IMPLICAÇÕES DENTRO DO CICLO FINANCEIRO](https://recima21.com.br/index.php/recima21/article/view/3739)
 * [Aspectos jurídicos e tributários - ANTECIPAÇÃO DE RECEBÍVEIS – IMPLICAÇÕES DENTRO DO CICLO FINANCEIRO](https://bonettiassociados.com.br/index.php/2025/02/27/antecipacao-de-recebiveis-de-cartoes-de-credito-aspectos-juridicos-e-tributarios/)
 * [Grupo ViaInvest – Como funciona a antecipação na maquininha](https://blog.grupoviainvest.com.br/antecipacao-na-maquina-de-cartao-como-funciona-e-por-que-utilizar/)
