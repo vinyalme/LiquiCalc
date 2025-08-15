@@ -1,3 +1,5 @@
+```text
+
 @echo off
 title LiquiCalc MDR Padrão - Simulador
 color 0A
@@ -75,3 +77,5 @@ echo Taxa Cobrada  = Valor Bruto * MDR
 echo.
 pause
 goto menu
+
+```
