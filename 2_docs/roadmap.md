@@ -19,7 +19,7 @@
 │   │       └── 📄 simulador_antecipacao.xlsx (E)
 │   │ 
 │   ├── 📁 1_calculadora-bat/ (E)
-│   │   ├── 📄 README.md **
+│   │   ├── 📄 README.md (E)
 │   │   ├── 📁 LiquiCalc.2.3v/ (P)                     # Versão consolidada com todos os cálculos em um único script
 │   │   │   └── 📄 LiquiCalc.bat (P)
 │   │   ├── 📁 simulador_mdr-padrao2.0v/ (P)           # Script exclusivo para cálculo da MDR padrão
