@@ -1,3 +1,5 @@
+Roadmap do Projeto LiquiCalc
+
 ## 🗂️ Estrutura do Projeto – Detalhada
 ```
 📦 LiquiCalc (V)  
