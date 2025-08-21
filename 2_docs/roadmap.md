@@ -1,4 +1,4 @@
-#Roadmap do Projeto LiquiCalc
+# Roadmap do Projeto LiquiCalc
 
 ## 🗂️ Estrutura do Projeto – Detalhada
 ```
