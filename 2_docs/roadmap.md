@@ -89,7 +89,7 @@
 
 
 Modelos que foi inpirado o liquicalc 
-https://github.com/Paulo-Gomes0681/simulador-cielo?tab=readme-ov-file 
-https://github.com/MASUKEMDAL/simulador.de.pos 
-https://github.com/mcpfbahia/Calculadora-de-Taxas 
-https://github.com/MaiconWesley/Simulador-de-Taxas
+- https://github.com/Paulo-Gomes0681/simulador-cielo?tab=readme-ov-file 
+- https://github.com/MASUKEMDAL/simulador.de.pos 
+- https://github.com/mcpfbahia/Calculadora-de-Taxas 
+- https://github.com/MaiconWesley/Simulador-de-Taxas
