@@ -82,7 +82,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │           ├── 📄 style.css 
 │           └── 📄 script.js 
 │
-├── 📁 2_docs/ 
+├── 📁 3_docs/ 
 │   └── 📄 roadmap.md                                # Etapas planejadas, progresso e próximos passos do LiquiCalc
 │
 ├── 📄 LICENSE                                       # Licença de uso do projeto (MIT License)
