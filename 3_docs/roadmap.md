@@ -50,7 +50,7 @@
 │           ├── 📄 style.css (P)
 │           └── 📄 script.js (P)
 │
-├── 📁 2_docs/ (V)
+├── 📁 3_docs/ (V)
 │   └── 📄 roadmap.md (A)                              # Etapas planejadas, progresso e próximos passos do LiquiCalc
 │
 ├── 📄 LICENSE (V)                                     # Licença de uso do projeto (MIT License)
