@@ -1,6 +1,101 @@
 # Roadmap do Projeto LiquiCalc
 
 ## 🗂️ Estrutura do Projeto – Detalhada
+
+```
+
+📦 LiquiCalc   
+├── 📁 0_conceitos/                                  # Fundamentos técnicos e explicações de cálculo
+│   ├── 📄 0_mdr-padrao.md                           # Explicação da MDR padrão: conceito, fórmula e aplicação
+│   ├── 📄 1_mdr-flex.md                             # Explicação da MDR flexível (fator 1 e fator 2)
+│   └── 📄 2_antecipacao.md                          # Como funciona a antecipação de recebíveis e seu impacto nos valores
+│
+├── 📁 1_simulacoes/ 
+│   ├── 📁 0_excel/ 
+│   │   ├── 📄 README.md **
+│   │   ├── 📁 0_LiquiCalc.1.3v/                     # Versão consolidada com todos os cálculos em um único arquivo
+│   │   │   └── 📄 LiquiCalc.1.3.xlsx 
+│   │   ├── 📁 1_simulador_mdr-padrao1.0v/           # Simulador exclusivo para cálculo da MDR padrão
+│   │   │   └── 📄 simulador_mdr-padrao.xlsx
+│   │   ├── 📁 2_simulador_mdr-flex1.1v/             # Simulador exclusivo para cálculo da MDR flexível
+│   │   │   └── 📄 simulador_mdr-flex.xlsx 
+│   │   └── 📁 3_simulador_antecipacao1.2v/          # Simulador para MDR padrão + antecipação de recebíveis
+│   │       └── 📄 simulador_antecipacao.xlsx 
+│   │ 
+│   ├── 📁 1_calculadora-bat/ 
+│   │   ├── 📄 README.md 
+│   │   ├── 📁 0_LiquiCalc.2.3v/                       # Versão consolidada com todos os cálculos em um único script
+│   │   │   └── 📄 LiquiCalc.bat 
+│   │   ├── 📁 1_simulador_mdr-padrao2.0v/             # Script exclusivo para cálculo da MDR padrão
+│   │   │   └── 📄 simulador_mdr-padrao.bat 
+│   │   ├── 📁 2_simulador_mdr-flex2.1v/               # Script exclusivo para cálculo da MDR flexível
+│   │   │   └── 📄 simulador_mdr-flex.bat 
+│   │   └── 📁 3_simulador_antecipacao2.2v/            # Script para MDR padrão + antecipação de recebíveis
+│   │       └── 📄 simulador_antecipacao.bat 
+│   │
+│   └── 📁 2_calculadora-web/                          # Simulações web interativas com HTML, CSS e JS
+│       ├── 📄 README.md **
+│       ├── 📁 0_LiquiCalc.3.3v/                       # Versão consolidada com todos os cálculos em uma única interface
+│       │   ├── 📄 index.html 
+│       │   ├── 📄 style.css 
+│       │   └── 📄 script.js 
+│       ├── 📁 1_simulador_mdr-padrao3.0v/             # Simulador exclusivo para cálculo da MDR padrão
+│       │   ├── 📄 index.html 
+│       │   ├── 📄 style.css 
+│       │   └── 📄 script.js 
+│       ├── 📁 2_simulador_mdr-flex3.1v/               # Simulador exclusivo para cálculo da MDR flexível
+│       │   ├── 📄 index.html 
+│       │   ├── 📄 style.css 
+│       │   └── 📄 script.js 
+│       └── 📁 3_simulador_antecipacao3.2v/            # Simulador para MDR padrão + antecipação de recebíveis
+│           ├── 📄 index.html 
+│           ├── 📄 style.css 
+│           └── 📄 script.js 
+│
+├── 📁 2_testes/ 
+│   ├── 📄 README.md                                  # Visão geral dos testes: objetivo, escopo e regras de validação
+│   ├── 📁 0_conceitos_teste/                         # Testes conceituais para validar a lógica dos cálculos do LiquiCalc
+│   │   ├── 📄 0_teste_conceito_mdr-padrao.md         # Teste conceitual da MDR padrão
+│   │   ├── 📄 1_teste_conceito_mdr-flex.md           # Teste conceitual da MDR flexível
+│   │   └── 📄 2_teste_conceito_antecipacao.md        # Teste conceitual da antecipação de recebíveis
+│   │
+│   ├── 📁 1_excel_teste/                             # Simuladores em Excel para testes manuais e validação visual
+│   │   ├── 📁 0_LiquiCalc.1.3v/                    
+│   │   │   └── 📄 teste_calculo_liquicalc_1.3.md     # Teste de cálculo da versão consolidada 1.3
+│   │   ├── 📁 1_simulador_mdr-padrao1.0v/           
+│   │   │   └── 📄 teste_calculo_mdr-padrao_1.0.md    # Teste de cálculo da MDR padrão versão 1.0
+│   │   ├── 📁 2_simulador_mdr-flex1.1v/             
+│   │   │   └── 📄 teste_calculo_mdr-flex_1.1.md      # Teste de cálculo da MDR flexível versão 1.1
+│   │   └── 📁 3_simulador_antecipacao1.2v/         
+│   │       └── 📄 teste_calculo_antecipacao_1.2.md   # Teste de cálculo da antecipação versão 1.2
+│   │
+│   ├── 📁 2_calculadora-bat_teste/                   # Scripts em BAT para execução automatizada dos cálculos via terminal
+│   │   ├── 📁 0_LiquiCalc.2.3v/                       
+│   │   │   └── 📄 teste_calculo_liquicalc_2.3.md     # Teste de cálculo da versão consolidada 2.3
+│   │   ├── 📁 1_simulador_mdr-padrao2.0v/             
+│   │   │   └── 📄 teste_calculo_mdr-padrao_2.0.md    # Teste de cálculo da MDR padrão versão 2.0
+│   │   ├── 📁 2_simulador_mdr-flex2.1v/              
+│   │   │   └── 📄 teste_calculo_mdr-flex_2.1.md      # Teste de cálculo da MDR flexível versão 2.1
+│   │   └── 📁 3_simulador_antecipacao2.2v/            
+│   │       └── 📄 teste_calculo_antecipacao_2.2.md   # Teste de cálculo da antecipação versão 2.2
+│   │
+│   └── 📁 3_calculadora-web_teste/                   # Interfaces web interativas para simulação dos cálculos via navegador
+│       ├── 📁 0_LiquiCalc.3.3v/                       
+│       │   └── 📄 teste_calculo_liquicalc_3.3.md     # Teste de cálculo da versão consolidada 3.3
+│       ├── 📁 1_simulador_mdr-padrao3.0v/             
+│       │   └── 📄 teste_calculo_mdr-padrao_3.0.md    # Teste de cálculo da MDR padrão versão 3.0
+│       ├── 📁 2_simulador_mdr-flex3.1v/               
+│       │   └── 📄 teste_calculo_mdr-flex_3.1.md      # Teste de cálculo da MDR flexível versão 3.1
+│       └── 📁 3_simulador_antecipacao3.2v/            
+│           └── 📄 teste_calculo_antecipacao_3.2.md   # Teste de cálculo da antecipação versão 3.2
+│
+├── 📁 3_docs/ 
+│   └── 📄 roadmap.md                                # Etapas planejadas, progresso e próximos passos do LiquiCalc
+│
+├── 📄 LICENSE                                       # Licença de uso do projeto (MIT License)
+└── 📄 README.md                                     # Apresentação geral: objetivo, uso, tecnologias e estrutura
+
+```
 ```
 📦 LiquiCalc (V)  
 ├── 📁 0_conceitos/ (V)                              # Fundamentos técnicos e explicações de cálculo
