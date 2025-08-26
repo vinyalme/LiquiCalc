@@ -1,3 +1,5 @@
+```text
+
 @echo off
 title LiquiCalc MDR Flex - Simulador
 color 0B
@@ -126,3 +128,4 @@ echo.
 pause
 goto menu
 
+```
