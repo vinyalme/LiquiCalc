@@ -33,24 +33,24 @@
 │   │   └── 📁 3_simulador_antecipacao2.2v/ (P)        # Script para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.bat (P)
 │   │
-│   └── 📁 2_calculadora-web/                          # Simulações web interativas com HTML, CSS e JS
-│       ├── 📄 README.md **
-│       ├── 📁 0_LiquiCalc.3.3v/                       # Versão consolidada com todos os cálculos em uma única interface
-│       │   ├── 📄 index.html 
-│       │   ├── 📄 style.css 
-│       │   └── 📄 script.js 
-│       ├── 📁 1_simulador_mdr-padrao3.0v/             # Simulador exclusivo para cálculo da MDR padrão
-│       │   ├── 📄 index.html 
-│       │   ├── 📄 style.css 
-│       │   └── 📄 script.js 
-│       ├── 📁 2_simulador_mdr-flex3.1v/               # Simulador exclusivo para cálculo da MDR flexível
-│       │   ├── 📄 index.html 
-│       │   ├── 📄 style.css 
-│       │   └── 📄 script.js 
-│       └── 📁 3_simulador_antecipacao3.2v/            # Simulador para MDR padrão + antecipação de recebíveis
-│           ├── 📄 index.html 
-│           ├── 📄 style.css 
-│           └── 📄 script.js 
+│   └── 📁 2_calculadora-web/ (P)                      # Simulações web interativas com HTML, CSS e JS
+│       ├── 📄 README.md (P)
+│       ├── 📁 0_LiquiCalc.3.3v/ (P)                   # Versão consolidada com todos os cálculos em uma única interface
+│       │   ├── 📄 index.html (P)
+│       │   ├── 📄 style.css (P)
+│       │   └── 📄 script.js (P)
+│       ├── 📁 1_simulador_mdr-padrao3.0v/ (P)         # Simulador exclusivo para cálculo da MDR padrão
+│       │   ├── 📄 index.html (P)
+│       │   ├── 📄 style.css (P)
+│       │   └── 📄 script.js (P)
+│       ├── 📁 2_simulador_mdr-flex3.1v/ (P)           # Simulador exclusivo para cálculo da MDR flexível
+│       │   ├── 📄 index.html (P)
+│       │   ├── 📄 style.css (P)
+│       │   └── 📄 script.js (P)
+│       └── 📁 3_simulador_antecipacao3.2v/ (P)        # Simulador para MDR padrão + antecipação de recebíveis
+│           ├── 📄 index.html (P)
+│           ├── 📄 style.css (P)
+│           └── 📄 script.js (P)
 │
 ├── 📁 2_testes/ 
 │   ├── 📄 README.md                                  # Visão geral dos testes: objetivo, escopo e regras de validação
