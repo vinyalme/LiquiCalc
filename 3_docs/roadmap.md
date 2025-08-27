@@ -79,15 +79,15 @@
 │   │   └── 📁 3_simulador_antecipacao2.2v/ (P)           
 │   │       └── 📄 teste_calculo_antecipacao_2.2.md (P)  # Teste de cálculo da antecipação versão 2.2
 │   │
-│   └── 📁 3_calculadora-web_teste/                   # Interfaces web interativas para simulação dos cálculos via navegador
-│       ├── 📁 0_LiquiCalc.3.3v/                       
-│       │   └── 📄 teste_calculo_liquicalc_3.3.md     # Teste de cálculo da versão consolidada 3.3
-│       ├── 📁 1_simulador_mdr-padrao3.0v/             
-│       │   └── 📄 teste_calculo_mdr-padrao_3.0.md    # Teste de cálculo da MDR padrão versão 3.0
-│       ├── 📁 2_simulador_mdr-flex3.1v/               
-│       │   └── 📄 teste_calculo_mdr-flex_3.1.md      # Teste de cálculo da MDR flexível versão 3.1
-│       └── 📁 3_simulador_antecipacao3.2v/            
-│           └── 📄 teste_calculo_antecipacao_3.2.md   # Teste de cálculo da antecipação versão 3.2
+│   └── 📁 3_calculadora-web_teste/ (P)                  # Interfaces web interativas para simulação dos cálculos via navegador
+│       ├── 📁 0_LiquiCalc.3.3v/ (P)                      
+│       │   └── 📄 teste_calculo_liquicalc_3.3.md (P)    # Teste de cálculo da versão consolidada 3.3
+│       ├── 📁 1_simulador_mdr-padrao3.0v/ (P)            
+│       │   └── 📄 teste_calculo_mdr-padrao_3.0.md (P)   # Teste de cálculo da MDR padrão versão 3.0
+│       ├── 📁 2_simulador_mdr-flex3.1v/ (P)              
+│       │   └── 📄 teste_calculo_mdr-flex_3.1.md (P)     # Teste de cálculo da MDR flexível versão 3.1
+│       └── 📁 3_simulador_antecipacao3.2v/ (P)           
+│           └── 📄 teste_calculo_antecipacao_3.2.md (P)  # Teste de cálculo da antecipação versão 3.2
 │
 ├── 📁 3_docs/ (V)
 │   └── 📄 roadmap.md (V)                            # Etapas planejadas, progresso e próximos passos do LiquiCalc
