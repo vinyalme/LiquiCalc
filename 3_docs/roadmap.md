@@ -90,7 +90,7 @@
 │           └── 📄 teste_calculo_antecipacao_3.2.md (P)  # Teste de cálculo da antecipação versão 3.2
 │
 ├── 📁 3_docs/ (V)
-│   └── 📄 roadmap.md (V)                            # Etapas planejadas, progresso e próximos passos do LiquiCalc
+│   └── 📄 roadmap.md (A)                            # Etapas planejadas, progresso e próximos passos do LiquiCalc
 │
 ├── 📄 LICENSE (V)                                   # Licença de uso do projeto (MIT License)
 └── 📄 README.md (V)                                 # Apresentação geral: objetivo, uso, tecnologias e estrutura
