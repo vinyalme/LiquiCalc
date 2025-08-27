@@ -53,21 +53,21 @@
 │           └── 📄 script.js (P)
 │
 ├── 📁 2_testes/ (P)
-│   ├── 📄 README.md (P)                              # Visão geral dos testes: objetivo, escopo e regras de validação
-│   ├── 📁 0_conceitos_teste/ (P)                     # Testes conceituais para validar a lógica dos cálculos do LiquiCalc
-│   │   ├── 📄 0_teste_conceito_mdr-padrao.md (P)     # Teste conceitual da MDR padrão
-│   │   ├── 📄 1_teste_conceito_mdr-flex.md (P)       # Teste conceitual da MDR flexível
-│   │   └── 📄 2_teste_conceito_antecipacao.md (P)    # Teste conceitual da antecipação de recebíveis
+│   ├── 📄 README.md (P)                                 # Visão geral dos testes: objetivo, escopo e regras de validação
+│   ├── 📁 0_conceitos_teste/ (P)                        # Testes conceituais para validar a lógica dos cálculos do LiquiCalc
+│   │   ├── 📄 0_teste_conceito_mdr-padrao.md (P)        # Teste conceitual da MDR padrão
+│   │   ├── 📄 1_teste_conceito_mdr-flex.md (P)          # Teste conceitual da MDR flexível
+│   │   └── 📄 2_teste_conceito_antecipacao.md (P)       # Teste conceitual da antecipação de recebíveis
 │   │
-│   ├── 📁 1_excel_teste/                             # Simuladores em Excel para testes manuais e validação visual
-│   │   ├── 📁 0_LiquiCalc.1.3v/                    
-│   │   │   └── 📄 teste_calculo_liquicalc_1.3.md     # Teste de cálculo da versão consolidada 1.3
-│   │   ├── 📁 1_simulador_mdr-padrao1.0v/           
-│   │   │   └── 📄 teste_calculo_mdr-padrao_1.0.md    # Teste de cálculo da MDR padrão versão 1.0
-│   │   ├── 📁 2_simulador_mdr-flex1.1v/             
-│   │   │   └── 📄 teste_calculo_mdr-flex_1.1.md      # Teste de cálculo da MDR flexível versão 1.1
-│   │   └── 📁 3_simulador_antecipacao1.2v/         
-│   │       └── 📄 teste_calculo_antecipacao_1.2.md   # Teste de cálculo da antecipação versão 1.2
+│   ├── 📁 1_excel_teste/ (P)                            # Simuladores em Excel para testes manuais e validação visual
+│   │   ├── 📁 0_LiquiCalc.1.3v/ (P)                  
+│   │   │   └── 📄 teste_calculo_liquicalc_1.3.md (P)    # Teste de cálculo da versão consolidada 1.3
+│   │   ├── 📁 1_simulador_mdr-padrao1.0v/ (P)          
+│   │   │   └── 📄 teste_calculo_mdr-padrao_1.0.md (P)   # Teste de cálculo da MDR padrão versão 1.0
+│   │   ├── 📁 2_simulador_mdr-flex1.1v/ (P)            
+│   │   │   └── 📄 teste_calculo_mdr-flex_1.1.md (P)     # Teste de cálculo da MDR flexível versão 1.1
+│   │   └── 📁 3_simulador_antecipacao1.2v/ (P)         
+│   │       └── 📄 teste_calculo_antecipacao_1.2.md (P)  # Teste de cálculo da antecipação versão 1.2
 │   │
 │   ├── 📁 2_calculadora-bat_teste/                   # Scripts em BAT para execução automatizada dos cálculos via terminal
 │   │   ├── 📁 0_LiquiCalc.2.3v/                       
