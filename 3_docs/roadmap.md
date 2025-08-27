@@ -52,12 +52,12 @@
 │           ├── 📄 style.css (P)
 │           └── 📄 script.js (P)
 │
-├── 📁 2_testes/ 
-│   ├── 📄 README.md                                  # Visão geral dos testes: objetivo, escopo e regras de validação
-│   ├── 📁 0_conceitos_teste/                         # Testes conceituais para validar a lógica dos cálculos do LiquiCalc
-│   │   ├── 📄 0_teste_conceito_mdr-padrao.md         # Teste conceitual da MDR padrão
-│   │   ├── 📄 1_teste_conceito_mdr-flex.md           # Teste conceitual da MDR flexível
-│   │   └── 📄 2_teste_conceito_antecipacao.md        # Teste conceitual da antecipação de recebíveis
+├── 📁 2_testes/ (P)
+│   ├── 📄 README.md (P)                              # Visão geral dos testes: objetivo, escopo e regras de validação
+│   ├── 📁 0_conceitos_teste/ (P)                     # Testes conceituais para validar a lógica dos cálculos do LiquiCalc
+│   │   ├── 📄 0_teste_conceito_mdr-padrao.md (P)     # Teste conceitual da MDR padrão
+│   │   ├── 📄 1_teste_conceito_mdr-flex.md (P)       # Teste conceitual da MDR flexível
+│   │   └── 📄 2_teste_conceito_antecipacao.md (P)    # Teste conceitual da antecipação de recebíveis
 │   │
 │   ├── 📁 1_excel_teste/                             # Simuladores em Excel para testes manuais e validação visual
 │   │   ├── 📁 0_LiquiCalc.1.3v/                    
