@@ -28,7 +28,7 @@
 │   │   │   └── 📄 LiquiCalc.bat (P)
 │   │   ├── 📁 1_simulador_mdr-padrao2.0v/ (P)         # Script exclusivo para cálculo da MDR padrão
 │   │   │   └── 📄 simulador_mdr-padrao.bat (P)
-│   │   ├── 📁 2_simulador_mdr-flex2.1v/ (P)           # Script exclusivo para cálculo da MDR flexível
+│   │   ├── 📁 2_simulador_mdr-flex2.1v/ (R)           # Script exclusivo para cálculo da MDR flexível
 │   │   │   └── 📄 simulador_mdr-flex.bat (P)
 │   │   └── 📁 3_simulador_antecipacao2.2v/ (P)        # Script para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.bat (P)
