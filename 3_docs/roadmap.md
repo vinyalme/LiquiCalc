@@ -22,7 +22,7 @@
 │   │   └── 📁 3_simulador_antecipacao1.2v/ (P)      # Simulador para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.xlsx (P)
 │   │ 
-│   ├── 📁 1_calculadora-bat/ (P)
+│   ├── 📁 1_simulador-bat/ (V)
 │   │   ├── 📄 README.md (P)
 │   │   ├── 📁 0_LiquiCalc.2.3v/ (P)                   # Versão consolidada com todos os cálculos em um único script
 │   │   │   └── 📄 LiquiCalc.bat (P)
