@@ -26,7 +26,7 @@ A MDR Flexível é uma variação dinâmica da taxa de desconto aplicada sobre o
 - **Fator 1**: percentual base, definido por risco ou perfil do cliente  
 - **Fator 2**: ajustador contextual, que varia conforme prazo, volume ou tipo de operação  
 
-📌 Exemplo: numa venda de R$ 100.000 com Fator 1 de 2,5% e Fator 2 de 1,2, o MDR final será de 3%, e o lojista receberá R$ 97.000.
+📌 Exemplo: numa venda de R$ 100.000,00 com Fator 1 de 2,5% e Fator 2 de 1,2, o MDR final será de 3%, e o lojista receberá R$ 97.000,00.
 
 Essa abordagem permite maior precisão na análise de liquidez e personalização da taxa conforme o contexto da operação.
 
