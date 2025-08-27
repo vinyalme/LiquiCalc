@@ -1,108 +1,70 @@
+# **LiquiCalc – Testes e Validação**
 
-## 🗂️ 1. Estrutura de Pastas
-
-```
-📦 LiquiCalc
-├── 📁 1_testes/
-│   ├── 📁 mdr-padrao/
-│   │   ├── 📄 README.md
-│   │   ├── 📊 testes_mdr_padrao.xlsx
-```
+### 🎯 Objetivo  
+Esta pasta tem como finalidade validar a precisão dos cálculos realizados pelo LiquiCalc em suas diferentes versões: Excel, scripts BAT e interface Web. Os testes garantem que os resultados estejam alinhados com os conceitos financeiros definidos na pasta de fundamentos técnicos.
 
 ---
 
-## 📄 2. Conteúdo do `README.md`
+### 📂 Escopo dos Testes  
+Os testes estão organizados em quatro categorias principais:
 
-Este é o arquivo de documentação em Markdown, pronto para ser usado no GitHub ou qualquer repositório:
+- **🧪 Testes Conceituais**  
+  Validam a lógica teórica dos cálculos, como MDR padrão, MDR flexível e antecipação de recebíveis.  
+  Acesse aqui: *🧪 Testes Conceituais*
 
-```markdown
-# 🧪 Testes de Cálculo Manual – MDR Padrão
+- **📊 Testes em Excel**  
+  Permitem conferência manual dos cálculos e fórmulas aplicadas nas planilhas.  
+  Acesse aqui: *📊 Testes em Excel*
 
-Esta pasta contém testes manuais que validam os cálculos da modalidade **MDR Padrão** utilizados no projeto **LiquiCalc**.
+- **🖥️ Testes Automatizados via BAT**  
+  Executam os scripts no terminal para verificar precisão e robustez dos resultados.  
+  Acesse aqui: *🖥️ Testes BAT*
 
-Todos os cálculos aqui apresentados seguem rigorosamente os conceitos definidos em:
-
-```
-📦 LiquiCalc
-├── 📁 0_conceitos/
-│   ├── 📄 0_mdr-padrao.md
-```
-
-Esse documento técnico explica:
-
-- O que é MDR (Merchant Discount Rate)  
-- Como calcular o valor líquido de uma transação  
-- Quais fórmulas devem ser aplicadas em cada tipo de recebimento  
-- Quais arredondamentos e regras devem ser respeitados
-
-> ⚠️ **Importante:** Esta pasta não é apenas uma planilha de testes. Ela é uma **validação prática** dos conceitos teóricos que sustentam todo o projeto LiquiCalc. Cada teste aqui serve como prova de que os cálculos estão corretos, consistentes e confiáveis.
+- **🌐 Testes Interativos Web**  
+  Validam a interface visual, os inputs e outputs, além da usabilidade geral.  
+  Acesse aqui: *🌐 Testes Web*
 
 ---
 
-## 🔍 1. Expectativa Esperada (Cenário Base)
+### 📏 Regras de Validação
 
-### 🧾 Parâmetros do Cenário
-
-- Tipo de transação: Crédito à vista  
-- Valor da venda: R$ 1.000,00  
-- MDR aplicado: 4.00%
-
-### 🧮 Fórmulas Aplicadas
-
-**1. Cálculo do valor retido (MDR):**  
-```plaintext
-Valor retido = Valor da venda × MDR%
-Valor retido = 1.000 × 0,04 = R$ 40,00
-```
-
-**2. Cálculo do valor líquido a receber:**  
-```plaintext
-Valor líquido = Valor da venda − Valor retido
-Valor líquido = 1.000 − 40,00 = R$ 960,00
-```
+- Todos os testes devem ser comparados com os conceitos definidos na pasta de fundamentos técnicos.  
+- Os valores esperados devem estar documentados nos arquivos de teste correspondentes.  
+- Cada versão do LiquiCalc deve conter pelo menos um caso de teste completo.  
+- Erros ou divergências devem ser registrados com descrição clara, versão afetada, passos para reprodução e, se possível, sugestão de correção.
 
 ---
 
-## 🔢 2. Testes com Cálculo Manual – MDR Padrão
+### 📋 Formato dos Relatórios de Teste
+
+Cada pasta de teste conterá, ao final, uma tabela com os seguintes campos:
+
+#### 🧾 Cabeçalho da Tabela de Testes
 
 | Teste | Tipo | Valor da Venda | MDR (%) | 🧮 Valor Retido (Taxa) | 🧮 Valor Líquido | ✅ Verificação (Líquido + Taxa = Venda?) | Diferença | Precisão |
-|-------|------|----------------|---------|------------------------|------------------|------------------------------------------|------------|----------|
-| 1 | Débito | R$ 100,00 | 2.50 | R$ 100,00 × 2.5% = R$ 2,50 | R$ 100,00 − R$ 2,50 = R$ 97,50 | 97,50 + 2,50 = ✅ R$ 100,00 | R$ 0,00 | 100,00% |
-| 2 | Débito | R$ 250,00 | 2.50 | R$ 250,00 × 2.5% = R$ 6,25 | R$ 250,00 − R$ 6,25 = R$ 243,75 | 243,75 + 6,25 = ✅ R$ 250,00 | R$ 0,00 | 100,00% |
-| 3 | Débito | R$ 300,00 | 2.50 | R$ 300,00 × 2.5% = R$ 7,50 | R$ 300,00 − R$ 7,50 = R$ 292,50 | 292,50 + 7,50 = ✅ R$ 300,00 | R$ 0,00 | 100,00% |
-| 4 | Crédito à vista | R$ 500,00 | 4.00 | R$ 500,00 × 4% = R$ 20,00 | R$ 500,00 − R$ 20,00 = R$ 480,00 | 480,00 + 20,00 = ✅ R$ 500,00 | R$ 0,00 | 100,00% |
-| 5 | Crédito à vista | R$ 750,00 | 3.80 | R$ 750,00 × 3.8% = R$ 28,50 | R$ 750,00 − R$ 28,50 = R$ 721,50 | 721,50 + 28,50 = ✅ R$ 750,00 | R$ 0,00 | 100,00% |
-| 6 | Crédito à vista | R$ 1.000,00 | 4.00 | R$ 1.000,00 × 4% = R$ 40,00 | R$ 1.000,00 − R$ 40,00 = R$ 960,00 | 960,00 + 40,00 = ✅ R$ 1.000,00 | R$ 0,00 | 100,00% |
-| 7 | Crédito à vista | R$ 1.500,00 | 4.00 | R$ 1.500,00 × 4% = R$ 60,00 | R$ 1.500,00 − R$ 60,00 = R$ 1.440,00 | 1.440,00 + 60,00 = ✅ R$ 1.500,00 | R$ 0,00 | 100,00% |
-| 8 | Parcelado 3x | R$ 1.000,00 | 5.50 | R$ 1.000,00 × 5.5% = R$ 55,00 | R$ 1.000,00 − R$ 55,00 = R$ 945,00 | 945,00 + 55,00 = ✅ R$ 1.000,00 | R$ 0,00 | 100,00% |
-| 9 | Parcelado 6x | R$ 2.000,00 | 6.00 | R$ 2.000,00 × 6% = R$ 120,00 | R$ 2.000,00 − R$ 120,00 = R$ 1.880,00 | 1.880,00 + 120,00 = ✅ R$ 2.000,00 | R$ 0,00 | 100,00% |
-| 10 | Parcelado 12x | R$ 5.000,00 | 6.50 | R$ 5.000,00 × 6.5% = R$ 325,00 | R$ 5.000,00 − R$ 325,00 = R$ 4.675,00 | 4.675,00 + 325,00 = ✅ R$ 5.000,00 | R$ 0,00 | 100,00% |
+|-------|------|----------------|---------|------------------------|------------------|------------------------------------------|-----------|----------|
+
+Essa tabela permite visualizar rapidamente a acurácia dos cálculos realizados em cada simulação.
 
 ---
 
-## 📊 3. Resumo de Precisão dos Testes
+### 📊 Resumo de Precisão dos Testes
 
-| Métrica               | Resultado     |
-|-----------------------|---------------|
-| Diferença Máxima      | R$ 0,00       |
-| Diferença Mínima      | R$ 0,00       |
-| Precisão Média        | 100,00%       |
-| Precisão Mínima       | 100,00%       |
-| Precisão Máxima       | 100,00%       |
+| Métrica             | Resultado  |
+|---------------------|------------|
+| Diferença Máxima    | R$ 0,00    |
+| Diferença Mínima    | R$ 0,00    |
+| Precisão Média      | 100,00%    |
+| Precisão Mínima     | 100,00%    |
+| Precisão Máxima     | 100,00%    |
 
-> ✅ **Conclusão:** Os cálculos manuais estão matematicamente exatos e seguem fielmente os conceitos definidos no documento técnico. Essa validação reforça a confiabilidade do LiquiCalc para a modalidade MDR Padrão.
-```
+> Esse resumo serve como conclusão final da confiabilidade dos cálculos realizados por cada versão do LiquiCalc.
 
 ---
 
-## 📊 3. Planilha Excel (`testes_mdr_padrao.xlsx`)
+### 📝 Considerações Finais
 
-A planilha inclui:
-
-- Todas as 10 linhas de teste
-- Fórmulas aplicadas nas células
-- Colunas organizadas conforme o README
-- Cálculo automático de diferença e precisão
-- Verificação da soma (líquido + taxa = venda)
+Os testes descritos aqui têm como foco garantir consistência técnica e lógica nos cálculos, mas não substituem processos formais de auditoria contábil.  
+Além disso, qualquer nova versão do LiquiCalc só deve ser disponibilizada após a inclusão e validação completa de seus respectivos testes, assegurando que os resultados permaneçam confiáveis e alinhados com os fundamentos definidos.
 
 ---
