@@ -117,7 +117,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │       ├── 📁 2_simulador_mdr-flex3.1v/               
 │       │   └── 📄 teste_calculo_mdr-flex_3.1.md         # Teste de cálculo da MDR flexível versão 3.1
 │       └── 📁 3_simulador_antecipacao3.2v/            
-│           └── 📄 teste_calculo_antecipacao_3.2.md (P)  # Teste de cálculo da antecipação versão 3.2
+│           └── 📄 teste_calculo_antecipacao_3.2.md      # Teste de cálculo da antecipação versão 3.2
 │
 ├── 📁 3_docs/ 
 │   └── 📄 roadmap.md                                # Etapas planejadas, progresso e próximos passos do LiquiCalc
