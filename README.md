@@ -61,7 +61,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │   ├── 📁 2_simulador_mdr-flex2.1v/               # Script exclusivo para cálculo da MDR flexível
 │   │   │   └── 📄 simulador_mdr-flex.bat 
 │   │   └── 📁 3_simulador_antecipacao2.2v/            # Script para MDR padrão + antecipação de recebíveis
-│   │       └── 📄 simulador_antecipacao.bat (P)
+│   │       └── 📄 simulador_antecipacao.bat 
 │   │
 │   └── 📁 2_simulador-web/ (V)                      # Simulações web interativas com HTML, CSS e JS
 │       ├── 📄 README.md (P)
