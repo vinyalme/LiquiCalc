@@ -63,7 +63,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │   └── 📁 3_simulador_antecipacao2.2v/            # Script para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.bat 
 │   │
-│   └── 📁 2_simulador-web/ (V)                      # Simulações web interativas com HTML, CSS e JS
+│   └── 📁 2_simulador-web/                            # Simulações web interativas com HTML, CSS e JS
 │       ├── 📄 README.md (P)
 │       ├── 📁 0_LiquiCalc.3.3v/ (P)                   # Versão consolidada com todos os cálculos em uma única interface
 │       │   ├── 📄 index.html (P)
