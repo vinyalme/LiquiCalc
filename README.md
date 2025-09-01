@@ -115,7 +115,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │       ├── 📁 1_simulador_mdr-padrao3.0v/             
 │       │   └── 📄 teste_calculo_mdr-padrao_3.0.md       # Teste de cálculo da MDR padrão versão 3.0
 │       ├── 📁 2_simulador_mdr-flex3.1v/               
-│       │   └── 📄 teste_calculo_mdr-flex_3.1.md (P)     # Teste de cálculo da MDR flexível versão 3.1
+│       │   └── 📄 teste_calculo_mdr-flex_3.1.md         # Teste de cálculo da MDR flexível versão 3.1
 │       └── 📁 3_simulador_antecipacao3.2v/ (P)           
 │           └── 📄 teste_calculo_antecipacao_3.2.md (P)  # Teste de cálculo da antecipação versão 3.2
 │
