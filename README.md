@@ -93,7 +93,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │   ├── 📁 0_LiquiCalc.1.3v/                   
 │   │   │   └── 📄 teste_calculo_liquicalc_1.3.md        # Teste de cálculo da versão consolidada 1.3
 │   │   ├── 📁 1_simulador_mdr-padrao1.0v/           
-│   │   │   └── 📄 teste_calculo_mdr-padrao_1.0.md (P)   # Teste de cálculo da MDR padrão versão 1.0
+│   │   │   └── 📄 teste_calculo_mdr-padrao_1.0.md       # Teste de cálculo da MDR padrão versão 1.0
 │   │   ├── 📁 2_simulador_mdr-flex1.1v/ (P)            
 │   │   │   └── 📄 teste_calculo_mdr-flex_1.1.md (P)     # Teste de cálculo da MDR flexível versão 1.1
 │   │   └── 📁 3_simulador_antecipacao1.2v/ (P)         
