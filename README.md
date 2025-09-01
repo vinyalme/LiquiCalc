@@ -49,7 +49,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │   │   └── 📄 simulador_mdr-padrao.xlsx 
 │   │   ├── 📁 2_simulador_mdr-flex1.1v/             # Simulador exclusivo para cálculo da MDR flexível
 │   │   │   └── 📄 simulador_mdr-flex.xlsx 
-│   │   └── 📁 3_simulador_antecipacao1.2v/ (V)      # Simulador para MDR padrão + antecipação de recebíveis
+│   │   └── 📁 3_simulador_antecipacao1.2v/          # Simulador para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.xlsx (P)
 │   │ 
 │   ├── 📁 1_simulador-bat/ (V)
