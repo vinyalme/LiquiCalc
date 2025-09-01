@@ -40,7 +40,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   ├── 📄 1_mdr-flex.md                             # Explicação da MDR flexível (fator 1 e fator 2)
 │   └── 📄 2_antecipacao.md                          # Como funciona a antecipação de recebíveis e seu impacto nos valores
 │
-├── 📁 1_simulacoes/ (V)
+├── 📁 1_simulacoes/ 
 │   ├── 📁 0_excel/ (V)
 │   │   ├── 📄 README.md (P)
 │   │   ├── 📁 0_LiquiCalc.1.3v/ (V)                 # Versão consolidada com todos os cálculos em um único arquivo
