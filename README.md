@@ -99,7 +99,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │   └── 📁 3_simulador_antecipacao1.2v/          
 │   │       └── 📄 teste_calculo_antecipacao_1.2.md      # Teste de cálculo da antecipação versão 1.2
 │   │
-│   ├── 📁 2_calculadora-bat_teste/ (P)                  # Scripts em BAT para execução automatizada dos cálculos via terminal
+│   ├── 📁 2_calculadora-bat_teste/                      # Scripts em BAT para execução automatizada dos cálculos via terminal
 │   │   ├── 📁 0_LiquiCalc.2.3v/ (P)                      
 │   │   │   └── 📄 teste_calculo_liquicalc_2.3.md (P)    # Teste de cálculo da versão consolidada 2.3
 │   │   ├── 📁 1_simulador_mdr-padrao2.0v/ (P)            
