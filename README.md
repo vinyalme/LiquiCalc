@@ -64,7 +64,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │       └── 📄 simulador_antecipacao.bat 
 │   │
 │   └── 📁 2_simulador-web/                            # Simulações web interativas com HTML, CSS e JS
-│       ├── 📄 README.md (P)
+│       ├── 📄 README.md 
 │       ├── 📁 0_LiquiCalc.3.3v/ (P)                   # Versão consolidada com todos os cálculos em uma única interface
 │       │   ├── 📄 index.html (P)
 │       │   ├── 📄 style.css (P)
