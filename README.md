@@ -109,7 +109,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │   └── 📁 3_simulador_antecipacao2.2v/           
 │   │       └── 📄 teste_calculo_antecipacao_2.2.md      # Teste de cálculo da antecipação versão 2.2
 │   │
-│   └── 📁 3_calculadora-web_teste/ (P)                  # Interfaces web interativas para simulação dos cálculos via navegador
+│   └── 📁 3_calculadora-web_teste/                      # Interfaces web interativas para simulação dos cálculos via navegador
 │       ├── 📁 0_LiquiCalc.3.3v/ (P)                      
 │       │   └── 📄 teste_calculo_liquicalc_3.3.md (P)    # Teste de cálculo da versão consolidada 3.3
 │       ├── 📁 1_simulador_mdr-padrao3.0v/ (P)            
