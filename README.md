@@ -101,7 +101,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │
 │   ├── 📁 2_calculadora-bat_teste/                      # Scripts em BAT para execução automatizada dos cálculos via terminal
 │   │   ├── 📁 0_LiquiCalc.2.3v/                       
-│   │   │   └── 📄 teste_calculo_liquicalc_2.3.md (P)    # Teste de cálculo da versão consolidada 2.3
+│   │   │   └── 📄 teste_calculo_liquicalc_2.3.md        # Teste de cálculo da versão consolidada 2.3
 │   │   ├── 📁 1_simulador_mdr-padrao2.0v/ (P)            
 │   │   │   └── 📄 teste_calculo_mdr-padrao_2.0.md (P)   # Teste de cálculo da MDR padrão versão 2.0
 │   │   ├── 📁 2_simulador_mdr-flex2.1v/ (P)             
