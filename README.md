@@ -54,7 +54,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │ 
 │   ├── 📁 1_simulador-bat/ 
 │   │   ├── 📄 README.md 
-│   │   ├── 📁 0_LiquiCalc.2.3v/ (P)                   # Versão consolidada com todos os cálculos em um único script
+│   │   ├── 📁 0_LiquiCalc.2.3v/                       # Versão consolidada com todos os cálculos em um único script
 │   │   │   └── 📄 LiquiCalc.bat (P)
 │   │   ├── 📁 1_simulador_mdr-padrao2.0v/ (P)         # Script exclusivo para cálculo da MDR padrão
 │   │   │   └── 📄 simulador_mdr-padrao.bat (P)
