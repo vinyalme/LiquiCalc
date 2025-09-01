@@ -74,7 +74,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │       │   ├── 📄 style.css 
 │       │   └── 📄 script.js 
 │       ├── 📁 2_simulador_mdr-flex3.1v/               # Simulador exclusivo para cálculo da MDR flexível
-│       │   ├── 📄 index.html (P)
+│       │   ├── 📄 index.html 
 │       │   ├── 📄 style.css (P)
 │       │   └── 📄 script.js (P)
 │       └── 📁 3_simulador_antecipacao3.2v/ (P)        # Simulador para MDR padrão + antecipação de recebíveis
