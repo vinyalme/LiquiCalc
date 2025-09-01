@@ -69,7 +69,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │       │   ├── 📄 index.html 
 │       │   ├── 📄 style.css 
 │       │   └── 📄 script.js 
-│       ├── 📁 1_simulador_mdr-padrao3.0v/ (P)         # Simulador exclusivo para cálculo da MDR padrão
+│       ├── 📁 1_simulador_mdr-padrao3.0v/             # Simulador exclusivo para cálculo da MDR padrão
 │       │   ├── 📄 index.html (P)
 │       │   ├── 📄 style.css (P)
 │       │   └── 📄 script.js (P)
