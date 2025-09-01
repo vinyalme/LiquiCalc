@@ -123,7 +123,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   └── 📄 roadmap.md (A)                            # Etapas planejadas, progresso e próximos passos do LiquiCalc
 │
 ├── 📄 LICENSE (V)                                   # Licença de uso do projeto (MIT License)
-└── 📄 README.md (V)                                 # Apresentação geral: objetivo, uso, tecnologias e estrutura
+└── 📄 README.md                                     # Apresentação geral: objetivo, uso, tecnologias e estrutura
 
 ```
 
