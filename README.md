@@ -47,7 +47,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │   │   └── 📄 LiquiCalc.1.3.xlsx  
 │   │   ├── 📁 1_simulador_mdr-padrao1.0v/           # Simulador exclusivo para cálculo da MDR padrão
 │   │   │   └── 📄 simulador_mdr-padrao.xlsx 
-│   │   ├── 📁 2_simulador_mdr-flex1.1v/ (V)         # Simulador exclusivo para cálculo da MDR flexível
+│   │   ├── 📁 2_simulador_mdr-flex1.1v/             # Simulador exclusivo para cálculo da MDR flexível
 │   │   │   └── 📄 simulador_mdr-flex.xlsx (P)
 │   │   └── 📁 3_simulador_antecipacao1.2v/ (V)      # Simulador para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.xlsx (P)
