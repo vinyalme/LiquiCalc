@@ -42,7 +42,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │
 ├── 📁 1_simulacoes/ 
 │   ├── 📁 0_excel/ 
-│   │   ├── 📄 README.md (P)
+│   │   ├── 📄 README.md 
 │   │   ├── 📁 0_LiquiCalc.1.3v/ (V)                 # Versão consolidada com todos os cálculos em um único arquivo
 │   │   │   └── 📄 LiquiCalc.1.3.xlsx (P) 
 │   │   ├── 📁 1_simulador_mdr-padrao1.0v/ (A)       # Simulador exclusivo para cálculo da MDR padrão
