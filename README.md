@@ -34,7 +34,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 
 ```text
 
-📦 LiquiCalc (V)  
+📦 LiquiCalc  
 ├── 📁 0_conceitos/ (V)                              # Fundamentos técnicos e explicações de cálculo
 │   ├── 📄 0_mdr-padrao.md (A)                       # Explicação da MDR padrão: conceito, fórmula e aplicação
 │   ├── 📄 1_mdr-flex.md (A)                         # Explicação da MDR flexível (fator 1 e fator 2)
