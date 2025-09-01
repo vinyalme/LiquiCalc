@@ -73,7 +73,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │       │   ├── 📄 index.html 
 │       │   ├── 📄 style.css 
 │       │   └── 📄 script.js 
-│       ├── 📁 2_simulador_mdr-flex3.1v/ (P)           # Simulador exclusivo para cálculo da MDR flexível
+│       ├── 📁 2_simulador_mdr-flex3.1v/               # Simulador exclusivo para cálculo da MDR flexível
 │       │   ├── 📄 index.html (P)
 │       │   ├── 📄 style.css (P)
 │       │   └── 📄 script.js (P)
