@@ -41,7 +41,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   └── 📄 2_antecipacao.md                          # Como funciona a antecipação de recebíveis e seu impacto nos valores
 │
 ├── 📁 1_simulacoes/ 
-│   ├── 📁 0_excel/ (V)
+│   ├── 📁 0_excel/ 
 │   │   ├── 📄 README.md (P)
 │   │   ├── 📁 0_LiquiCalc.1.3v/ (V)                 # Versão consolidada com todos os cálculos em um único arquivo
 │   │   │   └── 📄 LiquiCalc.1.3.xlsx (P) 
