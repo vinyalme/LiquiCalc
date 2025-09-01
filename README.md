@@ -57,7 +57,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │   ├── 📁 0_LiquiCalc.2.3v/                       # Versão consolidada com todos os cálculos em um único script
 │   │   │   └── 📄 LiquiCalc.2.3.bat 
 │   │   ├── 📁 1_simulador_mdr-padrao2.0v/             # Script exclusivo para cálculo da MDR padrão
-│   │   │   └── 📄 simulador_mdr-padrao.bat (P)
+│   │   │   └── 📄 simulador_mdr-padrao.bat 
 │   │   ├── 📁 2_simulador_mdr-flex2.1v/ (R)           # Script exclusivo para cálculo da MDR flexível
 │   │   │   └── 📄 simulador_mdr-flex.bat (P)
 │   │   └── 📁 3_simulador_antecipacao2.2v/ (P)        # Script para MDR padrão + antecipação de recebíveis
