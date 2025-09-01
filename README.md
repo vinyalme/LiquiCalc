@@ -82,7 +82,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │           ├── 📄 style.css 
 │           └── 📄 script.js 
 │
-├── 📁 2_testes/ (V)
+├── 📁 2_testes/ 
 │   ├── 📄 README.md (A)                                 # Visão geral dos testes: objetivo, escopo e regras de validação
 │   ├── 📁 0_conceitos_teste/ (P)                        # Testes conceituais para validar a lógica dos cálculos do LiquiCalc
 │   │   ├── 📄 0_teste_conceito_mdr-padrao.md (P)        # Teste conceitual da MDR padrão
