@@ -52,7 +52,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │   └── 📁 3_simulador_antecipacao1.2v/          # Simulador para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.xlsx 
 │   │ 
-│   ├── 📁 1_simulador-bat/ (V)
+│   ├── 📁 1_simulador-bat/ 
 │   │   ├── 📄 README.md (P)
 │   │   ├── 📁 0_LiquiCalc.2.3v/ (P)                   # Versão consolidada com todos os cálculos em um único script
 │   │   │   └── 📄 LiquiCalc.bat (P)
