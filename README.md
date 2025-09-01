@@ -89,7 +89,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │   ├── 📄 1_teste_conceito_mdr-flex.md              # Teste conceitual da MDR flexível
 │   │   └── 📄 2_teste_conceito_antecipacao.md           # Teste conceitual da antecipação de recebíveis
 │   │
-│   ├── 📁 1_excel_teste/ (P)                            # Simuladores em Excel para testes manuais e validação visual
+│   ├── 📁 1_excel_teste/                                # Simuladores em Excel para testes manuais e validação visual
 │   │   ├── 📁 0_LiquiCalc.1.3v/ (P)                  
 │   │   │   └── 📄 teste_calculo_liquicalc_1.3.md (P)    # Teste de cálculo da versão consolidada 1.3
 │   │   ├── 📁 1_simulador_mdr-padrao1.0v/ (P)          
