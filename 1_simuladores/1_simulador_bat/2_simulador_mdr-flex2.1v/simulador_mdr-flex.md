@@ -129,3 +129,85 @@ pause
 goto menu
 
 ```
+
+```text
+
+@echo off
+title LiquiCalc MDR Flex - Simulador
+color 0B
+
+:menu
+cls
+echo ==================================================
+echo           LiquiCalc MDR Flex - Simulador
+echo ==================================================
+echo.
+echo [1] Simular Venda com MDR Flex
+echo [2] Sobre o MDR Flex
+echo [3] Sair
+echo.
+set /p opcao=Escolha uma opcao: 
+
+if "%opcao%"=="1" goto simular
+if "%opcao%"=="2" goto sobre
+if "%opcao%"=="3" exit
+goto menu
+
+:simular
+cls
+echo --------------------------------------------------
+echo         Simulador de Venda com MDR Flex
+echo --------------------------------------------------
+echo.
+set /p bruto=Digite o valor da venda (ex: 1000,50): 
+set bruto=%bruto:,=.%
+
+set /p fator1=Digite o Fator 1 (taxa base em %% ex: 2.5): 
+set fator1=%fator1:,=.%
+
+set /p fator2=Digite o Fator 2 (multiplicador ex: 1.2): 
+set fator2=%fator2:,=.%
+
+:: Calcular MDR Flex
+for /f "delims=" %%a in ('powershell -command "[math]::Round(%fator1% * %fator2%, 4)"') do set mdrFlex=%%a
+
+:: Calcular taxa cobrada
+for /f "delims=" %%a in ('powershell -command "[math]::Round(%bruto% * %mdrFlex% / 100, 2)"') do set taxa=%%a
+
+:: Calcular valor líquido
+for /f "delims=" %%a in ('powershell -command "[math]::Round(%bruto% - %taxa%, 2)"') do set liquido=%%a
+
+echo.
+echo Resultado da Simulacao:
+echo ------------------------
+echo Valor Bruto:     R$%bruto%
+echo Fator 1:         %fator1%%%
+echo Fator 2:         %fator2%
+echo MDR Flex:        %mdrFlex%%%
+echo Taxa Cobrada:    R$%taxa%
+echo Valor Liquido:   R$%liquido%
+echo.
+pause
+goto menu
+
+:sobre
+cls
+echo --------------------------------------------------
+echo                 Sobre o MDR Flex
+echo --------------------------------------------------
+echo.
+echo O MDR Flex e uma taxa ajustavel conforme o prazo
+echo de recebimento ou perfil de antecipacao.
+echo.
+echo Formula:
+echo MDR Flex (%) = Fator 1 × Fator 2
+echo Valor Liquido = Valor Bruto × (1 - MDR Flex)
+echo Taxa Cobrada  = Valor Bruto × MDR Flex
+echo.
+echo Fator 1: Taxa base da adquirente
+echo Fator 2: Multiplicador conforme prazo
+echo.
+pause
+goto menu
+
+```
