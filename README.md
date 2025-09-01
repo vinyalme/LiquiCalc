@@ -68,7 +68,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │       ├── 📁 0_LiquiCalc.3.3v/                       # Versão consolidada com todos os cálculos em uma única interface
 │       │   ├── 📄 index.html 
 │       │   ├── 📄 style.css 
-│       │   └── 📄 script.js (P)
+│       │   └── 📄 script.js 
 │       ├── 📁 1_simulador_mdr-padrao3.0v/ (P)         # Simulador exclusivo para cálculo da MDR padrão
 │       │   ├── 📄 index.html (P)
 │       │   ├── 📄 style.css (P)
