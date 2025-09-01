@@ -79,7 +79,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │       │   └── 📄 script.js 
 │       └── 📁 3_simulador_antecipacao3.2v/            # Simulador para MDR padrão + antecipação de recebíveis
 │           ├── 📄 index.html 
-│           ├── 📄 style.css (P)
+│           ├── 📄 style.css 
 │           └── 📄 script.js (P)
 │
 ├── 📁 2_testes/ (V)
