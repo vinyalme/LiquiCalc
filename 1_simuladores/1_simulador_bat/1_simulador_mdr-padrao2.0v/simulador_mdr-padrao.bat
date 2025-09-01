@@ -1,4 +1,3 @@
-
 @echo off
 title LiquiCalc MDR Padrão - Simulador
 color 0A
