@@ -119,7 +119,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │       └── 📁 3_simulador_antecipacao3.2v/ (P)           
 │           └── 📄 teste_calculo_antecipacao_3.2.md (P)  # Teste de cálculo da antecipação versão 3.2
 │
-├── 📁 3_docs/ (V)
+├── 📁 3_docs/ 
 │   └── 📄 roadmap.md                                # Etapas planejadas, progresso e próximos passos do LiquiCalc
 │
 ├── 📄 LICENSE                                       # Licença de uso do projeto (MIT License)
