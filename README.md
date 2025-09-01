@@ -97,7 +97,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │   │   ├── 📁 2_simulador_mdr-flex1.1v/         
 │   │   │   └── 📄 teste_calculo_mdr-flex_1.1.md         # Teste de cálculo da MDR flexível versão 1.1
 │   │   └── 📁 3_simulador_antecipacao1.2v/          
-│   │       └── 📄 teste_calculo_antecipacao_1.2.md (P)  # Teste de cálculo da antecipação versão 1.2
+│   │       └── 📄 teste_calculo_antecipacao_1.2.md      # Teste de cálculo da antecipação versão 1.2
 │   │
 │   ├── 📁 2_calculadora-bat_teste/ (P)                  # Scripts em BAT para execução automatizada dos cálculos via terminal
 │   │   ├── 📁 0_LiquiCalc.2.3v/ (P)                      
