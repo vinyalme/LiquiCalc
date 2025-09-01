@@ -80,7 +80,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │       └── 📁 3_simulador_antecipacao3.2v/            # Simulador para MDR padrão + antecipação de recebíveis
 │           ├── 📄 index.html 
 │           ├── 📄 style.css 
-│           └── 📄 script.js (P)
+│           └── 📄 script.js 
 │
 ├── 📁 2_testes/ (V)
 │   ├── 📄 README.md (A)                                 # Visão geral dos testes: objetivo, escopo e regras de validação
