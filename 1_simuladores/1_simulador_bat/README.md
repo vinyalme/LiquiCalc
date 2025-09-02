@@ -4,6 +4,7 @@
 Aqui estão as versões em **scripts `.bat`**, que permitem calcular rapidamente os valores líquidos aplicando **MDR padrão, MDR flexível e antecipação de recebíveis**.
 
 📂 Repositório oficial: [LiquiCalc no GitHub](https://github.com/vinyalme/LiquiCalc)
+
 📂 Pasta específica: [Simuladores BAT](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat)
 
 ---
