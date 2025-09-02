@@ -22,9 +22,9 @@ O foco é mostrar **de forma clara e precisa quanto o cliente realmente recebe**
 
 Escolha a versão que melhor se encaixa com o seu objetivo:
 
-- **Planilha Excel:** Acesse `1_simulacoes/0_excel/` e abra o arquivo `.xlsx` da versão desejada.
-- **Script .bat (modo texto):** Vá até `1_simulacoes/1_calculadora-bat/` e execute o arquivo `.bat`.
-- **Simulador Web:** Abra o arquivo `index.html` em `1_simulacoes/2_calculadora-web/` no navegador.
+- **Planilha Excel:** Acesse [`1_simulacoes/0_excel/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel) e abra o arquivo `.xlsx` da versão desejada.
+- **Script .bat (modo texto):** Vá até [`1_simulacoes/1_calculadora-bat/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat) e execute o arquivo `.bat`.
+- **Simulador Web:** Abra o arquivo `index.html` em [`1_simulacoes/2_simulador-web/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web)  no navegador.
 
 > Nenhuma instalação é necessária. Tudo funciona de forma local e offline.
 
