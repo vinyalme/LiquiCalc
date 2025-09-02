@@ -44,7 +44,7 @@ cd LiquiCalc/1_simuladores/1_simulador_bat/0_LiquiCalc.2.3v
    .\LiquiCalc.2.3.bat
    ```
 
-⚠️ **Importante**: alguns scripts utilizam **comandos PowerShell**, portanto é necessário que sua máquina Windows tenha o **PowerShell habilitado** (já vem por padrão nas versões modernas do Windows).
+- ⚠️ **Importante**: alguns scripts utilizam **comandos PowerShell**, portanto é necessário que sua máquina Windows tenha o **PowerShell habilitado** (já vem por padrão nas versões modernas do Windows).
 
 ---
 
