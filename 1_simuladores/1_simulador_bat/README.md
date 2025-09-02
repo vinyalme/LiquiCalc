@@ -80,6 +80,7 @@ cd LiquiCalc/1_simuladores/1_simulador_bat/0_LiquiCalc.2.3v
 
 Se não quiser instalar PowerShell:
 
-* Use a versão **Excel** → `1_simulacoes/0_excel/` 
+* Use a versão **Excel** → `1_simulacoes/0_excel/`
+  [`1_simulacoes/0_excel/`](1_simulacoes/0_excel/)
 
 * Use a versão **Web** → `1_simulacoes/2_simulador-web/` (compatível com qualquer navegador).
