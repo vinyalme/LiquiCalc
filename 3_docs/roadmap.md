@@ -25,7 +25,7 @@
 │   ├── 📁 1_simulador-bat/ (V)
 │   │   ├── 📄 README.md (P)
 │   │   ├── 📁 0_LiquiCalc.2.3v/ (V)                   # Versão consolidada com todos os cálculos em um único script
-│   │   │   └── 📄 LiquiCalc.2.3.bat (P)
+│   │   │   └── 📄 LiquiCalc.2.3.bat (E)
 │   │   ├── 📁 1_simulador_mdr-padrao2.0v/ (V)         # Script exclusivo para cálculo da MDR padrão
 │   │   │   └── 📄 simulador_mdr-padrao.bat (V)
 │   │   ├── 📁 2_simulador_mdr-flex2.1v/ (V)           # Script exclusivo para cálculo da MDR flexível
