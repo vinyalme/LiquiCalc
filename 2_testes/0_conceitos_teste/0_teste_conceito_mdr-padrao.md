@@ -54,8 +54,8 @@ Após validar os limites operacionais com valores mínimos e máximos, é necess
 
 ## 📊 Resumo de Precisão dos Testes
 
-| Métrica              | Resultado     |
-|----------------------|---------------|
+                 | Métrica              | Resultado     |
+                 |----------------------|---------------|
 | Diferença Máxima     | R$ 0,00       |
 | Diferença Mínima     | R$ 0,00       |
 | Precisão Média       | 100,00%       |
