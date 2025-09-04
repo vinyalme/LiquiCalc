@@ -1,13 +1,13 @@
-## 📚 Conceitos – LiquiCalc
+# 📚 Conceitos – LiquiCalc
 
 Esta pasta reúne os fundamentos teóricos e práticos que embasam os simuladores do LiquiCalc. Aqui você encontra explicações sobre **MDR (Merchant Discount Rate)**, **antecipação de recebíveis** e os diferentes modelos de cálculo utilizados nas simulações. É o ponto de partida ideal para entender o raciocínio por trás dos scripts, planilhas e interfaces web.
 
 📂 Repositório oficial: [LiquiCalc no GitHub](https://github.com/vinyalme/LiquiCalc)  
-📂 Pasta específica: `0_conceitos/`
+📂 Pasta específica: [Conceitos](https://github.com/vinyalme/LiquiCalc/tree/main/0_conceitos)
 
 ---
 
-### 1. Objetivo da pasta
+## 1. Objetivo da pasta
 
 Esta seção serve como base conceitual para entender os cálculos utilizados nos simuladores. É recomendada para:
 
@@ -18,7 +18,7 @@ Esta seção serve como base conceitual para entender os cálculos utilizados no
 
 ---
 
-### 2. Conteúdo disponível
+## 2. Conteúdo disponível
 
 | Arquivo | Descrição |
 |--------|-----------|
@@ -30,7 +30,7 @@ Cada arquivo contém definições, exemplos práticos e fórmulas utilizadas nos
 
 ---
 
-### 3. Como este conteúdo se conecta aos simuladores
+## 3. Como este conteúdo se conecta aos simuladores
 
 Os conceitos descritos aqui são diretamente aplicados nas simulações disponíveis nas outras pastas do projeto:
 
@@ -42,7 +42,7 @@ Se você estiver adaptando o LiquiCalc para outro país, setor ou tipo de adquir
 
 ---
 
-### 4. Sugestões de uso
+## 4. Sugestões de uso
 
 Você pode usar os arquivos desta pasta para:
 
