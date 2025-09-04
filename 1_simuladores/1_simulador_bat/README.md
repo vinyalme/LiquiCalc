@@ -1,85 +1,105 @@
-# Simuladores .BAT – LiquiCalc
+# 🖥️ Simuladores via Terminal (.BAT) – LiquiCalc
 
-Área exclusiva para execução do **LiquiCalc** via **terminal do Windows (CMD/PowerShell)**.
-Aqui estão as versões em **scripts `.bat`**, que permitem calcular rapidamente os valores líquidos aplicando **MDR padrão, MDR flexível e antecipação de recebíveis**.
+Área dedicada aos simuladores do LiquiCalc desenvolvidos em **scripts BAT**, ideais para execução rápida via terminal no Windows ou PowerShell Core em macOS/Linux. Cada script realiza cálculos específicos de **MDR padrão**, **MDR flexível** e **antecipação de recebíveis**, com uma versão consolidada que reúne todos os modelos.
 
-- 📂 Repositório oficial: [LiquiCalc no GitHub](https://github.com/vinyalme/LiquiCalc)
-- 📂 Pasta específica: [Simuladores BAT](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat)
+📂 Repositório oficial: [LiquiCalc no GitHub](https://github.com/vinyalme/LiquiCalc)  
+📂 Pasta específica: [Simuladores BAT](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat)
 
 ---
 
 ## 1. Clonando o repositório
 
-Antes de rodar qualquer script, clone o projeto do GitHub:
+Antes de executar os scripts, clone o projeto do GitHub:
 
 ```bash
 git clone https://github.com/vinyalme/LiquiCalc.git
 ```
 
-Depois entre na pasta do simulador BAT:
+Depois acesse a pasta dos simuladores BAT:
 
 ```bash
-cd LiquiCalc/1_simuladores/1_simulador_bat/0_LiquiCalc.2.3v
+cd LiquiCalc/1_simulacoes/1_simulador-bat/
 ```
 
 ---
 
-## 2. Como executar no Windows
+## 2. Versões disponíveis
 
-1. Abra o **CMD** ou o **PowerShell**.
-2. Se você baixou/clonou na pasta **Downloads**, use:
-
-   ```bat
-   cd %HOMEPATH%\Downloads\LiquiCalc\1_simuladores\1_simulador_bat\0_LiquiCalc.2.3v
-   ```
-
-   ou, se estiver no seu **workspace** (exemplo em `C:\workspace`):
-
-   ```bat
-   cd C:\workspace\LiquiCalc\1_simuladores\1_simulador_bat\0_LiquiCalc.2.3v
-   ```
-3. Execute o script:
-
-   ```bat
-   .\LiquiCalc.2.3.bat
-   ```
-
-- ⚠️ **Importante**: alguns scripts utilizam **comandos PowerShell**, portanto é necessário que sua máquina Windows tenha o **PowerShell habilitado** (já vem por padrão nas versões modernas do Windows).
+| Pasta | Descrição |
+|-------|-----------|
+| `0_LiquiCalc.2.3v/` | Versão consolidada com todos os cálculos em um único script |
+| `1_simulador_mdr-padrao1.0v/` | Simulador exclusivo para cálculo da MDR padrão |
+| `2_simulador_mdr-flex1.1v/` | Simulador exclusivo para cálculo da MDR flexível |
+| `3_simulador_antecipacao1.2v/` | Simulador para MDR padrão + antecipação de recebíveis |
 
 ---
 
-## 3. Como executar no macOS ou Linux
+## 3. Requisitos mínimos
 
-1. Instale o **PowerShell Core (pwsh)**:
-   👉 [Download oficial do PowerShell](https://github.com/PowerShell/PowerShell)
-
-2. Abra o terminal.
-
-   * Se você clonou em **Downloads**:
-
-     ```bash
-     cd ~/Downloads/LiquiCalc/1_simuladores/1_simulador_bat/0_LiquiCalc.2.3v
-     ```
-   * Se você clonou em um **workspace** (exemplo: `~/workspace`):
-
-     ```bash
-     cd ~/workspace/LiquiCalc/1_simuladores/1_simulador_bat/0_LiquiCalc.2.3v
-     ```
-
-3. Execute o script pelo PowerShell:
-
-   ```bash
-   pwsh ./LiquiCalc.2.3.bat
-   ```
-
-⚠️ No macOS/Linux é **obrigatório** usar o `pwsh` (PowerShell Core), já que o interpretador padrão não entende `.bat`.
+- ✅ Sistema operacional: Windows 10 ou superior, macOS, ou distribuições Linux modernas
+- ✅ PowerShell instalado (vem por padrão no Windows moderno; necessário instalar no macOS/Linux)
+- ✅ Terminal com permissão para executar scripts
+- ⚠️ No macOS/Linux, é obrigatório o uso do PowerShell Core (`pwsh`) para interpretar arquivos `.bat`
 
 ---
 
-## 4. Alternativas multiplataforma
+## 4. Como executar no Windows
 
-Se não quiser instalar PowerShell:
+Abra o CMD ou o PowerShell.
 
-* Use a versão **Excel** → [`1_simulacoes/0_excel/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel)
+Se você baixou/clonou na pasta Downloads, use:
 
-* Use a versão **Web** → [`1_simulacoes/2_simulador-web/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web) (compatível com qualquer navegador).
+```bash
+cd %HOMEPATH%\Downloads\LiquiCalc\1_simuladores\1_simulador_bat\0_LiquiCalc.2.3v
+```
+
+ou, se estiver no seu workspace (exemplo em `C:\workspace`):
+
+```bash
+cd C:\workspace\LiquiCalc\1_simuladores\1_simulador_bat\0_LiquiCalc.2.3v
+```
+
+Execute o script:
+
+```bash
+.\LiquiCalc.2.3.bat
+```
+
+⚠️ Importante: alguns scripts utilizam comandos PowerShell, portanto é necessário que sua máquina Windows tenha o PowerShell habilitado (já vem por padrão nas versões modernas do Windows).
+
+---
+
+## 5. Como executar no macOS ou Linux
+
+Instale o PowerShell Core (pwsh): 👉 [Download oficial do PowerShell](https://github.com/PowerShell/PowerShell)
+
+Abra o terminal.
+
+Se você clonou em Downloads:
+
+```bash
+cd ~/Downloads/LiquiCalc/1_simuladores/1_simulador_bat/0_LiquiCalc.2.3v
+```
+
+Se você clonou em um workspace (exemplo: `~/workspace`):
+
+```bash
+cd ~/workspace/LiquiCalc/1_simuladores/1_simulador_bat/0_LiquiCalc.2.3v
+```
+
+Execute o script pelo PowerShell:
+
+```bash
+pwsh ./LiquiCalc.2.3.bat
+```
+
+⚠️ No macOS/Linux é obrigatório usar o `pwsh` (PowerShell Core), já que o interpretador padrão não entende `.bat`.
+
+---
+
+## 6. Alternativas multiplataforma
+
+Se preferir outras formas de simulação:
+
+- Use os simuladores Web → [`1_simulacoes/2_simulador-web/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web) (ideal para uso direto no navegador)
+- Use os simuladores Excel → [`1_simulacoes/0_excel/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel) (ideal para testes manuais e análises offline)
