@@ -23,7 +23,7 @@ Este documento apresenta os testes realizados para validação dos cálculos do 
 
 ## 💳 Tabela 2 – Testes de Crédito Parcelado (1x a 21x)
 
-## 📌 Objetivo dos Testes de Parcelamento:  
+### 📌 Objetivo dos Testes de Parcelamento:  
 Após validar os limites operacionais com valores mínimos e máximos, é necessário testar o comportamento do sistema em situações mais dinâmicas e recorrentes. Os testes de crédito parcelado simulam transações com diferentes quantidades de parcelas (de 1x a 21x), variando também as taxas MDR. Essa abordagem garante que o LiquiCalc mantenha sua precisão mesmo diante da complexidade crescente das operações.
 
 | Teste         | Tipo              | Parcelas | Valor da Venda | MDR (%) | 🧮 Valor Retido (Taxa)         | 🧮 Valor Líquido             | ✅ Verificação | Diferença | Precisão   |
