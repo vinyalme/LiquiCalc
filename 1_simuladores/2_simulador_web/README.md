@@ -7,7 +7,7 @@
 
 ---
 
-### 1. Clonando o repositório
+## 1. Clonando o repositório
 
 Antes de abrir os simuladores, clone o projeto do GitHub:
 
@@ -23,7 +23,7 @@ cd LiquiCalc/1_simulacoes/2_simulador-web/
 
 ---
 
-### 2. Como utilizar os simuladores
+## 2. Como utilizar os simuladores
 
 Abra o arquivo `index.html` diretamente no seu navegador favorito (Chrome, Firefox, Edge, Safari, etc.).
 
@@ -38,7 +38,7 @@ Abra o arquivo `index.html` diretamente no seu navegador favorito (Chrome, Firef
 
 ---
 
-### 3. Requisitos mínimos
+## 3. Requisitos mínimos
 
 - ✅ Navegador moderno com suporte a JavaScript
 - ✅ Permissão para abrir arquivos locais (sem bloqueio de scripts)
@@ -46,10 +46,11 @@ Abra o arquivo `index.html` diretamente no seu navegador favorito (Chrome, Firef
 
 ---
 
-### 4. Alternativas multiplataforma
+## 4. Alternativas multiplataforma
 
 Se preferir outras formas de simulação:
 
 - Use os simuladores Excel → [`Simuladores Excel`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel) (ideal para testes manuais e análises offline)
+  
 - Use os scripts BAT → [`Simuladores BAT`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat) (ideal para execução rápida via terminal no Windows ou PowerShell Core em macOS/Linux)
   
