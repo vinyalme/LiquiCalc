@@ -55,7 +55,7 @@
 ├── 📁 2_testes/ (V)
 │   ├── 📄 README.md (A)                                 # Visão geral dos testes: objetivo, escopo e regras de validação
 │   ├── 📁 0_conceitos_teste/ (P)                        # Testes conceituais para validar a lógica dos cálculos do LiquiCalc
-│   │   ├── 📄 0_teste_conceito_mdr-padrao.md (E)        # Teste conceitual da MDR padrão
+│   │   ├── 📄 0_teste_conceito_mdr-padrao.md (A)        # Teste conceitual da MDR padrão
 │   │   ├── 📄 1_teste_conceito_mdr-flex.md (E)          # Teste conceitual da MDR flexível
 │   │   └── 📄 2_teste_conceito_antecipacao.md (E)       # Teste conceitual da antecipação de recebíveis
 │   │
