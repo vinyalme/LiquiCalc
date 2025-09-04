@@ -101,5 +101,5 @@ pwsh ./LiquiCalc.2.3.bat
 
 Se preferir outras formas de simulação:
 
-- Use os simuladores Web → [`1_simulacoes/2_simulador-web/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web) (ideal para uso direto no navegador)
-- Use os simuladores Excel → [`1_simulacoes/0_excel/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel) (ideal para testes manuais e análises offline)
+- Use os simuladores Web → [`Simuladores WEB`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web) (ideal para uso direto no navegador)
+- Use os simuladores Excel → [`Simuladores Excel`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel) (ideal para testes manuais e análises offline)
