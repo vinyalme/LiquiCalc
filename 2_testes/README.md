@@ -5,7 +5,7 @@ Esta pasta tem como finalidade validar a precisão dos cálculos realizados pelo
 
 ---
 
-### 📂 Escopo dos Testes  
+## 📂 Escopo dos Testes  
 Os testes estão organizados em quatro categorias principais:
 
 - **🧪 Testes Conceituais**  
@@ -26,7 +26,7 @@ Os testes estão organizados em quatro categorias principais:
 
 ---
 
-### 📏 Regras de Validação
+## 📏 Regras de Validação
 
 - Todos os testes devem ser comparados com os conceitos definidos na pasta de fundamentos técnicos.  
 - Os valores esperados devem estar documentados nos arquivos de teste correspondentes.  
@@ -35,11 +35,11 @@ Os testes estão organizados em quatro categorias principais:
 
 ---
 
-### 📋 Formato dos Relatórios de Teste
+## 📋 Formato dos Relatórios de Teste
 
 Cada pasta de teste conterá, ao final, uma tabela com os seguintes campos:
 
-#### 🧾 Cabeçalho da Tabela de Testes
+## 🧾 Cabeçalho da Tabela de Testes
 
 | Teste | Tipo | Valor da Venda | MDR (%) | 🧮 Valor Retido (Taxa) | 🧮 Valor Líquido | ✅ Verificação (Líquido + Taxa = Venda?) | Diferença | Precisão |
 |-------|------|----------------|---------|------------------------|------------------|------------------------------------------|-----------|----------|
@@ -48,7 +48,7 @@ Essa tabela permite visualizar rapidamente a acurácia dos cálculos realizados 
 
 ---
 
-### 📊 Resumo de Precisão dos Testes
+## 📊 Resumo de Precisão dos Testes
 
 | Métrica             | Resultado  |
 |---------------------|------------|
@@ -62,9 +62,7 @@ Essa tabela permite visualizar rapidamente a acurácia dos cálculos realizados 
 
 ---
 
-### 📝 Considerações Finais
+## 📝 Considerações Finais
 
 Os testes descritos aqui têm como foco garantir consistência técnica e lógica nos cálculos, mas não substituem processos formais de auditoria contábil.  
 Além disso, qualquer nova versão do LiquiCalc só deve ser disponibilizada após a inclusão e validação completa de seus respectivos testes, assegurando que os resultados permaneçam confiáveis e alinhados com os fundamentos definidos.
-
----
