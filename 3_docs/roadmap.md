@@ -13,7 +13,7 @@
 │
 ├── 📁 1_simulacoes/ (V)
 │   ├── 📁 0_excel/ (V)
-│   │   ├── 📄 README.md (P)
+│   │   ├── 📄 README.md (V)
 │   │   ├── 📁 0_LiquiCalc.1.3v/ (V)                 # Versão consolidada com todos os cálculos em um único arquivo
 │   │   │   └── 📄 LiquiCalc.1.3.xlsx (P) 
 │   │   ├── 📁 1_simulador_mdr-padrao1.0v/ (A)       # Simulador exclusivo para cálculo da MDR padrão
@@ -35,7 +35,7 @@
 │   │       └── 📄 simulador_antecipacao.bat (E)
 │   │
 │   └── 📁 2_simulador-web/ (V)                      # Simulações web interativas com HTML, CSS e JS
-│       ├── 📄 README.md (P)
+│       ├── 📄 README.md (R)
 │       ├── 📁 0_LiquiCalc.3.3v/ (P)                   # Versão consolidada com todos os cálculos em uma única interface
 │       │   ├── 📄 index.html (P)
 │       │   ├── 📄 style.css (P)
