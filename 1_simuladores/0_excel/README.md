@@ -3,7 +3,7 @@
 Área dedicada aos simuladores do LiquiCalc desenvolvidos em **Microsoft Excel**. Aqui você encontra versões organizadas por tipo de cálculo: **MDR padrão**, **MDR flexível** e **antecipação de recebíveis**, além de uma versão consolidada com todos os modelos em um único arquivo.
 
 📂 Repositório oficial: [LiquiCalc no GitHub](https://github.com/vinyalme/LiquiCalc)  
-📂 Pasta específica: `1_simulacoes/0_excel/`
+📂 Pasta específica: [Simuladores Excel](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel)
 
 ---
 
