@@ -10,7 +10,7 @@ Este documento apresenta os testes realizados para validação dos cálculos do 
 
 ---
 
-🧾 Tabela 1 – Testes de Valor Mínimo e Máximo
+## 🧾 Tabela 1 – Testes de Valor Mínimo e Máximo
 
 | Teste                  | Tipo             | Valor da Venda   | MDR (%) | 🧮 Valor Retido (Taxa)             | 🧮 Valor Líquido              | ✅ Verificação (Líquido + Taxa = Venda?) | Diferença | Precisão   |
 |------------------------|------------------|------------------|---------|------------------------------------|-------------------------------|------------------------------------------|-----------|------------|
@@ -21,7 +21,7 @@ Este documento apresenta os testes realizados para validação dos cálculos do 
 
 ---
 
-💳 Tabela 2 – Testes de Crédito Parcelado (1x a 21x)
+## 💳 Tabela 2 – Testes de Crédito Parcelado (1x a 21x)
 
 📌 Objetivo dos Testes de Parcelamento:  
 Após validar os limites operacionais com valores mínimos e máximos, é necessário testar o comportamento do sistema em situações mais dinâmicas e recorrentes. Os testes de crédito parcelado simulam transações com diferentes quantidades de parcelas (de 1x a 21x), variando também as taxas MDR. Essa abordagem garante que o LiquiCalc mantenha sua precisão mesmo diante da complexidade crescente das operações.
@@ -52,7 +52,7 @@ Após validar os limites operacionais com valores mínimos e máximos, é necess
 
 ---
 
-📊 Resumo de Precisão dos Testes
+## 📊 Resumo de Precisão dos Testes
 
 | Métrica              | Resultado     |
 |----------------------|---------------|
@@ -66,7 +66,7 @@ Este resumo reforça a confiabilidade dos cálculos realizados pelo LiquiCalc, d
 
 ---
 
-📝 Considerações Finais
+## 📝 Considerações Finais
 
 Os testes apresentados neste relatório têm como objetivo validar a lógica de cálculo do LiquiCalc em diferentes cenários operacionais, incluindo valores extremos e todas as faixas de parcelamento disponíveis.
 
