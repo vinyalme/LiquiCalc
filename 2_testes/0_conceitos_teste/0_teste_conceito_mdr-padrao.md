@@ -1,10 +1,10 @@
-Relatórios de Teste – LiquiCalc
+# Relatórios de Teste – LiquiCalc
 
 
 Este documento apresenta os testes realizados para validação dos cálculos do sistema LiquiCalc, com foco em garantir precisão matemática, consistência lógica e confiabilidade técnica. Os testes foram divididos em dois grupos principais:
 
-1. Testes de Valor Mínimo e Máximo – para verificar os limites operacionais do sistema.  
-2. Testes de Crédito Parcelado – cobrindo todas as faixas de parcelamento de 1x a 21x, com variações de valores e taxas MDR.
+- 1. Testes de Valor Mínimo e Máximo – para verificar os limites operacionais do sistema.  
+- 2. Testes de Crédito Parcelado – cobrindo todas as faixas de parcelamento de 1x a 21x, com variações de valores e taxas MDR.
 
 > ⚠️ Importante: Todos os cálculos apresentados aqui seguem rigorosamente a lógica da modalidade MDR Padrão, conforme especificado no documento técnico 0conceitos/0mdr-padrao.md. Este conjunto de testes serve como referência oficial para validar qualquer implementação que utilize essa estrutura de cálculo.
 
