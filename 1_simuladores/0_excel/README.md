@@ -50,5 +50,5 @@ Abra os arquivos `.xlsx` diretamente no **Microsoft Excel** ou em outro software
 
 Se você preferir outras formas de simulação:
 
-- Use os scripts BAT → [`1_simulacoes/1_simulador-bat/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat) (ideal para execução rápida via terminal no Windows ou PowerShell Core em macOS/Linux)
-- Use os simuladores Web → [`1_simulacoes/2_simulador-web/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web) (ideal para uso direto no navegador)
+- Use os scripts BAT → [`Simuladores BAT`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat) (ideal para execução rápida via terminal no Windows ou PowerShell Core em macOS/Linux)
+- Use os simuladores Web → [`Simuladores WEB`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web) (ideal para uso direto no navegador)
