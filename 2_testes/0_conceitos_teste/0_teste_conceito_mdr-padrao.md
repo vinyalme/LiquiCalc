@@ -1,4 +1,4 @@
-# Relatórios de Teste – LiquiCalc
+# Relatórios de Teste – MDR Padrão | Conceito
 
 
 Este documento apresenta os testes realizados para validação dos cálculos do sistema LiquiCalc, com foco em garantir precisão matemática, consistência lógica e confiabilidade técnica. Os testes foram divididos em dois grupos principais:
