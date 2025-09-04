@@ -54,13 +54,13 @@ Após validar os limites operacionais com valores mínimos e máximos, é necess
 
 ## 📊 Resumo de Precisão dos Testes
 
-                 | Métrica              | Resultado     |
-                 |----------------------|---------------|
-| Diferença Máxima     | R$ 0,00       |
-| Diferença Mínima     | R$ 0,00       |
-| Precisão Média       | 100,00%       |
-| Precisão Mínima      | 100,00%       |
-| Precisão Máxima      | 100,00%       |
+  | Métrica              | Resultado     |
+  |----------------------|---------------|
+  | Diferença Máxima     | R$ 0,00       |
+  | Diferença Mínima     | R$ 0,00       |
+  | Precisão Média       | 100,00%       |
+  | Precisão Mínima      | 100,00%       |
+  | Precisão Máxima      | 100,00%       |
 
 Este resumo reforça a confiabilidade dos cálculos realizados pelo LiquiCalc, demonstrando consistência absoluta em todas as simulações testadas.
 
