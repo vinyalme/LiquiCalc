@@ -34,9 +34,9 @@ Cada arquivo contém definições, exemplos práticos e fórmulas utilizadas nos
 
 Os conceitos descritos aqui são diretamente aplicados nas simulações disponíveis nas outras pastas do projeto:
 
-- O arquivo `0_mdr-padrao.md` embasa os cálculos usados nos simuladores Excel, BAT e Web para MDR padrão
-- O `1_mdr-flex.md` explica a lógica por trás da flexibilidade de taxas, usada nos scripts e interfaces interativas
-- O `2_antecipacao.md` detalha os impactos da antecipação de recebíveis, que são simulados em tempo real nos modelos avançados
+- O arquivo [`0_mdr-padrao.md`](https://github.com/vinyalme/LiquiCalc/blob/main/0_conceitos/0_mdr-padrao.md) embasa os cálculos usados nos simuladores Excel, BAT e Web para MDR padrão
+- O [`1_mdr-flex.md`](https://github.com/vinyalme/LiquiCalc/blob/main/0_conceitos/1_mdr-flex.md) explica a lógica por trás da flexibilidade de taxas, usada nos scripts e interfaces interativas
+- O [`2_antecipacao.md`](https://github.com/vinyalme/LiquiCalc/blob/main/0_conceitos/2_antecipacao.md) detalha os impactos da antecipação de recebíveis, que são simulados em tempo real nos modelos avançados
 
 Se você estiver adaptando o LiquiCalc para outro país, setor ou tipo de adquirente, estes arquivos são essenciais para ajustar os parâmetros corretamente.
 
