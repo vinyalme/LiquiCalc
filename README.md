@@ -36,6 +36,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 
 📦 LiquiCalc  
 ├── 📁 0_conceitos/                                  # Fundamentos técnicos e explicações de cálculo
+│   ├── 📄 README.md 
 │   ├── 📄 0_mdr-padrao.md                           # Explicação da MDR padrão: conceito, fórmula e aplicação
 │   ├── 📄 1_mdr-flex.md                             # Explicação da MDR flexível (fator 1 e fator 2)
 │   └── 📄 2_antecipacao.md                          # Como funciona a antecipação de recebíveis e seu impacto nos valores
