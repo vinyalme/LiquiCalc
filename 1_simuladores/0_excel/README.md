@@ -7,7 +7,7 @@
 
 ---
 
-### 1. Clonando o repositório
+## 1. Clonando o repositório
 
 Antes de abrir os arquivos, clone o projeto do GitHub:
 
@@ -23,7 +23,7 @@ cd LiquiCalc/1_simulacoes/0_excel/
 
 ---
 
-### 2. Como utilizar os simuladores
+## 2. Como utilizar os simuladores
 
 Abra os arquivos `.xlsx` diretamente no **Microsoft Excel** ou em outro software compatível (como LibreOffice Calc ou Google Sheets, com possíveis limitações de fórmula).
 
@@ -38,7 +38,7 @@ Abra os arquivos `.xlsx` diretamente no **Microsoft Excel** ou em outro software
 
 ---
 
-### 3. Requisitos mínimos
+## 3. Requisitos mínimos
 
 - ✅ Microsoft Excel 2016 ou superior (recomendado)
 - ✅ Habilitar macros, se aplicável
@@ -46,7 +46,7 @@ Abra os arquivos `.xlsx` diretamente no **Microsoft Excel** ou em outro software
 
 ---
 
-### 4. Alternativas multiplataforma
+## 4. Alternativas multiplataforma
 
 Se você preferir outras formas de simulação:
 
