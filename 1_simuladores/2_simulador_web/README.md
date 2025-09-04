@@ -3,7 +3,7 @@
 Área dedicada aos simuladores do LiquiCalc desenvolvidos para uso direto no navegador. Aqui você encontra versões interativas em **HTML, CSS e JavaScript**, organizadas por tipo de cálculo: **MDR padrão**, **MDR flexível** e **antecipação de recebíveis**, além de uma versão consolidada com todos os modelos em uma única interface.
 
 📂 Repositório oficial: [LiquiCalc no GitHub](https://github.com/vinyalme/LiquiCalc)  
-📂 Pasta específica: `1_simulacoes/2_simulador-web/`
+📂 Pasta específica: [Simuladores WEB](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web)
 
 ---
 
