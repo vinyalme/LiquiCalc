@@ -34,7 +34,7 @@ Abra o arquivo `index.html` diretamente no seu navegador favorito (Chrome, Firef
 | [`0_LiquiCalc.3.3v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web/0_LiquiCalc.3.3v) | Versão consolidada com todos os cálculos em uma única interface |
 | [`1_simulador_mdr-padrao3.0v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web/1_simulador_mdr-padrao3.0v) | Simulador exclusivo para cálculo da MDR padrão |
 | [`2_simulador_mdr-flex3.1v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web/2_simulador_mdr-flex3.1v) | Simulador exclusivo para cálculo da MDR flexível |
-| `3_simulador_antecipacao3.2v/` | Simulador para MDR padrão + antecipação de recebíveis |
+| [`3_simulador_antecipacao3.2v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web/3_simulador_antecipacao3.2v) | Simulador para MDR padrão + antecipação de recebíveis |
 
 ---
 
