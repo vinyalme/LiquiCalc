@@ -117,7 +117,7 @@ Este documento apresenta o organograma técnico do projeto LiquiCalc, detalhando
 
 ---
 
-📎 Considerações Finais
+## 📎 Considerações Finais
 
 O organograma do LiquiCalc demonstra um projeto bem segmentado, com foco em clareza, escalabilidade e rastreabilidade técnica. A classificação por estado de maturidade permite priorizar entregas, organizar revisões e acompanhar o progresso de forma objetiva. Este documento será atualizado conforme novas versões forem lançadas e novos componentes forem incorporados à base do projeto.
 
