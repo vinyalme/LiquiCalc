@@ -36,20 +36,20 @@
 │   │
 │   └── 📁 2_simulador-web/ (V)                      # Simulações web interativas com HTML, CSS e JS
 │       ├── 📄 README.md (R)
-│       ├── 📁 0_LiquiCalc.3.3v/ (P)                   # Versão consolidada com todos os cálculos em uma única interface
-│       │   ├── 📄 index.html (P)
+│       ├── 📁 0_LiquiCalc.3.3v/ (V)                   # Versão consolidada com todos os cálculos em uma única interface
+│       │   ├── 📄 index.html (E)
 │       │   ├── 📄 style.css (P)
 │       │   └── 📄 script.js (P)
-│       ├── 📁 1_simulador_mdr-padrao3.0v/ (P)         # Simulador exclusivo para cálculo da MDR padrão
-│       │   ├── 📄 index.html (P)
+│       ├── 📁 1_simulador_mdr-padrao3.0v/ (V)         # Simulador exclusivo para cálculo da MDR padrão
+│       │   ├── 📄 index.html (E)
 │       │   ├── 📄 style.css (P)
 │       │   └── 📄 script.js (P)
-│       ├── 📁 2_simulador_mdr-flex3.1v/ (P)           # Simulador exclusivo para cálculo da MDR flexível
-│       │   ├── 📄 index.html (P)
+│       ├── 📁 2_simulador_mdr-flex3.1v/ (V)           # Simulador exclusivo para cálculo da MDR flexível
+│       │   ├── 📄 index.html (E)
 │       │   ├── 📄 style.css (P)
 │       │   └── 📄 script.js (P)
-│       └── 📁 3_simulador_antecipacao3.2v/ (P)        # Simulador para MDR padrão + antecipação de recebíveis
-│           ├── 📄 index.html (P)
+│       └── 📁 3_simulador_antecipacao3.2v/ (V)        # Simulador para MDR padrão + antecipação de recebíveis
+│           ├── 📄 index.html (E)
 │           ├── 📄 style.css (P)
 │           └── 📄 script.js (P)
 │
