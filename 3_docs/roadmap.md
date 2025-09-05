@@ -1,3 +1,9 @@
+# 🗂️ Visão Estrutural do Projeto LiquiCalc
+
+Este documento apresenta o organograma técnico do projeto LiquiCalc, detalhando a disposição das pastas, arquivos e seus respectivos estados de maturidade. A estrutura foi pensada para refletir a lógica modular do projeto, facilitando a navegação, manutenção e evolução contínua. Cada item está classificado conforme seu nível de validação, permitindo identificar rapidamente o que está pronto, o que precisa de revisão e o que ainda está em desenvolvimento.
+
+---
+
 # Roadmap do Projeto LiquiCalc
 
 ## 🗂️ Estrutura do Projeto – Detalhada
