@@ -20,11 +20,11 @@ Esta seção serve como base conceitual para entender os cálculos utilizados no
 
 ## 2. Conteúdo disponível
 
-| Arquivo | Descrição |
-|--------|-----------|
-| [`0_mdr-padrao.md`](https://github.com/vinyalme/LiquiCalc/blob/main/0_conceitos/0_mdr-padrao.md)  | Explicação sobre o modelo de MDR padrão e como ele é aplicado |
-| [`1_mdr-flex.md`](https://github.com/vinyalme/LiquiCalc/blob/main/0_conceitos/1_mdr-flex.md) | Detalhamento do modelo de MDR flexível e suas variações |
-| [`2_antecipacao.md`](https://github.com/vinyalme/LiquiCalc/blob/main/0_conceitos/2_antecipacao.md) | Conceitos relacionados à antecipação de recebíveis e impacto no fluxo de caixa |
+| Arquivo                                                                                            | Descrição                                                                       |
+|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| [`0_mdr-padrao.md`](https://github.com/vinyalme/LiquiCalc/blob/main/0_conceitos/0_mdr-padrao.md)   | Explicação sobre o modelo de MDR padrão e como ele é aplicado                   |
+| [`1_mdr-flex.md`](https://github.com/vinyalme/LiquiCalc/blob/main/0_conceitos/1_mdr-flex.md)       | Detalhamento do modelo de MDR flexível e suas variações                         |
+| [`2_antecipacao.md`](https://github.com/vinyalme/LiquiCalc/blob/main/0_conceitos/2_antecipacao.md) | Conceitos relacionados à antecipação de recebíveis e impacto no fluxo de caixa  |
 
 Cada arquivo contém definições, exemplos práticos e fórmulas utilizadas nos simuladores. Os textos são escritos em linguagem acessível, com foco em clareza e aplicabilidade.
 
