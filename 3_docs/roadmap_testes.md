@@ -15,14 +15,14 @@ Este documento apresenta o planejamento dos testes do projeto **LiquiCalc**, seg
 | MDR Flexível           | Excel             | 2.1.0      | teste_calculo_mdr-flex_1.1.md                 | Pendente      |
 | Antecipação            | Excel             | 2.2.0      | teste_calculo_antecipacao_1.2.md              | Pendente      |
 | Consolidado            | Excel             | 2.3.0      | teste_calculo_liquicalc_1.3.md                | Pendente      |
-| MDR Padrão             | BAT               | 2.0    | teste_calculo_mdr-padrao_2.0.md               | Pendente      |
-| MDR Flexível           | BAT               | 2.1    | teste_calculo_mdr-flex_2.1.md                 | Pendente      |
-| Antecipação            | BAT               | 2.2    | teste_calculo_antecipacao_2.2.md              | Pendente      |
-| Consolidado            | BAT               | 2.3    | teste_calculo_liquicalc_2.3.md                | Pendente      |
-| MDR Padrão             | Web               | 3.0    | teste_calculo_mdr-padrao_3.0.md               | Pendente      |
-| MDR Flexível           | Web               | 3.1    | teste_calculo_mdr-flex_3.1.md                 | Pendente      |
-| Antecipação            | Web               | 3.2    | teste_calculo_antecipacao_3.2.md              | Pendente      |
-| Consolidado            | Web               | 3.3    | teste_calculo_liquicalc_3.3.md                | Pendente      |
+| MDR Padrão             | BAT               | 3.0.0      | teste_calculo_mdr-padrao_2.0.md               | Pendente      |
+| MDR Flexível           | BAT               | 3.1.0      | teste_calculo_mdr-flex_2.1.md                 | Pendente      |
+| Antecipação            | BAT               | 3.2.0      | teste_calculo_antecipacao_2.2.md              | Pendente      |
+| Consolidado            | BAT               | 3.3.0      | teste_calculo_liquicalc_2.3.md                | Pendente      |
+| MDR Padrão             | Web               | 4.0.0      | teste_calculo_mdr-padrao_3.0.md               | Pendente      |
+| MDR Flexível           | Web               | 4.1.0      | teste_calculo_mdr-flex_3.1.md                 | Pendente      |
+| Antecipação            | Web               | 4.2.0      | teste_calculo_antecipacao_3.2.md              | Pendente      |
+| Consolidado            | Web               | 4.3.0      | teste_calculo_liquicalc_3.3.md                | Pendente      |
 
 ---
 
