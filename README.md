@@ -121,7 +121,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │           └── 📄 teste_calculo_antecipacao_3.2.md      # Teste de cálculo da antecipação versão 3.2
 │
 ├── 📁 3_docs/ 
-│   └── 📄 roadmap.md                                # Etapas planejadas, progresso e próximos passos do LiquiCalc
+│   └── 📄 roadmap_estrutura.md                      # Etapas planejadas, progresso e próximos passos do LiquiCalc
 │
 ├── 📄 LICENSE                                       # Licença de uso do projeto (MIT License)
 └── 📄 README.md                                     # Apresentação geral: objetivo, uso, tecnologias e estrutura
