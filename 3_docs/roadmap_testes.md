@@ -1,4 +1,4 @@
-# 📌 Visão do Planejamento de Testes**
+# 📌 Visão do Planejamento de Testes
 
 Este documento apresenta o planejamento dos testes do projeto **LiquiCalc**, segmentado por modalidade de cálculo, tipo de simulador e versão. O objetivo é garantir a validação técnica dos resultados, a consistência entre diferentes interfaces (Excel, BAT, Web) e a rastreabilidade dos cenários testados. Os testes estão organizados em três níveis: conceituais, funcionais e integrados, cobrindo desde a lógica matemática até o comportamento das interfaces.
 
@@ -39,6 +39,6 @@ Este documento apresenta o planejamento dos testes do projeto **LiquiCalc**, seg
 
 ---
 
-##📎 Considerações Finais
+## 📎 Considerações Finais
 
 A estrutura de testes do LiquiCalc foi pensada para acompanhar cada etapa do desenvolvimento, permitindo validações precisas e comparações entre versões. A separação por tipo de simulador e versão facilita a manutenção dos scripts e a identificação de regressões. Este documento será atualizado conforme novos testes forem implementados ou refinados, mantendo o alinhamento entre escopo técnico e qualidade funcional.
