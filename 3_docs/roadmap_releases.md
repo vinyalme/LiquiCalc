@@ -1,5 +1,7 @@
 # 📌 Visão do Cronograma de Releases
 
+> Roadmap do Projeto LiquiCalc
+
 Este documento apresenta o cronograma de releases do projeto **LiquiCalc**, organizado por tópicos, versões, prazos estimados e status atual. Cada release representa uma etapa técnica do desenvolvimento, desde a modelagem conceitual até a publicação oficial da interface web. O objetivo é fornecer uma visão sequencial e rastreável da evolução do projeto, permitindo acompanhar entregas, validar progresso e planejar futuras implementações.
 
 ---
