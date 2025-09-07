@@ -49,9 +49,9 @@ Onde:
 
 ## 📊 Diferença entre Fator 1 e Fator 2
 
-| Fator            | Descrição                                                                 | Exemplos de Aplicação                         |
-|------------------|---------------------------------------------------------------------------|-----------------------------------------------|
-| **Fator 1**      | Percentual base de desconto, definido por risco, perfil ou setor          | 2,5% para clientes com alto risco              |
+| Fator            | Descrição                                                                  | Exemplos de Aplicação                         |
+|------------------|----------------------------------------------------------------------------|-----------------------------------------------|
+| **Fator 1**      | Percentual base de desconto, definido por risco, perfil ou setor           | 2,5% para clientes com alto risco             |
 | **Fator 2**      | Ajustador contextual, varia conforme prazo, volume ou tipo de operação     | 1,2 para antecipações acima de 60 dias        |
 
 🔍 A multiplicação dos dois fatores resulta na taxa final de MDR aplicada à operação.
@@ -68,7 +68,7 @@ Valor Recebido = Receita Bruta − (Receita Bruta × MDR_flex)
 
 📌 Exemplos:
 
-| Receita Bruta | Fator 1 | Fator 2 | Cálculo do MDR       | MDR (%) | Taxa Cobrada | Valor Recebido |
+| Receita Bruta | Fator 1 | Fator 2 | Cálculo do MDR        | MDR (%) | Taxa Cobrada | Valor Recebido |
 |---------------|---------|---------|-----------------------|---------|--------------|----------------|
 | R$ 100.000    | 2,5%    | 1,2     | 0,025 × 1,2 = 0,03    | 3,0%    | R$ 3.000     | R$ 97.000      |
 | R$ 50.000     | 1,8%    | 1,5     | 0,018 × 1,5 = 0,027   | 2,7%    | R$ 1.350     | R$ 48.650      |
@@ -92,9 +92,9 @@ Esse valor representa o montante descontado da operação, que será retido pela
 
 A MDR Flexível pode ser composta por:
 
-| Componente        | Origem do Fator | Exemplos de Influência                          |
-|-------------------|------------------|--------------------------------------------------|
-| 🧮 Fator 1         | Risco e perfil    | Score de crédito, setor, histórico de pagamento  |
+| Componente         | Origem do Fator       | Exemplos de Influência                            |
+|--------------------|-----------------------|---------------------------------------------------|
+| 🧮 Fator 1         | Risco e perfil       | Score de crédito, setor, histórico de pagamento   |
 | 📊 Fator 2         | Contexto da operação | Prazo de recebimento, volume, tipo de antecipação |
 
 💡 Essa composição permite calibrar a taxa conforme o cenário específico da operação.
