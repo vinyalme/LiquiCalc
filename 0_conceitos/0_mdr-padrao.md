@@ -85,9 +85,9 @@ Taxa Cobrada = 500 × 0,028 = **R$ 14,00**
 
 A MDR não é uma taxa única, mas sim a soma de três componentes:
 
-| Componente               | Descrição                                                                 |
-|--------------------------|---------------------------------------------------------------------------|
-| 🏦 Tarifa de Intercâmbio | Parte destinada ao banco emissor do cartão                                |
+| Componente                 | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| 🏦 Tarifa de Intercâmbio  | Parte destinada ao banco emissor do cartão                                |
 | 💳 Fee da Bandeira        | Remuneração da bandeira pela infraestrutura de pagamentos                 |
 | 🧾 Net MDR                | Parcela da adquirente (maquininha), incluindo impostos como ISS           |
 
