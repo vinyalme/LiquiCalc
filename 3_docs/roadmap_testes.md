@@ -8,13 +8,13 @@ Este documento apresenta o planejamento dos testes do projeto **LiquiCalc**, seg
 
 | Modalidade             | Tipo de Simulador | Versão | Arquivo de Teste                              | Status        |
 |------------------------|-------------------|--------|-----------------------------------------------|---------------|
-| MDR Padrão             | Conceitual        | —      | 0_teste_conceito_mdr-padrao.md                | Em andamento  |
-| MDR Flexível           | Conceitual        | —      | 1_teste_conceito_mdr-flex.md                  | Pendente      |
-| Antecipação            | Conceitual        | —      | 2_teste_conceito_antecipacao.md               | Pendente      |
-| MDR Padrão             | Excel             | 1.0    | teste_calculo_mdr-padrao_1.0.md               | Pendente      |
-| MDR Flexível           | Excel             | 1.1    | teste_calculo_mdr-flex_1.1.md                 | Pendente      |
-| Antecipação            | Excel             | 1.2    | teste_calculo_antecipacao_1.2.md              | Pendente      |
-| Consolidado            | Excel             | 1.3    | teste_calculo_liquicalc_1.3.md                | Pendente      |
+| MDR Padrão             | Conceitual        | 1.0.0      | 0_teste_conceito_mdr-padrao.md                | Em andamento  |
+| MDR Flexível           | Conceitual        | 1.1.0      | 1_teste_conceito_mdr-flex.md                  | Pendente      |
+| Antecipação            | Conceitual        | 1.2.0      | 2_teste_conceito_antecipacao.md               | Pendente      |
+| MDR Padrão             | Excel             | 2.0.0      | teste_calculo_mdr-padrao_1.0.md               | Pendente      |
+| MDR Flexível           | Excel             | 2.1.0      | teste_calculo_mdr-flex_1.1.md                 | Pendente      |
+| Antecipação            | Excel             | 2.2.0      | teste_calculo_antecipacao_1.2.md              | Pendente      |
+| Consolidado            | Excel             | 2.3.0      | teste_calculo_liquicalc_1.3.md                | Pendente      |
 | MDR Padrão             | BAT               | 2.0    | teste_calculo_mdr-padrao_2.0.md               | Pendente      |
 | MDR Flexível           | BAT               | 2.1    | teste_calculo_mdr-flex_2.1.md                 | Pendente      |
 | Antecipação            | BAT               | 2.2    | teste_calculo_antecipacao_2.2.md              | Pendente      |
