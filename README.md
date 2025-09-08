@@ -35,50 +35,50 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 ```text
 
 📦 LiquiCalc  
-├── 📁 0_conceitos/                                  # Fundamentos técnicos e explicações de cálculo
+├── 📁 0_conceitos/                                      # Fundamentos técnicos e explicações de cálculo
 │   ├── 📄 README.md 
-│   ├── 📄 0_mdr-padrao.md                           # Explicação da MDR padrão: conceito, fórmula e aplicação
-│   ├── 📄 1_mdr-flex.md                             # Explicação da MDR flexível (fator 1 e fator 2)
-│   └── 📄 2_antecipacao.md                          # Como funciona a antecipação de recebíveis e seu impacto nos valores
+│   ├── 📄 0_mdr-padrao.md                               # Explicação da MDR padrão: conceito, fórmula e aplicação
+│   ├── 📄 1_mdr-flex.md                                 # Explicação da MDR flexível (fator 1 e fator 2)
+│   └── 📄 2_antecipacao.md                              # Como funciona a antecipação de recebíveis e seu impacto nos valores
 │
 ├── 📁 1_simulacoes/ 
 │   ├── 📁 0_excel/ 
 │   │   ├── 📄 README.md 
-│   │   ├── 📁 0_LiquiCalc.2.3v/                     # Versão consolidada com todos os cálculos em um único arquivo
+│   │   ├── 📁 0_LiquiCalc.2.3v/                         # Versão consolidada com todos os cálculos em um único arquivo
 │   │   │   └── 📄 LiquiCalc.2.3.xlsx  
-│   │   ├── 📁 1_simulador_mdr-padrao2.0v/           # Simulador exclusivo para cálculo da MDR padrão
+│   │   ├── 📁 1_simulador_mdr-padrao2.0v/               # Simulador exclusivo para cálculo da MDR padrão
 │   │   │   └── 📄 simulador_mdr-padrao.xlsx 
-│   │   ├── 📁 2_simulador_mdr-flex2.1v/             # Simulador exclusivo para cálculo da MDR flexível
+│   │   ├── 📁 2_simulador_mdr-flex2.1v/                 # Simulador exclusivo para cálculo da MDR flexível
 │   │   │   └── 📄 simulador_mdr-flex.xlsx 
-│   │   └── 📁 3_simulador_antecipacao2.2v/          # Simulador para MDR padrão + antecipação de recebíveis
+│   │   └── 📁 3_simulador_antecipacao2.2v/              # Simulador para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.xlsx 
 │   │ 
 │   ├── 📁 1_simulador-bat/ 
 │   │   ├── 📄 README.md 
-│   │   ├── 📁 0_LiquiCalc.3.3v/                       # Versão consolidada com todos os cálculos em um único script
+│   │   ├── 📁 0_LiquiCalc.3.3v/                         # Versão consolidada com todos os cálculos em um único script
 │   │   │   └── 📄 LiquiCalc.3.3.bat 
-│   │   ├── 📁 1_simulador_mdr-padrao3.0v/             # Script exclusivo para cálculo da MDR padrão
+│   │   ├── 📁 1_simulador_mdr-padrao3.0v/               # Script exclusivo para cálculo da MDR padrão
 │   │   │   └── 📄 simulador_mdr-padrao.bat 
-│   │   ├── 📁 2_simulador_mdr-flex3.1v/               # Script exclusivo para cálculo da MDR flexível
+│   │   ├── 📁 2_simulador_mdr-flex3.1v/                 # Script exclusivo para cálculo da MDR flexível
 │   │   │   └── 📄 simulador_mdr-flex.bat 
-│   │   └── 📁 3_simulador_antecipacao3.2v/            # Script para MDR padrão + antecipação de recebíveis
+│   │   └── 📁 3_simulador_antecipacao3.2v/              # Script para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.bat 
 │   │
-│   └── 📁 2_simulador-web/                            # Simulações web interativas com HTML, CSS e JS
+│   └── 📁 2_simulador-web/                              # Simulações web interativas com HTML, CSS e JS
 │       ├── 📄 README.md 
-│       ├── 📁 0_LiquiCalc.4.3v/                       # Versão consolidada com todos os cálculos em uma única interface
+│       ├── 📁 0_LiquiCalc.4.3v/                         # Versão consolidada com todos os cálculos em uma única interface
 │       │   ├── 📄 index.html 
 │       │   ├── 📄 style.css 
 │       │   └── 📄 script.js 
-│       ├── 📁 1_simulador_mdr-padrao4.0v/             # Simulador exclusivo para cálculo da MDR padrão
+│       ├── 📁 1_simulador_mdr-padrao4.0v/               # Simulador exclusivo para cálculo da MDR padrão
 │       │   ├── 📄 index.html 
 │       │   ├── 📄 style.css 
 │       │   └── 📄 script.js 
-│       ├── 📁 2_simulador_mdr-flex4.1v/               # Simulador exclusivo para cálculo da MDR flexível
+│       ├── 📁 2_simulador_mdr-flex4.1v/                 # Simulador exclusivo para cálculo da MDR flexível
 │       │   ├── 📄 index.html 
 │       │   ├── 📄 style.css 
 │       │   └── 📄 script.js 
-│       └── 📁 3_simulador_antecipacao4.2v/            # Simulador para MDR padrão + antecipação de recebíveis
+│       └── 📁 3_simulador_antecipacao4.2v/              # Simulador para MDR padrão + antecipação de recebíveis
 │           ├── 📄 index.html 
 │           ├── 📄 style.css 
 │           └── 📄 script.js 
@@ -121,10 +121,10 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 │           └── 📄 teste_calculo_antecipacao_4.2.md      # Teste de cálculo da antecipação versão 3.2
 │
 ├── 📁 3_docs/ 
-│   ├── 📄 0_roadmap_estrutura.md                # Estrutura técnica do projeto: diretórios, arquivos e estados de maturidade
-│   ├── 📄 1_roadmap_releases.md                 # Cronograma de releases: etapas de desenvolvimento, versões e status de entrega
-│   ├── 📄 2_roadmap_testes.md.                  # Planejamento de testes: modalidades, simuladores, versões e rastreabilidade técnica
-│   └── 📄 3_roadmap_inspiracoes.md              # Referências técnicas e conceituais que inspiraram o desenvolvimento do LiquiCalc
+│   ├── 📄 0_roadmap_estrutura.md                        # Estrutura técnica do projeto: diretórios, arquivos e estados de maturidade
+│   ├── 📄 1_roadmap_releases.md                         # Cronograma de releases: etapas de desenvolvimento, versões e status de entrega
+│   ├── 📄 2_roadmap_testes.md.                          # Planejamento de testes: modalidades, simuladores, versões e rastreabilidade técnica
+│   └── 📄 3_roadmap_inspiracoes.md                      # Referências técnicas e conceituais que inspiraram o desenvolvimento do LiquiCalc
 │
 ├── 📄 LICENSE                                           # Licença de uso do projeto (MIT License)
 └── 📄 README.md                                         # Apresentação geral: objetivo, uso, tecnologias e estrutura
