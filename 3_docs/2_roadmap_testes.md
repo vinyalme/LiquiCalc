@@ -1,5 +1,7 @@
 # 📌 Visão do Planejamento de Testes
 
+> Roadmap do Projeto LiquiCalc
+
 Este documento apresenta o planejamento dos testes do projeto **LiquiCalc**, segmentado por modalidade de cálculo, tipo de simulador e versão. O objetivo é garantir a validação técnica dos resultados, a consistência entre diferentes interfaces (Excel, BAT, Web) e a rastreabilidade dos cenários testados. Os testes estão organizados em três níveis: conceituais, funcionais e integrados, cobrindo desde a lógica matemática até o comportamento das interfaces.
 
 ---
