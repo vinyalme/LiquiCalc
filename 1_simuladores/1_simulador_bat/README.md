@@ -50,19 +50,19 @@ Abra o CMD ou o PowerShell.
 Se você baixou/clonou na pasta Downloads, use:
 
 ```bash
-cd %HOMEPATH%\Downloads\LiquiCalc\1_simuladores\1_simulador_bat\0_LiquiCalc.2.3v
+cd %HOMEPATH%\Downloads\LiquiCalc\1_simuladores\1_simulador_bat\0_LiquiCalc.3.3v
 ```
 
 ou, se estiver no seu workspace (exemplo em `C:\workspace`):
 
 ```bash
-cd C:\workspace\LiquiCalc\1_simuladores\1_simulador_bat\0_LiquiCalc.2.3v
+cd C:\workspace\LiquiCalc\1_simuladores\1_simulador_bat\0_LiquiCalc.3.3v
 ```
 
 Execute o script:
 
 ```bash
-.\LiquiCalc.2.3.bat
+.\LiquiCalc.3.3.bat
 ```
 
 ⚠️ Importante: alguns scripts utilizam comandos PowerShell, portanto é necessário que sua máquina Windows tenha o PowerShell habilitado (já vem por padrão nas versões modernas do Windows).
@@ -78,19 +78,19 @@ Abra o terminal.
 Se você clonou em Downloads:
 
 ```bash
-cd ~/Downloads/LiquiCalc/1_simuladores/1_simulador_bat/0_LiquiCalc.2.3v
+cd ~/Downloads/LiquiCalc/1_simuladores/1_simulador_bat/0_LiquiCalc.3.3v
 ```
 
 Se você clonou em um workspace (exemplo: `~/workspace`):
 
 ```bash
-cd ~/workspace/LiquiCalc/1_simuladores/1_simulador_bat/0_LiquiCalc.2.3v
+cd ~/workspace/LiquiCalc/1_simuladores/1_simulador_bat/0_LiquiCalc.3.3v
 ```
 
 Execute o script pelo PowerShell:
 
 ```bash
-pwsh ./LiquiCalc.2.3.bat
+pwsh ./LiquiCalc.3.3.bat
 ```
 
 ⚠️ No macOS/Linux é obrigatório usar o `pwsh` (PowerShell Core), já que o interpretador padrão não entende `.bat`.
