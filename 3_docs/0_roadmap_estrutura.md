@@ -97,7 +97,10 @@ Este documento apresenta o organograma técnico do projeto LiquiCalc, detalhando
 │           └── 📄 teste_calculo_antecipacao_4.2.md (P)  # Teste de cálculo da antecipação versão 3.2
 │
 ├── 📁 3_docs/ (V)
-│   └── 📄 roadmap_estrutura.md (A)                  # Etapas planejadas, progresso e próximos passos do LiquiCalc
+│   ├── 📄 0_roadmap_estrutura.md (A)         # Estrutura técnica do projeto: diretórios, arquivos e estados de maturidade
+│   ├── 📄 1_roadmap_releases.md (A)          # Cronograma de releases: etapas de desenvolvimento, versões e status de entrega
+│   ├── 📄 2_roadmap_testes.md (A)            # Planejamento de testes: modalidades, simuladores, versões e rastreabilidade técnica
+│   └── 📄 3_roadmap_inspiracoes.md (A)       # Referências técnicas e conceituais que inspiraram o desenvolvimento do LiquiCalc
 │
 ├── 📄 LICENSE (V)                                   # Licença de uso do projeto (MIT License)
 └── 📄 README.md (V)                                 # Apresentação geral: objetivo, uso, tecnologias e estrutura
