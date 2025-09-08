@@ -27,10 +27,10 @@ cd LiquiCalc/1_simulacoes/1_simulador-bat/
 
 | Pasta                                                                                                                                       | Descrição                                                   |
 |---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| [`0_LiquiCalc.2.3v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat/0_LiquiCalc.2.3v)                       | Versão consolidada com todos os cálculos em um único script |
-| [`1_simulador_mdr-padrao2.0v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat/1_simulador_mdr-padrao2.0v)   | Simulador exclusivo para cálculo da MDR padrão              |
-| [`2_simulador_mdr-flex2.1v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat/2_simulador_mdr-flex2.1v)       | Simulador exclusivo para cálculo da MDR flexível            |
-| [`3_simulador_antecipacao2.2v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat/3_simulador_antecipacao2.2v) | Simulador para MDR padrão + antecipação de recebíveis       |
+| [`0_LiquiCalc.3.3v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat/0_LiquiCalc.3.3v)                       | Versão consolidada com todos os cálculos em um único script |
+| [`1_simulador_mdr-padrao3.0v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat/1_simulador_mdr-padrao3.0v)   | Simulador exclusivo para cálculo da MDR padrão              |
+| [`2_simulador_mdr-flex3.1v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat/2_simulador_mdr-flex3.1v)       | Simulador exclusivo para cálculo da MDR flexível            |
+| [`3_simulador_antecipacao3.2v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat/3_simulador_antecipacao3.2v) | Simulador para MDR padrão + antecipação de recebíveis       |
 
 ---
 
