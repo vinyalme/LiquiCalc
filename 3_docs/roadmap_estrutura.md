@@ -73,7 +73,7 @@ Este documento apresenta o organograma técnico do projeto LiquiCalc, detalhando
 │   │   │   └── 📄 teste_calculo_mdr-padrao_2.0.md (P)   # Teste de cálculo da MDR padrão versão 1.0
 │   │   ├── 📁 2_simulador_mdr-flex2.1v/ (P)            
 │   │   │   └── 📄 teste_calculo_mdr-flex_2.1.md (P)     # Teste de cálculo da MDR flexível versão 1.1
-│   │   └── 📁 3_simulador_antecipacao1.2v/ (P)         
+│   │   └── 📁 3_simulador_antecipacao2.2v/ (P)         
 │   │       └── 📄 teste_calculo_antecipacao_2.2.md (P)  # Teste de cálculo da antecipação versão 1.2
 │   │
 │   ├── 📁 2_calculadora-bat_teste/ (P)                  # Scripts em BAT para execução automatizada dos cálculos via terminal
