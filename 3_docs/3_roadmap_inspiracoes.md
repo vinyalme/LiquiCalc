@@ -1,5 +1,7 @@
 # 📌 Visão de Projetos Inspiradores
 
+> Roadmap do Projeto LiquiCalc
+
 Este documento reúne referências técnicas e conceituais que serviram como inspiração para o desenvolvimento do **LiquiCalc**. A análise dessas fontes permitiu identificar boas práticas, estruturas funcionais, métodos de cálculo e formas de apresentar resultados que foram adaptadas ou aprimoradas no contexto do projeto.
 
 Cada referência está acompanhada de comentários sobre o que foi aproveitado ou estudado, sempre respeitando direitos autorais e evitando uso indevido de trabalhos de terceiros.
