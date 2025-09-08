@@ -31,10 +31,10 @@ Abra os arquivos `.xlsx` diretamente no **Microsoft Excel** ou em outro software
 
 | Pasta                                                                                                                               | Descrição                                                    |
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| [`0_LiquiCalc.1.3v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/0_LiquiCalc.1.3v)                       | Versão consolidada com todos os cálculos em um único arquivo |
-| [`1_simulador_mdr-padrao1.0v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/1_simulador_mdr-padrao1.0v)   | Simulador exclusivo para cálculo da MDR padrão               |
-| [`2_simulador_mdr-flex1.1v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/2_simulador_mdr-flex1.1v)       | Simulador exclusivo para cálculo da MDR flexível             |
-| [`3_simulador_antecipacao1.2v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/3_simulador_antecipacao1.2v) | Simulador para MDR padrão + antecipação de recebíveis        |
+| [`0_LiquiCalc.2.3v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/0_LiquiCalc.2.3v)                       | Versão consolidada com todos os cálculos em um único arquivo |
+| [`1_simulador_mdr-padrao2.0v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/1_simulador_mdr-padrao2.0v)   | Simulador exclusivo para cálculo da MDR padrão               |
+| [`2_simulador_mdr-flex2.1v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/2_simulador_mdr-flex2.1v)       | Simulador exclusivo para cálculo da MDR flexível             |
+| [`3_simulador_antecipacao2.2v/`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/3_simulador_antecipacao2.2v) | Simulador para MDR padrão + antecipação de recebíveis        |
 
 ---
 
