@@ -10,39 +10,6 @@ Cada referência está acompanhada de comentários sobre o que foi aproveitado o
 
 ## 🔗 Referências Inspiradoras
 
-| **Tipo**              | **Referência**                                                                                                                                                                                                                         | **O que inspirou / Por que faz sentido**                                                                                                                                                                                                                                                                                    |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Livro**             | [*Thinking, Fast and Slow* – Daniel Kahneman (2011)](https://nae.com.pt/wp-content/uploads/Rapido-e-Devagar-Daniel-Kahneman.pdf)                                                                              | Explica como tomamos decisões (rápidas e intuitivas ou lentas e racionais). Inspirou a ideia de simplificar a interface do LiquiCalc para apoiar decisões financeiras sem sobrecarregar o usuário com excesso de cálculos. Mostra que clareza e objetividade são cruciais quando lidamos com taxas e projeções financeiras. |
-| **Livro**             | [*The Pragmatic Programmer* – Andrew Hunt & David Thomas](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/?utm_source=chatgpt.com)                                                                 | Reforça boas práticas de modularidade, organização e simplicidade no código. Inspirou a estrutura organizada do projeto LiquiCalc (versões em Excel, .bat e Web), tornando-o um sistema fácil de manter e evoluir.                                                                                                          |
-| **Livro**             | [*Designing Data-Intensive Applications* – Martin Kleppmann](https://github.com/samayun/devbooks/blob/master/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems%20(%20PDFDrive%20).pdf)                                                         | Mostra como lidar com grandes volumes de dados de forma segura e confiável. Inspirou a pensar o LiquiCalc como algo mais do que uma calculadora simples, mas como uma ferramenta que pode crescer, ser escalável e confiável ao lidar com simulações e projeções financeiras.                                               |
-| **Filme**             | [*Moneyball* (2011) – O Homem que Mudou o Jogo](https://www.google.com/search?q=O+Homem+Que+Mudou+o+Jogo&oq=O+Homem+Que+Mudou+o+Jogo&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIKCAEQLhixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBBzIyOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)                                                                                                                                                 | A história real de como estatísticas mudaram o beisebol. Inspirou a ideia de usar dados e cálculos como ferramenta estratégica de decisão, assim como o LiquiCalc busca transformar cálculos financeiros complexos em insights claros para profissionais e pequenos negócios.                                               |
-| **Documentário**      | [*Banking on Bitcoin* (2016)](https://www.google.com/search?q=Banco+ou+Bitcoin&oq=Banco+ou+Bitcoin&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIGCAUQRRg9MgYIBhBFGD0yBggHEEUYPdIBBzIzMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)                                                                                                                                                                   | Mostra como a inovação pode transformar o mercado financeiro. Inspirou a pensar no LiquiCalc como uma forma de trazer algo novo e acessível para adquirência, assim como o Bitcoin trouxe novas formas de ver transações digitais.                                                                                          |
-| **Canal YouTube**     | [*3Blue1Brown* – Grant Sanderson](https://www.youtube.com/c/3blue1brown)                                                                                                                                                               | Apresenta matemática complexa de forma visual e didática. Inspirou diretamente a forma como o LiquiCalc deve ser simples, visualmente claro e intuitivo, mesmo tratando de cálculos complicados de MDR e antecipação.                                                                                                       |
-| **Curso Online**      | [Google UX Design (Coursera)](https://www.coursera.org/professional-certificates/google-ux-design?utm_source=chatgpt.com)                                                                                                              | Inspirou boas práticas de experiência do usuário: não basta calcular, é preciso apresentar resultados de forma visual, acessível e amigável, especialmente para quem não domina matemática financeira.                                                                                                                      |
-| **Artigo Científico** | [Estudos sobre visualização de dados financeiros](https://bdta.abcd.usp.br/directbitstream/1cac4ff6-9280-4ec4-b3cb-e792735b3fa9/Mercado%20de%20adquirencia%20brasileiro%20para%20pequenos%20empreendedores.pdf?utm_source=chatgpt.com) | Inspirou a forma de estruturar dashboards e relatórios claros. Mostrou que a comunicação visual é tão importante quanto o cálculo em si, e ajudou a guiar como o LiquiCalc apresenta resultados ao usuário.                                                                                                                 |      
-
----
-
-## 📎 Considerações Finais
-
-A análise dessas referências foi essencial para **acelerar decisões técnicas, evitar retrabalho e aprimorar o LiquiCalc**. O projeto se beneficia dessas inspirações ao incorporar **soluções testadas, adaptadas e complementadas** às necessidades específicas, sempre respeitando os direitos autorais e a propriedade intelectual de terceiros.
-
-Este documento será atualizado conforme novas fontes de estudo forem descobertas ou integradas, mantendo o histórico de **evolução e benchmarking técnico**.
-
----
-
-## 🙏 Agradecimento e Reconhecimento
-
-Nada é feito sozinho. O desenvolvimento do **LiquiCalc** é resultado de estudo, dedicação e colaboração com a comunidade do conhecimento. Cada referência aqui apresentada serviu como fonte de inspiração legítima — nunca como cópia ou apropriação indevida.
-
-Agradecemos aos autores dos livros, filmes, vídeos e artigos científicos que contribuíram indiretamente para o projeto. A comunidade técnica cresce quando compartilha, e o **LiquiCalc** é mais uma peça nesse ecossistema de aprendizado coletivo.
-
-
-
----
-
-## 📑 Referências utilizadas no desenvolvimento do **LiquiCalc**
-
 | Categoria          | Referência                                                                                                                                                                                                                                 | Descrição                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 | Inspirações gerais | [Designing Data-Intensive Applications – Martin Kleppmann](https://unidel.edu.ng/focelibrary/books/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems%20by%20Martin%20Kleppmann%20(z-lib.org).pdf)                                                                                                                                                     | Estrutura de sistemas e tratamento de grandes volumes de dados de forma confiável.      |
@@ -73,6 +40,30 @@ Agradecemos aos autores dos livros, filmes, vídeos e artigos científicos que c
 | Antecipação*        | [Artigo científico – Antecipação de Recebíveis: Implicações dentro do ciclo financeiro](https://recima21.com.br/index.php/recima21/article/view/3739)                                                                                      | Abordagem acadêmica sobre implicações da antecipação.                                   |
 | Antecipação*        | [Aspectos jurídicos e tributários – Antecipação de Recebíveis](https://bonettiassociados.com.br/index.php/2025/02/27/antecipacao-de-recebiveis-de-cartoes-de-credito-aspectos-juridicos-e-tributarios/)                                    | Perspectiva legal e tributária da antecipação.                                          |
 | Antecipação*        | [Grupo ViaInvest – Como funciona a antecipação na maquininha](https://blog.grupoviainvest.com.br/antecipacao-na-maquina-de-cartao-como-funciona-e-por-que-utilizar/)                                                                       | Material explicativo prático sobre antecipação no dia a dia.                            |
+                                                                                             |      
+
+---
+
+## 📎 Considerações Finais
+
+A análise dessas referências foi essencial para **acelerar decisões técnicas, evitar retrabalho e aprimorar o LiquiCalc**. O projeto se beneficia dessas inspirações ao incorporar **soluções testadas, adaptadas e complementadas** às necessidades específicas, sempre respeitando os direitos autorais e a propriedade intelectual de terceiros.
+
+Este documento será atualizado conforme novas fontes de estudo forem descobertas ou integradas, mantendo o histórico de **evolução e benchmarking técnico**.
+
+---
+
+## 🙏 Agradecimento e Reconhecimento
+
+Nada é feito sozinho. O desenvolvimento do **LiquiCalc** é resultado de estudo, dedicação e colaboração com a comunidade do conhecimento. Cada referência aqui apresentada serviu como fonte de inspiração legítima — nunca como cópia ou apropriação indevida.
+
+Agradecemos aos autores dos livros, filmes, vídeos e artigos científicos que contribuíram indiretamente para o projeto. A comunidade técnica cresce quando compartilha, e o **LiquiCalc** é mais uma peça nesse ecossistema de aprendizado coletivo.
+
+
+
+---
+
+## 📑 Referências utilizadas no desenvolvimento do **LiquiCalc**
+
 
 ---
 
