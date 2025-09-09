@@ -40,8 +40,7 @@ Cada referência está acompanhada de comentários sobre o que foi aproveitado o
 | Antecipação*        | [Caixa Econômica Federal – Como solicitar a antecipação de pagamentos na maquininha da Caixa?](https://selectra.net.br/financas/maquininha/caixa)                                                                                          | Tutorial da Caixa sobre antecipação em maquininhas.                                     |
 | Antecipação*        | [Artigo científico – Antecipação de Recebíveis: Implicações dentro do ciclo financeiro](https://recima21.com.br/index.php/recima21/article/view/3739)                                                                                      | Abordagem acadêmica sobre implicações da antecipação.                                   |
 | Antecipação*        | [Aspectos jurídicos e tributários – Antecipação de Recebíveis](https://bonettiassociados.com.br/index.php/2025/02/27/antecipacao-de-recebiveis-de-cartoes-de-credito-aspectos-juridicos-e-tributarios/)                                    | Perspectiva legal e tributária da antecipação.                                          |
-| Antecipação*        | [Grupo ViaInvest – Como funciona a antecipação na maquininha](https://blog.grupoviainvest.com.br/antecipacao-na-maquina-de-cartao-como-funciona-e-por-que-utilizar/)                                                                       | Material explicativo prático sobre antecipação no dia a dia.                            |
-                                                                                             |      
+| Antecipação*        | [Grupo ViaInvest – Como funciona a antecipação na maquininha](https://blog.grupoviainvest.com.br/antecipacao-na-maquina-de-cartao-como-funciona-e-por-que-utilizar/)                                                                       | Material explicativo prático sobre antecipação no dia a dia.                            |  
 
 ---
 
