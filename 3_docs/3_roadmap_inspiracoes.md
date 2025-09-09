@@ -57,13 +57,3 @@ Este documento será atualizado conforme novas fontes de estudo forem descoberta
 Nada é feito sozinho. O desenvolvimento do **LiquiCalc** é resultado de estudo, dedicação e colaboração com a comunidade do conhecimento. Cada referência aqui apresentada serviu como fonte de inspiração legítima — nunca como cópia ou apropriação indevida.
 
 Agradecemos aos autores dos livros, filmes, vídeos e artigos científicos que contribuíram indiretamente para o projeto. A comunidade técnica cresce quando compartilha, e o **LiquiCalc** é mais uma peça nesse ecossistema de aprendizado coletivo.
-
-
-
----
-
-## 📑 Referências utilizadas no desenvolvimento do **LiquiCalc**
-
-
----
-
