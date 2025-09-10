@@ -17,7 +17,7 @@ Este documento apresenta o planejamento dos testes do projeto **LiquiCalc**, seg
 | MDR Flexível           | Excel             | 2.1.1      | teste_calculo_mdr-flex_2.1.md                 | Pendente      |
 | Antecipação            | Excel             | 2.2.1      | teste_calculo_antecipacao_2.2.md              | Pendente      |
 | Consolidado            | Excel             | 2.3.1      | teste_calculo_liquicalc_2.3.md                | Pendente      |
-| MDR Padrão             | BAT               | 3.0.1      | teste_calculo_mdr-padrao_2.0.md               | Pendente      |
+| MDR Padrão             | BAT               | 3.0.1      | teste_calculo_mdr-padrao_3.0.md               | Pendente      |
 | MDR Flexível           | BAT               | 3.1.1      | teste_calculo_mdr-flex_2.1.md                 | Pendente      |
 | Antecipação            | BAT               | 3.2.1      | teste_calculo_antecipacao_2.2.md              | Pendente      |
 | Consolidado            | BAT               | 3.3.1      | teste_calculo_liquicalc_2.3.md                | Pendente      |
