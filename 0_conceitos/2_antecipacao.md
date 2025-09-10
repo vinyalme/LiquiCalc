@@ -156,14 +156,12 @@ Formas de reduzir o impacto da antecipação:
 ## 🔗 Referências
 
 * [Stone – Como funciona a antecipação automática](https://ajuda.stone.com.br/antecipacao/antecipacao-e-seus-beneficios)
-* [Rede – Diferença entre antecipação avulsa e programada](https://www.userede.com.br/novo/blog/saiba-a-diferenca-entre-a-antecipacao-avulsa-e-o-flex/)
 * [PagSeguro – Taxas de antecipação por bandeira](https://pagbank.com.br/para-seu-negocio/maquininhas/taxas-e-tarifas)
 * [InfinitePay – Antecipação em D+1 e D+2](https://ajuda.infinitepay.io/pt-BR/articles/10301865-posso-antecipar-minhas-vendas-para-receber-no-mesmo-dia)
 * [Equals – Simulador de antecipação de recebíveis](https://equals.com.br/blog/simular-antecipacao-de-recebiveis-conheca-a-solucao-da-equals/)
 * [Serasa – Guia de antecipação para pequenos negócios](https://www.serasaexperian.com.br/conteudos/pequenas-empresas/)
 * [Caixa Econômica Federal – Como solicitar a antecipação de pagamentos na maquininha da Caixa?](https://selectra.net.br/financas/maquininha/caixa)
-* [Artigo científico - ANTECIPAÇÃO DE RECEBÍVEIS – IMPLICAÇÕES DENTRO DO CICLO FINANCEIRO](https://recima21.com.br/index.php/recima21/article/view/3739)
-* [Aspectos jurídicos e tributários - ANTECIPAÇÃO DE RECEBÍVEIS – IMPLICAÇÕES DENTRO DO CICLO FINANCEIRO](https://bonettiassociados.com.br/index.php/2025/02/27/antecipacao-de-recebiveis-de-cartoes-de-credito-aspectos-juridicos-e-tributarios/)
-* [Grupo ViaInvest – Como funciona a antecipação na maquininha](https://blog.grupoviainvest.com.br/antecipacao-na-maquina-de-cartao-como-funciona-e-por-que-utilizar/)
-
----
+* [Artigo científico – Antecipação de Recebíveis: Implicações dentro do ciclo financeiro](https://recima21.com.br/recima21/article/view/3739/2678)
+* [Aspectos jurídicos e tributários – Antecipação de Recebíveis](https://bonettiassociados.com.br/index.php/2025/02/27/antecipacao-de-recebiveis-de-cartoes-de-credito-aspectos-juridicos-e-tributarios/)
+* [Meios de pagamento - Como calcular a taxa de antecipação](https://www.youtube.com/watch?v=lI4iiWQ4VhY)
+* [Como funciona a antecipação de pagamentos?](https://www.youtube.com/watch?v=VJIm7YCPHeE)
