@@ -179,6 +179,10 @@ Existem formas de reduzir ou contornar o impacto da MDR:
 
 - [Asaas – O que é MDR](https://blog.asaas.com/o-que-e-mdr/)  
 - [Equals – Taxa MDR: entenda como funciona](https://equals.com.br/blog/taxa-mdr/)  
-- [iDinheiro – O que é MDR e como funciona](https://www.idinheiro.com.br/financas-pessoais/o-que-e-mdr/)  
-- [InfinitePay – O que é taxa MDR](https://blog.infinitepay.io/o-que-e-taxa-mdr/)  
-- [Shield Bank – Como a MDR impacta seu negócio e como se livrar dela](https://shieldbank.com.br/blog/mdr-taxas-cartao/)  
+- [iDinheiro – O que é MDR e como funciona](https://www.idinheiro.com.br/negocios/mdr-taxa-desconto/) 
+- [InfinitePay – O que é taxa MDR](https://www.infinitepay.io/blog/o-que-e-taxa-mdr) 
+- [Shield Bank – Como a MDR impacta seu negócio e como se livrar dela](https://shieldbank.com.br/2024/10/20/o-que-e-taxa-mdr-como-ela-impacta-seu-negocio-e-como-se-livrar-dela/)
+- [Como Funcionam as Taxas das Máquinas de Cartão?](https://www.youtube.com/watch?v=ZU45yUq7ciU)
+- [TAXA de CARTÕES (MDR), como reduzir? – Indicadores Financeiros](https://www.youtube.com/watch?v=sh3Qw7o6cus)
+- [Venda com Cartão de Crédito: a MDR e Antecipação das Parcelas](https://www.youtube.com/watch?v=2io7VDFWdhk)
+- [MAQUININHA COM PARCELAMENTO EM 21 VEZES - 3RMS TECH](https://www.youtube.com/watch?v=29HUpPIBFtw)
