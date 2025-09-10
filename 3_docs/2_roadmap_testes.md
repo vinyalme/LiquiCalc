@@ -23,7 +23,7 @@ Este documento apresenta o planejamento dos testes do projeto **LiquiCalc**, seg
 | Consolidado            | BAT               | 3.3.1      | teste_calculo_liquicalc_3.3.md                | Pendente      |
 | MDR Padrão             | Web               | 4.0.1      | teste_calculo_mdr-padrao_4.0.md               | Pendente      |
 | MDR Flexível           | Web               | 4.1.1      | teste_calculo_mdr-flex_4.1.md                 | Pendente      |
-| Antecipação            | Web               | 4.2.1      | teste_calculo_antecipacao_3.2.md              | Pendente      |
+| Antecipação            | Web               | 4.2.1      | teste_calculo_antecipacao_4.2.md              | Pendente      |
 | Consolidado            | Web               | 4.3.1      | teste_calculo_liquicalc_3.3.md                | Pendente      |
 | Testes integrados      | Web               | 4.3.2      | teste_calculo_liquicalc_3.3.md                | Pendente      |
 ---
