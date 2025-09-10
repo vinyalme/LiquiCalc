@@ -8,9 +8,9 @@ Este documento apresenta o planejamento dos testes do projeto **LiquiCalc**, seg
 
 ## 🧪 Testes por Modalidade e Simulador
 
-| Modalidade             | Tipo de Simulador | Versão | Arquivo de Teste                              | Status        |
-|------------------------|-------------------|--------|-----------------------------------------------|---------------|
-| MDR Padrão             | Conceitual        | 1.0.1      | 0_teste_conceito_mdr-padrao.md                | Em andamento  |
+| Modalidade             | Tipo de Simulador | Versão     | Arquivo de Teste                              | Status        |
+|------------------------|-------------------|------------|-----------------------------------------------|---------------|
+| MDR Padrão             | Conceitual        | 1.0.1      | 0_teste_conceito_mdr-padrao.md                | Concluído     |
 | MDR Flexível           | Conceitual        | 1.1.1      | 1_teste_conceito_mdr-flex.md                  | Pendente      |
 | Antecipação            | Conceitual        | 1.2.1      | 2_teste_conceito_antecipacao.md               | Pendente      |
 | MDR Padrão             | Excel             | 2.0.1      | teste_calculo_mdr-padrao_1.0.md               | Pendente      |
