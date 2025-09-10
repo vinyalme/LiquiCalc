@@ -25,7 +25,7 @@ Este documento apresenta o planejamento dos testes do projeto **LiquiCalc**, seg
 | MDR Flexível           | Web               | 4.1.1      | teste_calculo_mdr-flex_4.1.md                 | Pendente      |
 | Antecipação            | Web               | 4.2.1      | teste_calculo_antecipacao_4.2.md              | Pendente      |
 | Consolidado            | Web               | 4.3.1      | teste_calculo_liquicalc_4.3.md                | Pendente      |
-| Testes integrados      | Web               | 4.4.1      | teste_calculo_liquicalc_4.4.md                | Pendente      |
+| Testes integrados      | Web               | 4.4.0      | teste_calculo_liquicalc_4.4.md                | Pendente      |
 ---
 
 ## 📊 Classificação por Estado de Maturidade
