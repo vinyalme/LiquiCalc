@@ -34,7 +34,7 @@ A MDR pode variar conforme:
 
 - A bandeira do cartão (Visa, Mastercard, Elo, Cabal, Amex, etc.)
 - A modalidade da venda (Débito, Crédito à Vista, Crédito Parcelado, Pré-autorização, Voucher, Qr Code {Carteira Digital}, Vendas Digitadas)
-- O prazo de recebimento (D+1, D+2, D+15, D+30 e etc.)  
+- O prazo de recebimento (D+1, D+2, D+10, D+15, D+30 e etc.)  
 - O volume de vendas e a negociação com a adquirente  
 
 ---
@@ -111,7 +111,7 @@ O **MDR Padrão** é aplicável apenas quando o lojista **não utiliza MDR Flex*
 - Exemplo: Crédito à vista → D+30 corridos (liquidação em dia útil).
 
 ### ✅ 2. Com Antecipação Automática
-- O lojista contratou antecipação com recebimento em D+1, D+2, D+5, D+15 ou D+30.
+- O lojista contratou antecipação com recebimento em D+1, D+2, D+5, D+10, D+15 ou D+30.
 - A taxa de antecipação é aplicada **sobre o valor líquido** (após MDR Padrão).
 - A liquidação ocorre sempre em **dias úteis**.
 
@@ -168,7 +168,7 @@ Existem formas de reduzir ou contornar o impacto da MDR:
 
 - A MDR é sempre aplicada sobre o valor bruto da venda  
 - Em vendas parceladas, a taxa tende a ser maior  
-- O prazo de recebimento (D+1, D+2, D+15, D+30 e etc.) não altera o MDR padrão, mas impacta o fluxo de caixa  
+- O prazo de recebimento (D+1,D+2,D+10,D+15,D+30 e etc.) não altera o MDR padrão, mas impacta o fluxo de caixa  
 - A taxa pode ser:
   - 📦 Fixa (modelo Blended)  
   - 📈 Variável (modelo Interchange++)  
