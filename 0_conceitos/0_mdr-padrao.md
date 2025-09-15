@@ -168,7 +168,7 @@ Existem formas de reduzir ou contornar o impacto da MDR:
 
 - A MDR é sempre aplicada sobre o valor bruto da venda  
 - Em vendas parceladas, a taxa tende a ser maior  
-- O prazo de recebimento (D+1,D+2,D+10,D+15,D+30 e etc.) não altera o MDR padrão, mas impacta o fluxo de caixa  
+- O prazo de recebimento (D+1, D+2, D+10, D+15, D+30 e etc.) não altera o MDR padrão, mas impacta o fluxo de caixa  
 - A taxa pode ser:
   - 📦 Fixa (modelo Blended)  
   - 📈 Variável (modelo Interchange++)  
