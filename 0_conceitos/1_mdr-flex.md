@@ -61,7 +61,7 @@ Onde:
 | Fator 1ª Parcela        | Valor fixo aplicado a todas as operações   | 1,54%                               |
 | Fator Parcela Adicional | Valor por parcela extra (acima da 1ª)      | 1,99% × (parcelas − 1)              |
 
-🔍 A soma desses fatores gera a taxa final de MDR aplicada à operação.  
+🔍 A soma desses fatores gera a taxa final de MDR Flex aplicada à operação.  
 
 ---
 
