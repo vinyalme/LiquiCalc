@@ -53,14 +53,15 @@ Onde:
 
 ---
 
-## 📊 Diferença entre Fator 1 e Fator 2
+## 📊 Diferença entre Fator Base e Fator Parcela
 
-| Fator            | Descrição                                                                  | Exemplos de Aplicação                         |
-|------------------|----------------------------------------------------------------------------|-----------------------------------------------|
-| **Fator 1**      | Percentual base de desconto, definido por risco, perfil ou setor           | 2,5% para clientes com alto risco             |
-| **Fator 2**      | Ajustador contextual, varia conforme prazo, volume ou tipo de operação     | 1,2 para antecipações acima de 60 dias        |
+| Fator                   | Descrição                                  | Exemplos de Aplicação               |
+|-------------------------|--------------------------------------------|-------------------------------------|
+| Fator Base              | Percentual fixo conforme faixa de parcelas | 2,18% para vendas em até 6 parcelas |
+| Fator 1ª Parcela        | Valor fixo aplicado a todas as operações   | 1,54%                               |
+| Fator Parcela Adicional | Valor por parcela extra (acima da 1ª)      | 1,99% × (parcelas − 1)              |
 
-🔍 A multiplicação dos dois fatores resulta na taxa final de MDR aplicada à operação.
+🔍 A soma desses fatores gera a taxa final de MDR aplicada à operação.  
 
 ---
 
