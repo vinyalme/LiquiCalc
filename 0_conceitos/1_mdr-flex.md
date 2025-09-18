@@ -99,12 +99,13 @@ Esse valor representa o montante descontado da operação, que será retido pela
 
 A MDR Flexível pode ser composta por:
 
-| Componente         | Origem do Fator       | Exemplos de Influência                            |
-|--------------------|-----------------------|---------------------------------------------------|
-| 🧮 Fator 1         | Risco e perfil       | Score de crédito, setor, histórico de pagamento   |
-| 📊 Fator 2         | Contexto da operação | Prazo de recebimento, volume, tipo de antecipação |
+| Componente              | Origem do Fator        |Exemplos de Influência                  |
+|-------------------------|------------------------|----------------------------------------|
+| Fator Base              | Faixa de parcelamento  | 1x, 2–6x, 7–12x                        |
+| Fator 1ª Parcela        | Política da adquirente | Aplicado a todas as vendas             |
+| Fator Parcela Adicional | Custo de antecipação   | Parcelas extras aumentam risco e custo |
 
-💡 Essa composição permite calibrar a taxa conforme o cenário específico da operação.
+💡 Essa composição permite calibrar a taxa conforme **número de parcelas** e **modelo de liquidação**.  
 
 ---
 
