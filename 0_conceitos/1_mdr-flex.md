@@ -55,11 +55,11 @@ Onde:
 
 ## 📊 Diferença entre Fator Base e Fator Parcela
 
-| Fator                   | Descrição                                  | Exemplos de Aplicação               |
-|-------------------------|--------------------------------------------|-------------------------------------|
-| Fator Base              | Percentual fixo conforme faixa de parcelas | 2,18% para vendas em até 6 parcelas |
-| Fator 1ª Parcela        | Valor fixo aplicado a todas as operações   | 1,54%                               |
-| Fator Parcela Adicional | Valor por parcela extra (acima da 1ª)      | 1,99% × (parcelas − 1)              |
+| Fator                   | Descrição                                      | Exemplos de Aplicação                                         |
+|-------------------------|------------------------------------------------|---------------------------------------------------------------|
+| Fator Base              | Percentual definido pela faixa de parcelamento | 2,18% para vendas em até 6 parcelas e 2,50% de 7 a 12 parcelas|
+| Fator 1ª Parcela        | Valor fixo aplicado a todas as operações       | 1,54%                                                         |
+| Fator Parcela Adicional | Valor por parcela extra (acima da 1ª)          | 1,99% × (parcelas − 1)                                        |
 
 🔍 A soma desses fatores gera a taxa final de MDR Flex aplicada à operação.  
 
