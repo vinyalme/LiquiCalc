@@ -10,7 +10,7 @@ Os testes estão organizados em quatro categorias principais:
 
 - **🧪 Testes Conceituais**  
   Validam a lógica teórica dos cálculos, como MDR padrão, MDR flexível e antecipação de recebíveis.  
-  Acesse aqui: [*🧪 Testes Conceituais – LiquiCalc*](https://github.com/vinyalme/LiquiCalc/tree/main/2_testes/0_conceitos_teste)
+  Acesse aqui: [*🧪 Testes Conceituais*](https://github.com/vinyalme/LiquiCalc/tree/main/2_testes/0_conceitos_teste)
 
 - **📊 Testes em Excel**  
   Permitem conferência manual dos cálculos e fórmulas aplicadas nas planilhas.  
