@@ -74,7 +74,7 @@ Onde:
 📌 Exemplo prático: Venda de R$ 500,00 no crédito à vista com MDR de 2,8%:  
 
 ```plaintext
-Taxa Cobrada = 500 × 0,028 = **R$ 14,00**
+Taxa Cobrada = 500 × 0,028 = R$ 14,00
 ```
 
 🔎 Ou seja, o empreendedor pagará **R$ 14,00** de taxa sobre essa venda.
