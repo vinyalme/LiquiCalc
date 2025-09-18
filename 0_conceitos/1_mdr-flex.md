@@ -88,7 +88,7 @@ Valor Recebido = Receita Bruta − (Receita Bruta × MDR_flex)
 A taxa efetiva cobrada sobre a receita bruta é:
 
 ```plaintext
-Taxa Cobrada = Receita Bruta × MDR_flex
+MDR_flex = Fator Base + Fator 1ª Parcela + (Parcelas − 1) × Fator Parcela Adicional
 ```
 
 Esse valor representa o montante descontado da operação, que será retido pela adquirente ou instituição financeira.
