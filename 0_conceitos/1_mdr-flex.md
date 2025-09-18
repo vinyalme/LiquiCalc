@@ -42,13 +42,14 @@ Valor recebido pelo lojista: R$ 4.316,50
 A fórmula principal da MDR Flexível é:
 
 ```plaintext
-MDR_flex = Fator 1 × Fator 2
+MDR_flex = Fator Base + Fator 1ª Parcela + (Parcelas − 1) × Fator Parcela Adicional
 ```
 
 Onde:
 
-- **Fator 1** = percentual base de desconto  
-- **Fator 2** = multiplicador ajustável conforme contexto  
+- Fator Base: percentual definido pela faixa de parcelamento.
+- Fator da 1ª Parcela: valor fixo aplicado a todas as vendas.
+- Fator Parcela Adicional: valor aplicado a cada parcela além da primeira. 
 
 ---
 
