@@ -32,8 +32,8 @@ O **MDR Flexível** é uma taxa de desconto aplicada sobre vendas com cartão, u
 - 5 parcelas adicionais × 1,99% = 9,95%  
 
 ```plaintext
-**MDR total = 2,18% + 1,54% + 9,95% = 13,67%**  
-Valor recebido pelo lojista: **R$ 4.316,50**
+MDR total = 2,18% + 1,54% + 9,95% = 13,67%  
+Valor recebido pelo lojista: R$ 4.316,50
 ```
 ---
 
