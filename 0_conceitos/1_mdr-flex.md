@@ -6,7 +6,7 @@
 
 - [🧠 O que é MDR Flexível?](#-o-que-é-mdr-flexível)
 - [📐 Fórmula de Cálculo](#-fórmula-de-cálculo)
-- [📊 Diferença entre Fator 1 e Fator 2](#-diferença-entre-fator-1-e-fator-2)
+- [📊 Diferença entre Fator Base e Fator Parcela](#-diferença-entre-fator-base-e-fator-parcela)
 - [💰 Cálculo do Valor Recebido pelo Associado](#-cálculo-do-valor-recebido-pelo-associado)
 - [💸 Fórmula de Cálculo da Taxa Cobrada](#-fórmula-de-cálculo-da-taxa-cobrada)
 - [🧩 Composição da MDR](#-composição-da-mdr)
