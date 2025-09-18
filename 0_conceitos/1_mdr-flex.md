@@ -30,6 +30,22 @@ A MDR Flexível é uma variação dinâmica da taxa de desconto aplicada sobre o
 
 Essa abordagem permite maior precisão na análise de liquidez e personalização da taxa conforme o contexto da operação.
 
+
+## 🧠 O que é MDR Flexível?
+O **MDR Flexível** é uma taxa de desconto aplicada sobre vendas com cartão, utilizada quando o lojista opta por **receber antecipadamente** (geralmente em D+2). Diferente de uma taxa fixa, o MDR Flexível **varia conforme o número de parcelas**, sendo calculado de forma **aditiva** com base em três componentes:
+
+- **Fator Base:** percentual definido pela faixa de parcelamento.  
+- **Fator da 1ª Parcela:** valor fixo aplicado a todas as vendas.  
+- **Fator Parcela Adicional:** valor aplicado a cada parcela além da primeira.  
+
+📌 **Exemplo:**  
+Venda de R$ 5.000,00 em 6 parcelas:  
+- Fator Base: 2,18%  
+- 1ª Parcela: 1,54%  
+- 5 parcelas adicionais × 1,99% = 9,95%  
+
+**MDR total = 2,18% + 1,54% + 9,95% = 13,67%**  
+Valor recebido pelo lojista: **R$ 4.316,50**  
 ---
 
 ## 📐 Fórmula de Cálculo
