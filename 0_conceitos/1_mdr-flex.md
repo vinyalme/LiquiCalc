@@ -26,14 +26,15 @@ O **MDR Flexível** é uma taxa de desconto aplicada sobre vendas com cartão, u
 - **Fator da 1ª Parcela:** valor fixo aplicado a todas as vendas.  
 - **Fator Parcela Adicional:** valor aplicado a cada parcela além da primeira.  
 
-📌 **Exemplo:**  
-Venda de R$ 5.000,00 em 6 parcelas:  
+📌 **Exemplo:** Venda de R$ 5.000,00 em 6 parcelas:  
 - Fator Base: 2,18%  
 - 1ª Parcela: 1,54%  
 - 5 parcelas adicionais × 1,99% = 9,95%  
 
+```plaintext
 **MDR total = 2,18% + 1,54% + 9,95% = 13,67%**  
-Valor recebido pelo lojista: **R$ 4.316,50**  
+Valor recebido pelo lojista: **R$ 4.316,50**
+```
 ---
 
 ## 📐 Fórmula de Cálculo
