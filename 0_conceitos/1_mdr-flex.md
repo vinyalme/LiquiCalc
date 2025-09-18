@@ -116,7 +116,7 @@ Essa modalidade não permite a contratação de antecipações adicionais (autom
 
 ### ✅ Quando o MDR Flexível é aplicável 
 - O lojista contratou MDR Flex com liquidação em D+2.
-- A taxa é calculada com base nos fatores definidos (Fator 1 e Fator 2).
+- A taxa é calculada com base nos fatores definidos (Fator Base, Fator 1 e Fator 2).
 - O valor líquido é recebido em até dois dias úteis após a venda.
 
 ### ❌ Quando o MDR Flexível não é aplicável
