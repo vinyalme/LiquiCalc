@@ -47,7 +47,7 @@ if not defined bruto (
 :valorParcelas
 set "parcelas="
 set /p parcelas=Digite o numero de parcelas (ex: 6): 
-for /f "usebackq delims=" %%a in (powershell -NoProfile -Command "$n='%parcelas%'; try{$n=[int]$n}catch{$n=1}; if($n -lt 1){$n=1}; $n") do set "parcelas=%%a"
+for /f "usebackq delims=" %%a in (`powershell -NoProfile -Command "$n='%parcelas%'; try{$n=[int]$n}catch{$n=1}; if($n -lt 1){$n=1}; $n"`) do set "parcelas=%%a"
 if not defined parcelas (
     echo Valor invalido. Tente novamente.
     goto valorParcelas
@@ -56,7 +56,7 @@ if not defined parcelas (
 :: Entrada do fator base
 :fatorBase
 set "fatorBase="
-set /p fatorBase=Digite o Fator Base em %%%% (ex: 1,50): 
+set /p fatorBase=Digite o Fator Base em %%%% (ex: 2,18): 
 set "fatorBase=%fatorBase:,=.%"
 if not defined fatorBase (
     echo Valor invalido. Tente novamente.
@@ -66,7 +66,7 @@ if not defined fatorBase (
 :: Entrada do fator da 1a parcela
 :fatorPrimeira
 set "fatorPrimeira="
-set /p fatorPrimeira=Digite o Fator da Primeira Parcela em %%%% (ex: 1,80): 
+set /p fatorPrimeira=Digite o Fator da 1a Parcela em %%%% (ex: 1,54): 
 set "fatorPrimeira=%fatorPrimeira:,=.%"
 if not defined fatorPrimeira (
     echo Valor invalido. Tente novamente.
@@ -122,14 +122,14 @@ if not defined liquido (
 echo.
 echo Resultado da Simulacao:
 echo ------------------------
-echo Valor Bruto:R$%bruto%
-echo Parcelas:%parcelas%x
-echo Fator Base:%fatorBase%%%
-echo Fator da Primeira Parcela:%fatorPrimeira%%%
-if not "%parcelas%"=="1" echo Fator Parcela Adicional:%fatorAdicional%%%
-echo MDR Flex Total:%mdrFlex%%%
-echo Taxa Cobrada:R$%taxa%
-echo Valor Liquido:R$%liquido%
+echo Valor Bruto:             R$%bruto%
+echo Parcelas:                %parcelas%x
+echo Fator Base:              %fatorBase%%%
+echo Fator 1a Parcela:        %fatorPrimeira%%%
+if not "%parcelas%"=="1" echo Fator Parcela Adicional: %fatorAdicional%%%
+echo MDR Flex Total:          %mdrFlex%%%
+echo Taxa Cobrada:            R$%taxa%
+echo Valor Liquido:           R$%liquido%
 echo.
 pause
 goto menu
@@ -146,15 +146,15 @@ echo Ele varia conforme o parcelamento e e calculado por
 echo soma de componentes.
 echo.
 echo Formula:
-echo - Venda a vista: MDR_flex(%%) = Fator Base + Fator da Primeira Parcela
-echo - Parcelado:     MDR_flex(%%) = Fator Base + Fator da Primeira Parcela + (Parcelas - 1) x Fator Parcela Adicional
+echo - Venda a vista: MDR_flex(%%) = Fator Base + Fator 1a Parcela
+echo - Parcelado:     MDR_flex(%%) = Fator Base + Fator 1a Parcela + (Parcelas - 1) x Fator Parcela Adicional
 echo Taxa Cobrada  = Valor Bruto x (MDR_flex / 100)
 echo Valor Liquido = Valor Bruto - Taxa Cobrada
 echo.
 echo Definicoes:
 echo - Fator Base: percentual por faixa de parcelamento
-echo - Primeira Parcela: valor fixo aplicado a toda venda
-echo - Parcela Adicional: aplica-se da 2 parcela em diante
+echo - 1a Parcela: valor fixo aplicado a toda venda
+echo - Parcela Adicional: aplica-se da 2a em diante
 echo.
 pause
 goto menu
