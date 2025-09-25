@@ -57,7 +57,7 @@ Após validar os limites operacionais com valores mínimos e máximos, é necess
 
 ---
 
-📊 **Resumo de Precisão dos Testes**
+## 📊 Resumo de Precisão dos Testes
 
 | Métrica             | Resultado |
 |---------------------|-----------|
@@ -71,7 +71,7 @@ Este resumo reforça a confiabilidade dos cálculos realizados pelo **LiquiCalc*
 
 ---
 
-📝 **Considerações Finais**  
+## 📝 Considerações Finais  
 
 Os testes apresentados neste relatório têm como objetivo validar a lógica de cálculo do **LiquiCalc** em diferentes cenários operacionais, incluindo valores extremos e todas as faixas de parcelamento disponíveis com aplicação de **MDR Flex**.  
 
@@ -84,4 +84,3 @@ Embora os resultados demonstrem precisão total, é importante lembrar que:
 Os testes de crédito parcelado com **MDR Flex** simulam transações com diferentes quantidades de parcelas (de 1x a 21x), variando também os fatores aplicados (Fator 1 e Fator 2).  
 
 Essa abordagem garante que o **LiquiCalc** mantenha sua precisão mesmo diante da complexidade crescente das operações.
-
