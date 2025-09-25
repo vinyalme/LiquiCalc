@@ -31,8 +31,6 @@ Este conjunto de testes serve como **referência oficial** para validar qualquer
 📌 **Objetivo dos Testes de Parcelamento**:  
 Após validar os limites operacionais com valores mínimos e máximos, é necessário testar o comportamento do sistema em situações mais dinâmicas e recorrentes.  
 
-### 🧾 Tabela 2 – Parcelamento de 1x a 21x (Venda de R$ 10.000.000,00)
-
 | Teste          | Tipo    | Parcelas | Valor da Venda | Fator base (%) | Fator 1 (%) | Fator Adicional (%) | Cálculo Taxa                            | Total Taxa (%) | 🧮 Valor Retido (Taxa) | 🧮 Valor Líquido | ✅ Verificação                         | Diferença | Precisão |
 |----------------|---------|----------|----------------|----------------|-------------|----------------------|-----------------------------------------|----------------|------------------------|------------------|---------------------------------------|-----------|----------|
 | Parcelado 1x   | Crédito | 1        | R$ 10.000.000  | 6.00           | 3.00        | —                    | 6.00% + 3.00%                           | 9.00%          | R$ 900,000.00          | R$ 9,100,000.00  | ✅ R$ 9,100,000 + R$ 900,000           | R$ 0,00   | 100,00%  |
