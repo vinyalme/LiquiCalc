@@ -7,7 +7,7 @@ Os testes foram divididos em dois grupos principais:
 1. **Testes de Valor Mínimo e Máximo** – para verificar os limites operacionais do sistema.  
 2. **Testes de Crédito Parcelado com Fator Flexível** – cobrindo todas as faixas de parcelamento de 1x a 21x, com variações de valores e aplicação dos fatores MDR Flex.  
 
-> ⚠️ **Importante**: Todos os cálculos apresentados aqui seguem rigorosamente a lógica da modalidade **MDR Flex**, conforme especificado no documento técnico `0mdr-flex.md`.  
+> ⚠️ **Importante**: Todos os cálculos apresentados aqui seguem rigorosamente a lógica da modalidade **MDR Flex**, conforme especificado no documento técnico [`1_mdr-flex.md`](https://github.com/vinyalme/LiquiCalc/blob/main/0_conceitos/1_mdr-flex.md).  
 > Ou seja, cada valor e cada simulação que você está vendo aqui serve para validar oficialmente esse arquivo.  
 
 Este conjunto de testes serve como **referência oficial** para validar qualquer implementação que utilize essa estrutura de cálculo.  
