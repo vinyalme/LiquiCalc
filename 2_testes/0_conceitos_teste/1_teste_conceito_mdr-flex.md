@@ -12,7 +12,7 @@ Os testes foram divididos em dois grupos principais:
 Este conjunto de testes serve como **referência oficial** para validar qualquer implementação que utilize essa estrutura de cálculo.  
 
 > 🔒 **Observação técnica**: A modalidade MDR Flex é aplicável **exclusivamente a transações no crédito**.  
-> Não se aplica a operações no débito.  
+> **Não se aplica a operações no débito.**  
 
 ---
 
