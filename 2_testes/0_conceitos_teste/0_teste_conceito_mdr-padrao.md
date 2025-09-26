@@ -28,7 +28,7 @@ Após validar os limites operacionais com valores mínimos e máximos, é necess
 
 | Teste         | Tipo              | Parcelas | Valor da Venda | MDR (%) | 🧮 Valor Retido (Taxa)         | 🧮 Valor Líquido             | ✅ Verificação | Diferença | Precisão   |
 |---------------|-------------------|----------|----------------|---------|--------------------------------|------------------------------|----------------|-----------|------------|
-| Parcelado 1x  | Crédito Parcelado | 1        | R$ 300,00      | 4.00    | R$ 12,00                        | R$ 288,00                    | ✅              | R$ 0,00   | 100,00%    |
+| Parcelado 1x  | Crédito à Vista | 1        | R$ 300,00      | 4.00    | R$ 12,00                        | R$ 288,00                    | ✅              | R$ 0,00   | 100,00%    |
 | Parcelado 2x  | Crédito Parcelado | 2        | R$ 450,00      | 4.20    | R$ 18,90                        | R$ 431,10                    | ✅              | R$ 0,00   | 100,00%    |
 | Parcelado 3x  | Crédito Parcelado | 3        | R$ 600,00      | 4.50    | R$ 27,00                        | R$ 573,00                    | ✅              | R$ 0,00   | 100,00%    |
 | Parcelado 4x  | Crédito Parcelado | 4        | R$ 750,00      | 4.80    | R$ 36,00                        | R$ 714,00                    | ✅              | R$ 0,00   | 100,00%    |
