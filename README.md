@@ -154,6 +154,16 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 
 ---
 
+## 📊 Classificação por Estado de Maturidade
+
+| Status        | Definição Técnica                                                                 |
+|---------------|-----------------------------------------------------------------------------------|
+| Concluído     | Teste finalizado, validado e pronto para uso técnico                              |
+| Em andamento  | Teste em desenvolvimento, revisão ou validação                                    |
+| Pendente      | Teste previsto no escopo, ainda não iniciado ou sem conteúdo definido             |
+
+---
+
 ## 💻 Tecnologias utilizadas
 
 - Excel
