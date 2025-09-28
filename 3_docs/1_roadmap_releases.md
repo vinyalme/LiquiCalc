@@ -26,6 +26,16 @@ Este documento apresenta o cronograma de releases do projeto **LiquiCalc**, orga
 
 ---
 
+## 📊 Classificação por Estado de Maturidade
+
+| Status        | Definição Técnica                                                                 |
+|---------------|-----------------------------------------------------------------------------------|
+| Concluído     | Teste finalizado, validado e pronto para uso técnico                              |
+| Em andamento  | Teste em desenvolvimento, revisão ou validação                                    |
+| Pendente      | Teste previsto no escopo, ainda não iniciado ou sem conteúdo definido             |
+
+---
+
 ## 📎 Considerações Finais
 
 O roadmap de releases é um instrumento estratégico para garantir que o LiquiCalc avance de forma estruturada e transparente. A divisão por tópicos e versões facilita o controle de escopo, a priorização de tarefas e a comunicação entre colaboradores. Este documento será atualizado conforme novas etapas forem concluídas ou replanejadas, mantendo o alinhamento entre planejamento e execução.
