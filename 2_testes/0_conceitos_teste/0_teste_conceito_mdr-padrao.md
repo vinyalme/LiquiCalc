@@ -12,7 +12,7 @@ Este documento apresenta os testes realizados para validação dos cálculos do 
 
 ## 🧾 Tabela 1 – Testes de Valor Mínimo e Máximo
 
-| Teste                  | Tipo               | Valor da Venda   | MDR (%) | 🧮 Valor Retido (Taxa)             | 🧮 Valor Líquido              | ✅ Verificação                                     | Diferença | Precisão   |
+| Teste                  | Tipo               | Valor da Venda   | MDR (%) | 🧮 Valor Retido (Taxa)             | 🧮 Valor Líquido             | ✅ Verificação                                     | Diferença | Precisão   |
 |------------------------|--------------------|------------------|---------|------------------------------------|-------------------------------|----------------------------------------------------|-----------|------------|
 | Valor Mínimo Débito    | Débito             | R$ 0,02          | 50.00   | R$ 0,02 × 50% = R$ 0,01            | R$ 0,01                       | ✅ R$ 0,01 + 0,01 = R$ 0,02                        | R$ 0,00   | 100.00%    |
 | Valor Mínimo Crédito   | Crédito à Vista    | R$ 0,02          | 50.00   | R$ 0,02 × 50% = R$ 0,01            | R$ 0,01                       | ✅ R$ 0,01 + 0,01 = R$ 0,02                        | R$ 0,00   | 100.00%    |
