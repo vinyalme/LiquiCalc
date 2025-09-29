@@ -177,6 +177,14 @@ Existem formas de reduzir ou contornar o impacto da MDR:
 
 ---
 
+## ✅ Testes de Validação do MDR Padrão
+
+A lógica de cálculo apresentada neste documento foi validada por meio de testes técnicos documentados em [`0_teste_conceito_mdr-padrao.md`](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/0_teste_conceito_mdr-padrao.md)  
+Esses testes abrangem cenários de valor mínimo e máximo, além de simulações completas de crédito parcelado de 1x a 21x, com diferentes faixas de MDR.  
+Todos os resultados confirmam a consistência matemática e operacional do modelo MDR Padrão, servindo como referência oficial para qualquer implementação no sistema LiquiCalc.
+
+---
+
 ## 🔗 Referências
 
 - [Asaas – O que é MDR](https://blog.asaas.com/o-que-e-mdr/)  
