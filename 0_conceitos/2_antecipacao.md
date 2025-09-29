@@ -81,7 +81,7 @@ A taxa de antecipação é definida pela adquirente e pode variar conforme:
 | 💳 Tipo de venda      | Crédito à vista ou parcelado      |
 | 📊 Número de parcelas | Impacta proporcionalidade da taxa |
 
-💡 A taxa é sempre aplicada sobre o valor líquido (após MDR) e a liquidação ocorre em dias úteis.
+> 💡 A taxa é sempre aplicada sobre o valor líquido (após MDR) e a liquidação ocorre em dias úteis.
 
 ---
 
