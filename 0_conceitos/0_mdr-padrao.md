@@ -13,6 +13,7 @@
 - [📉 Impacto no Negócio](#-impacto-no-negócio)
 - [⚖️ Alternativas e Redução](#️-alternativas-e-redução)
 - [📎 Observações Importantes](#-observações-importantes)
+- [✅ Testes de Validação do MDR Padrão](#-teste-de-validação-do-mdr-padrão)
 - [🔗 Referências](#-referências)
 
 ---
