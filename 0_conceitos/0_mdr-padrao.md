@@ -179,10 +179,22 @@ Existem formas de reduzir ou contornar o impacto da MDR:
 
 ## ✅ Testes de Validação
 
-A lógica de cálculo apresentada neste documento foi validada por meio de testes técnicos documentados em [`0_teste_conceito_mdr-padrao.md`](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/0_teste_conceito_mdr-padrao.md).
+A lógica de cálculo do modelo MDR Padrão foi submetida a uma série de testes técnicos, com o objetivo de garantir sua consistência matemática e operacional em diferentes ambientes. Os testes foram documentados e organizados em quatro frentes complementares:
 
-Esses testes abrangem cenários de valor mínimo e máximo, além de simulações completas de crédito parcelado de 1x a 21x, com diferentes faixas de MDR.  
-Todos os resultados confirmam a consistência matemática e operacional do modelo MDR Padrão, servindo como referência oficial para qualquer implementação no sistema LiquiCalc.
+- Validação Conceitual: Verificação teórica dos fundamentos e regras de cálculo.  
+- Validação em Excel: Simulações práticas em planilhas para comprovar os resultados esperados.  
+- Validação via Script .BAT: Testes automatizados para execução em ambiente local.  
+- Validação na Versão Web: Avaliação da lógica aplicada na interface online do sistema LiquiCalc.
+
+Esses testes contemplam cenários com valores mínimos e máximos, além de simulações completas de crédito parcelado de 1x a 21x, considerando diferentes faixas de MDR.  
+Os resultados obtidos comprovam a consistência matemática e operacional do modelo MDR Padrão, consolidando-o como referência oficial para qualquer implementação no sistema LiquiCalc.
+
+Cada etapa foi registrada em arquivos específicos, que servem como referência oficial para auditoria e implementação:
+
+🔗 0testeconceito_mdr-padrao.md  
+🔗 1testeexcel_mdr-padrao.xlsx  
+🔗 2testebat_mdr-padrao.bat  
+🔗 3testeweb_mdr-padrao.md
 
 ---
 
