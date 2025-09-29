@@ -29,6 +29,7 @@ Ela remunera três agentes principais:
 
 📌 Exemplo: em uma venda de R$ 1.000 com MDR de 3%, o lojista recebe R$ 970, ou seja, paga R$ 30,00 em taxas. 
 
+> 💡 **Importante**: A taxa MDR é sempre aplicada sobre o **valor bruto da venda**, independentemente de ser **à vista ou parcelado**. Ou seja, mesmo que o cliente parcele em várias vezes, a taxa incide sobre o valor total da compra
 
 A MDR pode variar conforme:
 
