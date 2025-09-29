@@ -111,13 +111,11 @@ A antecipação pode ser utilizada em conjunto com o MDR Padrão, mas **não pod
 
 * O lojista utiliza MDR Padrão.
 * Pode contratar antecipação automática com datas fixas (D+1, D+2, D+5, D+15, D+30).
-* Pode solicitar antecipação manual de valores específicos.
-* A taxa é definida pela adquirente e aplicada proporcionalmente às parcelas.
+* Pode solicitar antecipação manual de valores específicos. A taxa é definida pela adquirente e aplicada proporcionalmente às parcelas.
 
 ### ❌ Quando a antecipação não é aplicável
 
-* Quando o lojista utiliza MDR Flex (liquidação automática em D+2).
-* Nesse caso, o modelo já considera antecipação embutida e não permite novas antecipações.
+* Quando o lojista utiliza MDR Flex (liquidação automática em D+2). Nesse caso, o modelo já considera antecipação embutida e não permite novas antecipações.
 
 ---
 
