@@ -129,7 +129,7 @@ A antecipação afeta diretamente:
 * 📉 Custo financeiro da operação
 * 📊 Planejamento de fluxo de caixa
 
-🔍 Antecipações mal calibradas podem comprometer a margem de lucro, especialmente em vendas parceladas com taxas elevadas.
+> 🔍 Antecipações mal calibradas podem comprometer a margem de lucro, especialmente em vendas parceladas com taxas elevadas.
 
 ---
 
