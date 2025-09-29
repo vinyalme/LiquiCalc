@@ -13,7 +13,7 @@
 - [📉 Impacto no Negócio](#-impacto-no-negócio)
 - [⚖️ Alternativas e Redução](#️-alternativas-e-redução)
 - [📎 Observações Importantes](#-observações-importantes)
-- [✅ Testes de Validação do MDR Padrão](#-testes-de-validação-do-mdr-padrão)
+- [✅ Testes de Validação](#-testes-de-validação)
 - [🔗 Referências](#-referências)
 
 ---
@@ -177,7 +177,7 @@ Existem formas de reduzir ou contornar o impacto da MDR:
 
 ---
 
-## ✅ Testes de Validação do MDR Padrão
+## ✅ Testes de Validação
 
 A lógica de cálculo apresentada neste documento foi validada por meio de testes técnicos documentados em [`0_teste_conceito_mdr-padrao.md`](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/0_teste_conceito_mdr-padrao.md).
 
