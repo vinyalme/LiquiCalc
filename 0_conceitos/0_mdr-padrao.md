@@ -191,9 +191,9 @@ Os resultados obtidos comprovam a consistência matemática e operacional do mod
 
 Cada etapa foi registrada em arquivos específicos, que servem como referência oficial para auditoria e implementação:
 
-🔗 teste_conceito_mdr-padrao_1.0.md  
+🔗 teste_conceito_mdr-padrao_1.0.md
 🔗 teste_calculo_mdr-padrao_2.0.md
-🔗 teste_calculo_mdr-padrao_3.0.md  
+🔗 teste_calculo_mdr-padrao_3.0.md 
 🔗 teste_calculo_mdr-padrao_4.0.md 
 
 ---
