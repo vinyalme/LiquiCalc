@@ -191,10 +191,10 @@ Os resultados obtidos comprovam a consistência matemática e operacional do mod
 
 Cada etapa foi registrada em arquivos específicos, que servem como referência oficial para auditoria e implementação:
 
-- 🔗 ['teste_conceito_mdr-padrao_1.0.md'](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/1_simulador_mdr-padrao1.0v/teste_conceito_mdr-padrao.md)
-- 🔗 teste_calculo_mdr-padrao_2.0.md
-- 🔗 teste_calculo_mdr-padrao_3.0.md 
-- 🔗 teste_calculo_mdr-padrao_4.0.md 
+- 🔗 [`teste_conceito_mdr-padrao_1.0.md`](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/1_simulador_mdr-padrao1.0v/teste_conceito_mdr-padrao.md)
+- 🔗 `teste_calculo_mdr-padrao_2.0.md`
+- 🔗 `teste_calculo_mdr-padrao_3.0.md`
+- 🔗 `teste_calculo_mdr-padrao_4.0.md` 
 
 ---
 
