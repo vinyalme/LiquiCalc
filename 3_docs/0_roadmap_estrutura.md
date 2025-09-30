@@ -63,11 +63,11 @@ Este documento apresenta o organograma técnico do projeto LiquiCalc, detalhando
 │   ├── 📄 README.md (A)                                 # Visão geral dos testes: objetivo, escopo e regras de validação
 │   ├── 📁 0_conceitos_teste/ (V)                        # Testes conceituais para validar a lógica dos cálculos do LiquiCalc
 │   │   ├── 📁 1_simulador_mdr-padrao1.0v/ (V)
-│   │   │   └──📄 0_teste_conceito_mdr-padrao.md (A)     # Teste conceitual da MDR padrão
+│   │   │   └──📄 teste_conceito_mdr-padrao.md (A)       # Teste conceitual da MDR padrão
 │   │   ├── 📁 2_simulador_mdr-flex1.1v/ (V)
-│   │   │   └──📄 1_teste_conceito_mdr-flex.md (A)       # Teste conceitual da MDR flexível
+│   │   │   └──📄 teste_conceito_mdr-flex.md (A)         # Teste conceitual da MDR flexível
 │   │   └── 📁 3_simulador_antecipacao1.2v/ (V)
-│   │       └──📄 2_teste_conceito_antecipacao.md (A)    # Teste conceitual da antecipação de recebíveis
+│   │       └──📄 teste_conceito_antecipacao.md (A)      # Teste conceitual da antecipação de recebíveis
 │   │
 │   ├── 📁 1_excel_teste/ (P)                            # Simuladores em Excel para testes manuais e validação visual
 │   │   ├── 📁 0_LiquiCalc.2.3v/ (P)                  
