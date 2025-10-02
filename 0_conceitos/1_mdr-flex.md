@@ -178,6 +178,31 @@ Formas de reduzir o impacto da MDR Flexível:
 
 ---
 
+## ✅ **Testes de Validação**
+A lógica de cálculo do modelo **MDR Flexível** foi submetida a uma bateria de testes técnicos, com o objetivo de comprovar sua consistência matemática e operacional em diferentes ambientes. Assim como no MDR Padrão, os testes foram documentados e organizados em quatro frentes complementares:
+
+* **Validação Conceitual**: Revisão teórica dos fundamentos do MDR Flex, garantindo que a fórmula principal — *Fator Base + Fator 1ª Parcela + (Parcelas − 1) × Fator Parcela Adicional* — esteja alinhada às regras contratuais de adquirentes e às práticas de mercado.
+* **Validação em Excel**: Simulações em planilhas com diferentes valores brutos, faixas de parcelamento e combinações de fatores. Essa etapa comprovou a precisão do cálculo do valor líquido e da taxa cobrada.
+* **Validação via Script .BAT**: Implementação do modelo em ambiente local, com automação de cenários de 1x até 21x parcelas, incluindo variações extremas de receita (mínima e máxima).
+* **Validação na Versão Web (LiquiCalc)**: Testes interativos dentro da plataforma LiquiCalc, avaliando não só a exatidão matemática, mas também a usabilidade e a performance em consultas simultâneas.
+
+Esses testes contemplaram cenários variados, como:
+
+* Parcelamentos curtos (1x–3x), médios (4x–6x) e longos (7x–21x);
+* Diferença entre Fator Base, 1ª Parcela e Parcela Adicional;
+* Simulações de receita em escalas diferentes (de R$ 100 até R$ 1.000.000).
+
+📊 Os resultados obtidos confirmam que o modelo MDR Flexível mantém consistência matemática em todos os ambientes testados e representa fielmente a estrutura contratual de cálculo, consolidando-se como referência oficial para implementação no LiquiCalc.
+
+Cada etapa foi registrada em arquivos técnicos específicos, que servem como base para auditoria, manutenção e futuras evoluções do sistema:
+
+🔗 `teste_conceito_mdr-flex_1.0.md`
+🔗 `teste_calculo_mdr-flex_2.0.md`
+🔗 `teste_calculo_mdr-flex_3.0.md`
+🔗 `teste_calculo_mdr-flex_4.0.md`
+
+---
+
 ## 🔗 Referências
 
 - [Modelagem de Risco Financeiro – COPPEAD/UFRJ](https://pantheon.ufrj.br/bitstream/11422/1449/1/429.pdf)  
