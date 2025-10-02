@@ -196,10 +196,10 @@ Esses testes contemplaram cenários variados, como:
 
 Cada etapa foi registrada em arquivos técnicos específicos, que servem como base para auditoria, manutenção e futuras evoluções do sistema:
 
-- 🔗 `teste_conceito_mdr-flex_1.0.md`
-- 🔗 `teste_calculo_mdr-flex_2.0.md`
-- 🔗 `teste_calculo_mdr-flex_3.0.md`
-- 🔗 `teste_calculo_mdr-flex_4.0.md`
+- 🔗 [`teste_conceito_mdr-flex_1.1.md`](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/2_simulador_mdr-flex1.1v/teste_conceito_mdr-flex.md)
+- 🔗 `teste_calculo_mdr-flex_2.1.md`
+- 🔗 `teste_calculo_mdr-flex_3.1.md`
+- 🔗 `teste_calculo_mdr-flex_4.1.md`
 
 ---
 
