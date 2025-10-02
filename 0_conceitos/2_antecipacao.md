@@ -167,7 +167,7 @@ A lógica de cálculo do modelo de **Antecipação de Recebíveis** foi submetid
 
 Esses testes contemplaram cenários variados, como:
 
-  - Parcelamentos curtos (1x–3x), médios (4x–6x) e longos (7x–21x)
+   - Parcelamentos curtos (1x–3x), médios (4x–6x) e longos (7x–21x)
   - Diferentes prazos de antecipação (D+1, D+2, D+5, D+15, D+30)
   - Simulações de receita em escalas distintas (de R$ 100 até R$ 1.000.000)
   - Comparação de cálculos entre antecipação automática e manual
