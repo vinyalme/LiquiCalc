@@ -154,15 +154,15 @@ As versões disponíveis são:
 
 - **Simulador Excel**
 Implementado em planilha com fórmulas abertas e estrutura modular. Permite simulações manuais com variação de taxas por bandeira, produto ou faixa de valor, além de integração com modelos financeiros.
-🔗 [`simulador_mdr-flex.xlsx`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/2_simulador_mdr-flex2.1v)
+ - 🔗 [`simulador_mdr-flex.xlsx`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/2_simulador_mdr-flex2.1v)
 
 - **Simulador .BAT (Script Local)**
 Desenvolvido para execução automatizada em ambiente Windows. Ideal para rodar cenários em lote, validar combinações de taxas flexíveis e realizar auditoria técnica.
-🔗 [`simulador_mdr-flex.bat`](https://github.com/vinyalme/LiquiCalc/blob/main/1_simuladores/1_simulador_bat/2_simulador_mdr-flex3.1v/simulador_mdr-flex.bat)
+ - 🔗 [`simulador_mdr-flex.bat`](https://github.com/vinyalme/LiquiCalc/blob/main/1_simuladores/1_simulador_bat/2_simulador_mdr-flex3.1v/simulador_mdr-flex.bat)
 
 - **Simulador Web (LiquiCalc)**
 Disponível na interface online do LiquiCalc. Oferece simulação interativa com múltiplas configurações de taxa flexível, garantindo precisão e acessibilidade em qualquer dispositivo.
-🔗 [`simulador_mdr-flex.web`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web/2_simulador_mdr-flex4.1v)
+ - 🔗 [`simulador_mdr-flex.web`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web/2_simulador_mdr-flex4.1v)
 
 Cada versão foi validada em conformidade com os testes descritos na seção anterior e está documentada em arquivos técnicos específicos, que registram a estrutura de cálculo, os parâmetros flexíveis aplicados e os resultados obtidos.
 
