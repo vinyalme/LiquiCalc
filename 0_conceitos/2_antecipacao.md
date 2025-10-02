@@ -157,13 +157,13 @@ Formas de reduzir o impacto da antecipação:
 ## ✅ **Testes de Validação**
 A lógica de cálculo do modelo de **Antecipação de Recebíveis** foi submetida a uma bateria de testes técnicos, com o objetivo de comprovar sua consistência matemática e operacional em diferentes ambientes. Assim como nos modelos MDR, os testes foram documentados e organizados em quatro frentes complementares:
 
-**Validação Conceitual:** Revisão teórica dos fundamentos da antecipação, garantindo que a fórmula principal — Valor Recebido = Valor Bruto − MDR − Taxa de Antecipação — esteja alinhada às regras contratuais das adquirentes e às práticas de mercado.
+- **Validação Conceitual:** Revisão teórica dos fundamentos da antecipação, garantindo que a fórmula principal — Valor Recebido = Valor Bruto − MDR − Taxa de Antecipação — esteja alinhada às regras contratuais das adquirentes e às práticas de mercado.
 
-**Validação em Excel:** Simulações em planilhas com diferentes valores brutos, faixas de parcelamento e prazos de antecipação. Essa etapa comprovou a precisão do cálculo do valor líquido, da taxa proporcional e do impacto em diferentes datas de recebimento.
+- **Validação em Excel:** Simulações em planilhas com diferentes valores brutos, faixas de parcelamento e prazos de antecipação. Essa etapa comprovou a precisão do cálculo do valor líquido, da taxa proporcional e do impacto em diferentes datas de recebimento.
 
-**Validação via Script .BAT:** Implementação do modelo em ambiente local, com automação de cenários de 1x até 21x parcelas, incluindo variações extremas de receita (mínima e máxima) e diferentes prazos de antecipação (D+1, D+2, D+5, D+15, D+30).
+- **Validação via Script .BAT:** Implementação do modelo em ambiente local, com automação de cenários de 1x até 21x parcelas, incluindo variações extremas de receita (mínima e máxima) e diferentes prazos de antecipação (D+1, D+2, D+5, D+15, D+30).
 
-**Validação na Versão Web (LiquiCalc):** Testes interativos na plataforma LiquiCalc, avaliando não só a exatidão matemática, mas também a usabilidade e a performance em consultas simultâneas e múltiplos cenários de antecipação.
+- **Validação na Versão Web (LiquiCalc):** Testes interativos na plataforma LiquiCalc, avaliando não só a exatidão matemática, mas também a usabilidade e a performance em consultas simultâneas e múltiplos cenários de antecipação.
 
 Esses testes contemplaram cenários variados, como:
 
