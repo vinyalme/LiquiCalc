@@ -10,7 +10,7 @@
 - [💸 Fórmula de Cálculo da Taxa Cobrada](#-fórmula-de-cálculo-da-taxa-cobrada)
 - [📌 Contexto de Aplicação](#-Contexto-de-Aplicação)
 - [📊 Aplicações no LiquiCalc](#-aplicações-no-liquicalc)
-- [🧪 Simulador de MDR Padrão](#-simulador-de-mdr-padrão) Simulador de MDR Padrão
+- [🧪 Simulador de MDR Padrão](#-simulador-de-mdr-padrão)
 - [📉 Impacto no Negócio](#-impacto-no-negócio)
 - [⚖️ Alternativas e Redução](#️-alternativas-e-redução)
 - [📎 Observações Importantes](#-observações-importantes)
