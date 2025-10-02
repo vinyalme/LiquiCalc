@@ -87,6 +87,23 @@ Taxa Cobrada = Valor Líquido × (Taxa × Número de Parcelas)
 
 ---
 
+
+## 📌 Contexto de Aplicação
+
+A antecipação pode ser utilizada em conjunto com o MDR Padrão, mas **não pode ser combinada com MDR Flex**.
+
+### ✅ Quando a antecipação é aplicável
+
+* O lojista utiliza MDR Padrão.
+* Pode contratar antecipação automática com datas fixas (D+1, D+2, D+5, D+15, D+30).
+* Pode solicitar antecipação manual de valores específicos. A taxa é definida pela adquirente e aplicada proporcionalmente às parcelas.
+
+### ❌ Quando a antecipação não é aplicável
+
+* Quando o lojista utiliza MDR Flex (liquidação automática em D+2). Nesse caso, o modelo já considera antecipação embutida e não permite novas antecipações.
+
+---
+  
 ## 📊 Aplicações no LiquiCalc
 
 O simulador LiquiCalc permite:
@@ -102,22 +119,6 @@ O simulador LiquiCalc permite:
 * Simulações de fluxo de caixa com antecipação
 * Comparação entre datas de recebimento
 * Avaliação do custo efetivo da antecipação
-
----
-
-## 📌 Contexto de Aplicação
-
-A antecipação pode ser utilizada em conjunto com o MDR Padrão, mas **não pode ser combinada com MDR Flex**.
-
-### ✅ Quando a antecipação é aplicável
-
-* O lojista utiliza MDR Padrão.
-* Pode contratar antecipação automática com datas fixas (D+1, D+2, D+5, D+15, D+30).
-* Pode solicitar antecipação manual de valores específicos. A taxa é definida pela adquirente e aplicada proporcionalmente às parcelas.
-
-### ❌ Quando a antecipação não é aplicável
-
-* Quando o lojista utiliza MDR Flex (liquidação automática em D+2). Nesse caso, o modelo já considera antecipação embutida e não permite novas antecipações.
 
 ---
 
