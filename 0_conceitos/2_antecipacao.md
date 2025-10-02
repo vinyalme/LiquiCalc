@@ -122,6 +122,28 @@ O simulador LiquiCalc permite:
 
 ---
 
+## 🧪 **Simulador de Antecipação**
+O modelo de **Antecipação de Recebíveis** foi implementado em três versões independentes de simulador, cada uma adaptada a diferentes ambientes operacionais e perfis de uso. Todas seguem rigorosamente a lógica de cálculo apresentada neste documento, considerando o Valor Recebido = Valor Bruto − MDR − Taxa de Antecipação, com aplicação proporcional por parcela e de acordo com os prazos escolhidos.
+
+As versões disponíveis são:
+
+- **Simulador Excel**
+Implementado em planilha com fórmulas abertas e estrutura modular. Permite simulações manuais de diferentes valores brutos, número de parcelas e tipos de antecipação (automática ou manual). Ideal para integração com modelos financeiros e análises de fluxo de caixa.
+  - 🔗 simulador_antecipacao.xlsx
+
+- **Simulador .BAT (Script Local)**
+Desenvolvido para execução automatizada em ambiente Windows. Permite testes em lote de múltiplos cenários de antecipação, incluindo variações extremas de receita e diferentes prazos (D+1, D+2, D+5, D+15, D+30). Perfeito para validação técnica e auditoria de cenários complexos.
+  - 🔗 simulador_antecipacao.bat
+
+- **Simulador Web (LiquiCalc)**
+Disponível na interface online do LiquiCalc. Oferece simulação interativa com foco em usabilidade, precisão e acesso rápido, permitindo avaliar diferentes combinações de parcelas, taxas e prazos de antecipação de forma prática e visual.
+  - 🔗 simulador_antecipacao.web
+
+Cada versão foi validada em conformidade com os **Testes de Validação** descritos na seção anterior e está documentada em arquivos técnicos específicos, registrando a estrutura de cálculo, os parâmetros utilizados e os resultados obtidos, garantindo confiabilidade, consistência matemática e operacional em qualquer ambiente.
+
+
+---
+
 ## 📉 Impacto no Negócio
 
 A antecipação afeta diretamente:
