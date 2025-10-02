@@ -45,6 +45,83 @@ A taxa de antecipação é definida pela adquirente e pode variar conforme:
 > 💡 A taxa é sempre aplicada sobre o valor líquido (após MDR) e a liquidação ocorre em dias úteis.
 
 ---
+📐 Fórmula de Cálculo da Antecipação
+
+A antecipação é aplicada sobre o valor líquido da venda (após o desconto da taxa MDR) e proporcional ao número de parcelas. O cálculo pode ser apresentado em duas etapas: uma versão simples e uma versão completa.
+
+Versão Simples
+
+\[
+\text{Valor Recebido} = \text{Valor Bruto} - \text{Desconto MDR} - \text{Desconto por Antecipação}
+\]
+
+Definições:
+- Valor Bruto: total da venda realizada
+- Desconto MDR: percentual cobrado pela adquirente sobre o valor bruto
+- Desconto por Antecipação: soma proporcional aplicada sobre cada parcela antecipada
+
+Versão Completa
+
+Seja:
+
+- \( V \) = valor bruto da venda  
+- \( t_{MDR} \) = taxa MDR (%)  
+- \( t_{ANT} \) = taxa de antecipação (%)  
+- \( n \) = número de parcelas  
+
+A fórmula para o valor líquido final recebido é:
+
+\[
+\text{Valor Líquido Final} = V \cdot \left(1 - \frac{t{MDR}}{100}\right) \cdot \left(1 - \frac{t{ANT}}{100} \cdot \frac{n+1}{2}\right)
+\]
+
+Essa estrutura considera:
+- O desconto da taxa MDR sobre o valor bruto.
+- A média proporcional das taxas de antecipação aplicadas sobre cada parcela, com crescimento linear conforme o número da parcela.
+
+---
+
+💸 Cálculo da Taxa de Antecipação Cobrada
+
+A taxa de antecipação é aplicada individualmente sobre cada parcela, com base no número da parcela. A média dessas aplicações é usada para calcular o total descontado.
+
+Aplicação por Parcela
+
+| Parcela | Taxa Aplicada | Valor Descontado |
+|--------:|---------------:|------------------:|
+| 1ª      | \( 1 \times t_{ANT} \) | sobre a 1ª parcela |
+| 2ª      | \( 2 \times t_{ANT} \) | sobre a 2ª parcela |
+| 3ª      | \( 3 \times t_{ANT} \) | sobre a 3ª parcela |
+
+Fórmula do Desconto Total
+
+\[
+\text{Desconto Total} = V \cdot \left(1 - \frac{t{MDR}}{100}\right) \cdot \left(\frac{t{ANT}}{100} \cdot \frac{n+1}{2}\right)
+\]
+
+---
+
+Exemplo Prático
+
+Venda de R$1.000, parcelada em 3x, com MDR de 3% e taxa de antecipação de 2%:
+
+1. Valor líquido após MDR:
+\[
+1000 \cdot (1 - 0{,}03) = R\$970{,}00
+\]
+
+2. Desconto proporcional por antecipação:
+\[
+970 \cdot \left(0{,}02 \cdot \frac{3+1}{2}\right) = 970 \cdot 0{,}04 = R\$38{,}80
+\]
+
+3. Valor líquido final recebido:
+\[
+970 - 38{,}80 = R\$931{,}20
+\]
+
+---
+
 
 ## 📐 Fórmula de Cálculo
 
