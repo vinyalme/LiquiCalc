@@ -38,6 +38,21 @@ O **MDR Flexível** é uma taxa de desconto aplicada sobre vendas com cartão, u
 MDR total = 2,18% + 1,54% + 9,95% = 13,67%  
 Valor recebido pelo lojista: R$ 4.316,50
 ```
+
+---
+
+## 🧩 Composição da MDR
+
+A MDR Flexível pode ser composta por:
+
+| Componente              | Origem do Fator        |Exemplos de Influência                  |
+|-------------------------|------------------------|----------------------------------------|
+| Fator Base              | Faixa de parcelamento  | 1x, 2–6x, 7–12x                        |
+| Fator 1ª Parcela        | Política da adquirente | Aplicado a todas as vendas             |
+| Fator Parcela Adicional | Custo de antecipação   | Parcelas extras aumentam risco e custo |
+
+💡 Essa composição permite calibrar a taxa conforme **número de parcelas** e **modelo de liquidação**.  
+
 ---
 
 ## 📐 Fórmula de Cálculo
@@ -95,20 +110,6 @@ MDR_flex = Fator Base + Fator 1ª Parcela + (Parcelas − 1) × Fator Parcela Ad
 ```
 
 Esse valor representa o montante descontado da operação, que será retido pela adquirente ou instituição financeira.
-
----
-
-## 🧩 Composição da MDR
-
-A MDR Flexível pode ser composta por:
-
-| Componente              | Origem do Fator        |Exemplos de Influência                  |
-|-------------------------|------------------------|----------------------------------------|
-| Fator Base              | Faixa de parcelamento  | 1x, 2–6x, 7–12x                        |
-| Fator 1ª Parcela        | Política da adquirente | Aplicado a todas as vendas             |
-| Fator Parcela Adicional | Custo de antecipação   | Parcelas extras aumentam risco e custo |
-
-💡 Essa composição permite calibrar a taxa conforme **número de parcelas** e **modelo de liquidação**.  
 
 ---
 
