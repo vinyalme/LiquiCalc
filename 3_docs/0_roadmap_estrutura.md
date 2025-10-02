@@ -15,7 +15,7 @@ Este documento apresenta o organograma técnico do projeto LiquiCalc, detalhando
 │   ├── 📄 README.md (V)
 │   ├── 📄 0_mdr-padrao.md (V)                           # Explicação da MDR padrão: conceito, fórmula e aplicação
 │   ├── 📄 1_mdr-flex.md (V)                             # Explicação da MDR flexível (fator 1 e fator 2)
-│   └── 📄 2_antecipacao.md (A)                          # Como funciona a antecipação de recebíveis e seu impacto nos valores
+│   └── 📄 2_antecipacao.md (V)                          # Como funciona a antecipação de recebíveis e seu impacto nos valores
 │
 ├── 📁 1_simulacoes/ (V)
 │   ├── 📁 0_excel/ (V)
@@ -36,7 +36,7 @@ Este documento apresenta o organograma técnico do projeto LiquiCalc, detalhando
 │   │   ├── 📁 1_simulador_mdr-padrao3.0v/ (V)           # Script exclusivo para cálculo da MDR padrão
 │   │   │   └── 📄 simulador_mdr-padrao.bat (V)
 │   │   ├── 📁 2_simulador_mdr-flex3.1v/ (V)             # Script exclusivo para cálculo da MDR flexível
-│   │   │   └── 📄 simulador_mdr-flex.bat (A)
+│   │   │   └── 📄 simulador_mdr-flex.bat (V)
 │   │   └── 📁 3_simulador_antecipacao3.2v/ (V)          # Script para MDR padrão + antecipação de recebíveis
 │   │       └── 📄 simulador_antecipacao.bat (E)
 │   │
