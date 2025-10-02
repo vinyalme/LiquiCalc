@@ -42,6 +42,27 @@ A MDR pode variar conforme:
 
 ---
 
+## 🧩 Composição da MDR
+
+A MDR não é uma taxa única, mas sim a soma de três componentes:
+
+| Componente                 | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| 🏦 Tarifa de Intercâmbio  | Parte destinada ao banco emissor do cartão                                |
+| 💳 Fee da Bandeira        | Remuneração da bandeira pela infraestrutura de pagamentos                 |
+| 🧾 Net MDR                | Parcela da adquirente (maquininha), incluindo impostos como ISS           |
+
+🔍 Essa composição pode variar conforme:
+
+- Tipo de cartão (Nacional, Internacional, Corporativo / Empresarial, Pré-pago, Débito, Crédito, Universitário / Jovem, Black / Infinite / Platinum, Cashback, Cartão de loja / Private Label, Virtual, Contactless (Aproximação), Cartão de benefícios e Cartão BNDES)
+- Bandeira (Visa, Mastercard, Elo, Cabal, Amex, etc.) 
+- Segmento do lojista (MCC, CNAE)  
+- Tipo de venda (Presencial ou Online)
+
+💡 Em geral, cartões corporativos, internacionais e Voucher possuem taxas maiores.
+
+---
+
 ## 📐 Fórmula de Cálculo
 
 A fórmula básica para calcular o valor líquido é:
@@ -81,27 +102,6 @@ Taxa Cobrada = 500 × 0,028 = R$ 14,00
 ```
 
 🔎 Ou seja, o empreendedor pagará **R$ 14,00** de taxa sobre essa venda.
-
----
-
-## 🧩 Composição da MDR
-
-A MDR não é uma taxa única, mas sim a soma de três componentes:
-
-| Componente                 | Descrição                                                                 |
-|----------------------------|---------------------------------------------------------------------------|
-| 🏦 Tarifa de Intercâmbio  | Parte destinada ao banco emissor do cartão                                |
-| 💳 Fee da Bandeira        | Remuneração da bandeira pela infraestrutura de pagamentos                 |
-| 🧾 Net MDR                | Parcela da adquirente (maquininha), incluindo impostos como ISS           |
-
-🔍 Essa composição pode variar conforme:
-
-- Tipo de cartão (Nacional, Internacional, Corporativo / Empresarial, Pré-pago, Débito, Crédito, Universitário / Jovem, Black / Infinite / Platinum, Cashback, Cartão de loja / Private Label, Virtual, Contactless (Aproximação), Cartão de benefícios e Cartão BNDES)
-- Bandeira (Visa, Mastercard, Elo, Cabal, Amex, etc.) 
-- Segmento do lojista (MCC, CNAE)  
-- Tipo de venda (Presencial ou Online)
-
-💡 Em geral, cartões corporativos, internacionais e Voucher possuem taxas maiores.
 
 ---
 
