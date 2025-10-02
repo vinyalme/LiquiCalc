@@ -154,15 +154,15 @@ As versões disponíveis são:
 
 - **Simulador Excel**  
   Implementado em planilha com fórmulas abertas e estrutura modular. Permite simulações manuais e integração com modelos financeiros.  
-  🔗 [`simulador_mdr-padrao.xlsx`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/1_simulador_mdr-padrao2.0v)
+  - 🔗 [`simulador_mdr-padrao.xlsx`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/1_simulador_mdr-padrao2.0v)
 
 - **Simulador .BAT (Script Local)**  
   Desenvolvido para execução automatizada em ambiente Windows. Ideal para testes em lote, validação técnica e auditoria de cenários.  
-  🔗 [`simulador_mdr-padrao.bat`](https://github.com/vinyalme/LiquiCalc/blob/main/1_simuladores/1_simulador_bat/1_simulador_mdr-padrao3.0v/simulador_mdr-padrao.bat)
+  - 🔗 [`simulador_mdr-padrao.bat`](https://github.com/vinyalme/LiquiCalc/blob/main/1_simuladores/1_simulador_bat/1_simulador_mdr-padrao3.0v/simulador_mdr-padrao.bat)
 
 - **Simulador Web (LiquiCalc)**  
   Disponível na interface online do LiquiCalc. Oferece simulação interativa com foco em usabilidade, precisão e acesso rápido.  
-  🔗 [`simulador_mdr-padrao.web`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web/1_simulador_mdr-padrao4.0v)
+  - 🔗 [`simulador_mdr-padrao.web`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web/1_simulador_mdr-padrao4.0v)
 
 Cada versão foi validada em conformidade com os testes descritos na seção anterior e está documentada em arquivos técnicos específicos, que registram a estrutura de cálculo, os parâmetros utilizados e os resultados obtidos.
 
