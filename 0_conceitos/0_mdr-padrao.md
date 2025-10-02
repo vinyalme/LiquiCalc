@@ -206,7 +206,7 @@ A lógica de cálculo do modelo MDR Padrão foi submetida a uma série de testes
 
 - Validação Conceitual: Verificação teórica dos fundamentos e regras de cálculo.  
 - Validação em Excel: Simulações práticas em planilhas para comprovar os resultados esperados.  
-- Validação via Script .BAT: Testes automatizados para execução em ambiente local.  
+- Validação via Script.BAT: Testes automatizados para execução em ambiente local.  
 - Validação na Versão Web: Avaliação da lógica aplicada na interface online do sistema LiquiCalc.
 
 Esses testes contemplam cenários com valores mínimos e máximos, além de simulações completas de crédito parcelado de 1x a 21x, considerando diferentes faixas de MDR.  
