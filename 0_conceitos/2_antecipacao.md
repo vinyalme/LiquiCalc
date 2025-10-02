@@ -5,14 +5,16 @@
 ## 📑 Sumário
 
 - [🧠 O que é Antecipação?](#-o-que-é-antecipação)
+- [🧩 Composição da Antecipação](#-composição-da-antecipação)
 - [📐 Fórmula de Cálculo](#-fórmula-de-cálculo)
 - [💸 Fórmula de Cálculo da Taxa Cobrada](#-fórmula-de-cálculo-da-taxa-cobrada)
-- [🧩 Composição da Antecipação](#-composição-da-antecipação)
-- [📊 Aplicações no LiquiCalc](#-aplicações-no-liquicalc)
 - [📌 Contexto de Aplicação](#-contexto-de-aplicação)
+- [📊 Aplicações no LiquiCalc](#-aplicações-no-liquicalc)
+- [🧪 Simulador de Antecipação](#-simulador-de-antecipação)
 - [📉 Impacto no Negócio](#-impacto-no-negócio)
 - [⚖️ Alternativas e Redução](#️-alternativas-e-redução)
 - [📎 Observações Importantes](#-observações-importantes)
+- [✅ Testes de Validação](#-testes-de-validação)
 - [🔗 Referências](#-referências)
 
 ---
