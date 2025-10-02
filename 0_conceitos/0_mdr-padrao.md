@@ -1,15 +1,16 @@
 # 💳 MDR Padrão — Conceito, Fórmula e Aplicação
 
-> 📘 _Autor: Vinicius • Última atualização: agosto/2025_
+> 📘 _Autor: Vinicius • Última atualização: outubro/2025_
 
 ## 📑 Sumário
 
 - [🧠 O que é MDR?](#-o-que-é-mdr)
+- [🧩 Composição da MDR](#-composição-da-mdr)
 - [📐 Fórmula de Cálculo](#-fórmula-de-cálculo)
 - [💸 Fórmula de Cálculo da Taxa Cobrada](#-fórmula-de-cálculo-da-taxa-cobrada)
-- [🧩 Composição da MDR](#-composição-da-mdr)
-- [📊 Aplicações no LiquiCalc](#-aplicações-no-liquicalc)
 - [📌 Contexto de Aplicação](#-Contexto-de-Aplicação)
+- [📊 Aplicações no LiquiCalc](#-aplicações-no-liquicalc)
+- [🧪 Simulador de MDR Padrão](#simulador-de-mdr-padrão)
 - [📉 Impacto no Negócio](#-impacto-no-negócio)
 - [⚖️ Alternativas e Redução](#️-alternativas-e-redução)
 - [📎 Observações Importantes](#-observações-importantes)
