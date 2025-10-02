@@ -129,15 +129,15 @@ As versões disponíveis são:
 
 - **Simulador Excel**
 Implementado em planilha com fórmulas abertas e estrutura modular. Permite simulações manuais de diferentes valores brutos, número de parcelas e tipos de antecipação (automática ou manual). Ideal para integração com modelos financeiros e análises de fluxo de caixa.
-  - 🔗 simulador_antecipacao.xlsx
+  - 🔗 [`simulador_antecipacao.xlsx`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/0_excel/3_simulador_antecipacao2.2v)
 
 - **Simulador .BAT (Script Local)**
 Desenvolvido para execução automatizada em ambiente Windows. Permite testes em lote de múltiplos cenários de antecipação, incluindo variações extremas de receita e diferentes prazos (D+1, D+2, D+5, D+15, D+30). Perfeito para validação técnica e auditoria de cenários complexos.
-  - 🔗 simulador_antecipacao.bat
+  - 🔗 [`simulador_antecipacao.bat`](https://github.com/vinyalme/LiquiCalc/blob/main/1_simuladores/1_simulador_bat/3_simulador_antecipacao3.2v/simulador_antecipacao.bat)
 
 - **Simulador Web (LiquiCalc)**
 Disponível na interface online do LiquiCalc. Oferece simulação interativa com foco em usabilidade, precisão e acesso rápido, permitindo avaliar diferentes combinações de parcelas, taxas e prazos de antecipação de forma prática e visual.
-  - 🔗 simulador_antecipacao.web
+  - 🔗 [`simulador_antecipacao.web`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/2_simulador_web/3_simulador_antecipacao4.2v)
 
 Cada versão foi validada em conformidade com os **Testes de Validação** descritos na seção anterior e está documentada em arquivos técnicos específicos, registrando a estrutura de cálculo, os parâmetros utilizados e os resultados obtidos, garantindo confiabilidade, consistência matemática e operacional em qualquer ambiente.
 
