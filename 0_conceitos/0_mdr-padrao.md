@@ -146,6 +146,28 @@ O simulador de MDR padrão do LiquiCalc permite:
 
 ---
 
+## 🧪 Simulador de MDR Padrão
+
+O modelo MDR Padrão foi implementado em três versões independentes de simulador, cada uma adaptada a diferentes ambientes operacionais e perfis de uso. Todas seguem rigorosamente a lógica de cálculo apresentada neste documento, com base nas fórmulas oficiais de valor líquido e taxa cobrada.
+
+As versões disponíveis são:
+
+- **Simulador Excel**  
+  Implementado em planilha com fórmulas abertas e estrutura modular. Permite simulações manuais e integração com modelos financeiros.  
+  🔗 simulado_excel_mdr-padrao_1.0.md
+
+- **Simulador .BAT (Script Local)**  
+  Desenvolvido para execução automatizada em ambiente Windows. Ideal para testes em lote, validação técnica e auditoria de cenários.  
+  🔗 simulado_bat_mdr-padrao_2.0.md]
+
+- **Simulador Web (LiquiCalc)**  
+  Disponível na interface online do LiquiCalc. Oferece simulação interativa com foco em usabilidade, precisão e acesso rápido.  
+  🔗 simulado_web_mdr-padrao_3.0.md
+
+Cada versão foi validada em conformidade com os testes descritos na seção anterior e está documentada em arquivos técnicos específicos, que registram a estrutura de cálculo, os parâmetros utilizados e os resultados obtidos.
+
+---
+
 ## 📉 Impacto no Negócio
 
 A MDR pode variar de **0,5% a 10%**, dependendo da adquirente, bandeira e negociação. Em empresas com margens apertadas, esse custo pode comprometer a rentabilidade.
