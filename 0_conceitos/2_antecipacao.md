@@ -32,6 +32,20 @@ A taxa de antecipação é aplicada sobre o valor líquido da venda (após desco
 
 ---
 
+## 🧩 Composição da Antecipação
+
+A taxa de antecipação é definida pela adquirente e pode variar conforme:
+
+| Componente            | Influência                        |
+| --------------------- | --------------------------------- |
+| 📅 Prazo escolhido    | D+1, D+2, D+5, D+15, D+30         |
+| 💳 Tipo de venda      | Crédito à vista ou parcelado      |
+| 📊 Número de parcelas | Impacta proporcionalidade da taxa |
+
+> 💡 A taxa é sempre aplicada sobre o valor líquido (após MDR) e a liquidação ocorre em dias úteis.
+
+---
+
 ## 📐 Fórmula de Cálculo
 
 A fórmula básica para calcular o valor líquido com antecipação é:
@@ -70,20 +84,6 @@ Taxa Cobrada = Valor Líquido × (Taxa × Número de Parcelas)
   * Parcela 2: 2 × 2% = R\$ 38,80
   * Parcela 3: 3 × 2% = R\$ 58,20
 * Total antecipado: R\$ 970 − R\$ 116,40 = R\$ 853,60
-
----
-
-## 🧩 Composição da Antecipação
-
-A taxa de antecipação é definida pela adquirente e pode variar conforme:
-
-| Componente            | Influência                        |
-| --------------------- | --------------------------------- |
-| 📅 Prazo escolhido    | D+1, D+2, D+5, D+15, D+30         |
-| 💳 Tipo de venda      | Crédito à vista ou parcelado      |
-| 📊 Número de parcelas | Impacta proporcionalidade da taxa |
-
-> 💡 A taxa é sempre aplicada sobre o valor líquido (após MDR) e a liquidação ocorre em dias úteis.
 
 ---
 
