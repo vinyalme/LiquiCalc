@@ -176,10 +176,10 @@ Esses testes contemplaram cenários variados, como:
 
 Cada etapa foi registrada em arquivos técnicos específicos, que servem como base para auditoria, manutenção e futuras evoluções do sistema:
 
-- 🔗 `teste_conceito_antecipacao_1.0.md`
-- 🔗 `teste_calculo_antecipacao_2.0.md`
-- 🔗 `teste_calculo_antecipacao_3.0.md`
-- 🔗 `teste_calculo_antecipacao_4.0.md`
+- 🔗 `teste_conceito_antecipacao_1.2.md`
+- 🔗 `teste_calculo_antecipacao_2.2.md`
+- 🔗 `teste_calculo_antecipacao_3.2.md`
+- 🔗 `teste_calculo_antecipacao_4.2.md`
 
 ---
 
