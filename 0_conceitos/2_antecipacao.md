@@ -198,7 +198,7 @@ Esses testes contemplaram cenários variados, como:
 
 Cada etapa foi registrada em arquivos técnicos específicos, que servem como base para auditoria, manutenção e futuras evoluções do sistema:
 
-- 🔗 `teste_conceito_antecipacao_1.2.md`
+- 🔗 [`teste_conceito_antecipacao_1.2.md`](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/3_simulador_antecipacao1.2v/teste_conceito_antecipacao.md)
 - 🔗 `teste_calculo_antecipacao_2.2.md`
 - 🔗 `teste_calculo_antecipacao_3.2.md`
 - 🔗 `teste_calculo_antecipacao_4.2.md`
