@@ -123,48 +123,6 @@ R$970,00 - R$38,80 = R$931,20
 ---
 
 
-## 📐 Fórmula de Cálculo
-
-A fórmula básica para calcular o valor líquido com antecipação é:
-
-```plaintext
-Valor Recebido = Valor Bruto − MDR − Taxa de Antecipação
-````
-
-Onde:
-
-* **Valor Bruto** = valor total da venda
-* **MDR** = taxa de desconto padrão aplicada pela adquirente
-* **Taxa de Antecipação** = proporcional ao número de parcelas antecipadas
-
----
-
-## 💸 Fórmula de Cálculo da Taxa Cobrada
-
-A taxa de antecipação é aplicada de forma proporcional por parcela:
-
-| Parcelas | Aplicação da Taxa de Antecipação   |
-| -------- | ---------------------------------- |
-| 1x       | 1x taxa sobre valor líquido        |
-| 3x       | 1x, 2x, 3x taxa sobre cada parcela |
-
-```plaintext
-Taxa Cobrada = Valor Líquido × (Taxa × Número de Parcelas)
-````
-
-📌 Exemplo: Venda de R\$ 1.000 parcelada em 3x, com MDR de 3% e taxa de antecipação de 2%:
-
-* Valor líquido: R\$ 970
-* Taxa aplicada:
-
-  * Parcela 1: 1 × 2% = R\$ 19,40
-  * Parcela 2: 2 × 2% = R\$ 38,80
-  * Parcela 3: 3 × 2% = R\$ 58,20
-* Total antecipado: R\$ 970 − R\$ 116,40 = R\$ 853,60
-
----
-
-
 ## 📌 Contexto de Aplicação
 
 A antecipação pode ser utilizada em conjunto com o MDR Padrão, mas **não pode ser combinada com MDR Flex**.
