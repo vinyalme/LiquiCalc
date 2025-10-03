@@ -45,7 +45,7 @@ A taxa de antecipação é definida pela adquirente e pode variar conforme:
 > 💡 A taxa é sempre aplicada sobre o valor líquido (após MDR) e a liquidação ocorre em dias úteis.
 
 ---
-## 📐 Fórmula de Cálculo da Antecipação
+## 📐 Fórmula de Cálculo
 
 A antecipação é aplicada sobre o valor líquido da venda (após o desconto da taxa MDR) e proporcional ao número de parcelas. O cálculo pode ser apresentado em duas etapas: uma versão simples e uma versão completa.
 
@@ -81,7 +81,7 @@ Essa estrutura considera:
 
 ---
 
-## 💸 Cálculo da Taxa de Antecipação Cobrada
+## 💸 Fórmula de Cálculo da Taxa Cobrada
 
 A taxa de antecipação é aplicada individualmente sobre cada parcela, com base no número da parcela. A média dessas aplicações é usada para calcular o total descontado.
 
