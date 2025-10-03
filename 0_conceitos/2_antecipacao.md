@@ -60,7 +60,7 @@ Definições:
 - Desconto MDR: percentual cobrado pela adquirente sobre o valor bruto
 - Desconto por Antecipação: soma proporcional aplicada sobre cada parcela antecipada
 
-Versão Completa
+**Versão Completa**
 
 Seja:
 
