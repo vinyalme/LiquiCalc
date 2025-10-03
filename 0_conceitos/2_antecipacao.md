@@ -65,14 +65,14 @@ Versão Completa
 Seja:
 
 - `V`  = valor bruto da venda  
-- `t_{MDR}`  = taxa MDR (%)  
-- `t_{ANT}` = taxa de antecipação (%)  
+- `t_MDR`  = taxa MDR (%)  
+- `t_ANT` = taxa de antecipação (%)  
 - `n` = número de parcelas  
 
 A fórmula para o valor líquido final recebido é:
 
 ```plaintext
-Valor Líquido Final = V * (1 - t_{MDR}/100) * (1 - t_{ANT}/100 * n+1/2)
+Valor Líquido Final = V * (1 - t_MDR/100) * (1 - t_ANT/100 * n+1/2)
 ```
 
 Essa estrutura considera:
@@ -89,14 +89,14 @@ Aplicação por Parcela
 
 | Parcela | Taxa Aplicada | Valor Descontado   |
 |---------|---------------|--------------------|
-| 1ª      | 1 * t_{ANT}   | sobre a 1ª parcela |
-| 2ª      | 2 * t_{ANT}   | sobre a 2ª parcela |
-| 3ª      | 3 * t_{ANT}   | sobre a 3ª parcela |
+| 1ª      | 1 * t_ANT     | sobre a 1ª parcela |
+| 2ª      | 2 * t_ANT     | sobre a 2ª parcela |
+| 3ª      | 3 * t_ANT     | sobre a 3ª parcela |
 
 Fórmula do Desconto Total
 
 ```plaintext
-Desconto Total = V * (1 - t_{MDR}/100) * (t_{ANT}/100 * n+1/2)
+Desconto Total = V * (1 - t_MDR/100) * (t_ANT/100 * n+1/2)
 ```
 
 ---
@@ -107,17 +107,17 @@ Venda de R$1.000, parcelada em 3x, com MDR de 3% e taxa de antecipação de 2%:
 
 1. Valor líquido após MDR:
 ```plaintext
-1000,00 * (1 - 0,03) = R$970,00
+R$1000,00 * (1 - 0,03) = R$970,00
 ```
 
 2. Desconto proporcional por antecipação:
 ```plaintext
-970,00 * (0,02 * 3+1/2) = 970,00 * 0,04 = R$38,80
+R$970,00 * (0,02 * 3+1/2) = R$970,00 * 0,04 = R$38,80
 ```
 
 3. Valor líquido final recebido:
 ```plaintext
-970,00 - 38,80 = R$931,20
+R$970,00 - R$38,80 = R$931,20
 ```
 
 ---
