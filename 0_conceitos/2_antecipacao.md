@@ -45,15 +45,15 @@ A taxa de antecipação é definida pela adquirente e pode variar conforme:
 > 💡 A taxa é sempre aplicada sobre o valor líquido (após MDR) e a liquidação ocorre em dias úteis.
 
 ---
-📐 Fórmula de Cálculo da Antecipação
+## 📐 Fórmula de Cálculo da Antecipação
 
 A antecipação é aplicada sobre o valor líquido da venda (após o desconto da taxa MDR) e proporcional ao número de parcelas. O cálculo pode ser apresentado em duas etapas: uma versão simples e uma versão completa.
 
 Versão Simples
 
-\[
-\text{Valor Recebido} = \text{Valor Bruto} - \text{Desconto MDR} - \text{Desconto por Antecipação}
-\]
+```plaintext
+Valor Recebido = Valor Bruto − Desconto MDR − Taxa de Antecipação
+````
 
 Definições:
 - Valor Bruto: total da venda realizada
@@ -64,16 +64,16 @@ Versão Completa
 
 Seja:
 
-- \( V \) = valor bruto da venda  
-- \( t_{MDR} \) = taxa MDR (%)  
-- \( t_{ANT} \) = taxa de antecipação (%)  
-- \( n \) = número de parcelas  
+- `V`  = valor bruto da venda  
+- `t_{MDR}`  = taxa MDR (%)  
+- `t_{ANT}` = taxa de antecipação (%)  
+- `n` = número de parcelas  
 
 A fórmula para o valor líquido final recebido é:
 
-\[
-\text{Valor Líquido Final} = V \cdot \left(1 - \frac{t{MDR}}{100}\right) \cdot \left(1 - \frac{t{ANT}}{100} \cdot \frac{n+1}{2}\right)
-\]
+```plaintext
+Valor Líquido Final = V x (1 - t_{MDR}/100) x (1 - t_{ANT}/100 x n+1/2)
+```
 
 Essa estrutura considera:
 - O desconto da taxa MDR sobre o valor bruto.
