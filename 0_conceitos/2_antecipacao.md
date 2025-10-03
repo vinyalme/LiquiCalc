@@ -81,23 +81,23 @@ Essa estrutura considera:
 
 ---
 
-💸 Cálculo da Taxa de Antecipação Cobrada
+## 💸 Cálculo da Taxa de Antecipação Cobrada
 
 A taxa de antecipação é aplicada individualmente sobre cada parcela, com base no número da parcela. A média dessas aplicações é usada para calcular o total descontado.
 
 Aplicação por Parcela
 
-| Parcela | Taxa Aplicada | Valor Descontado |
-|--------:|---------------:|------------------:|
-| 1ª      | \( 1 \times t_{ANT} \) | sobre a 1ª parcela |
-| 2ª      | \( 2 \times t_{ANT} \) | sobre a 2ª parcela |
-| 3ª      | \( 3 \times t_{ANT} \) | sobre a 3ª parcela |
+| Parcela | Taxa Aplicada | Valor Descontado   |
+|---------|---------------|--------------------|
+| 1ª      | 1 * t_{ANT}   | sobre a 1ª parcela |
+| 2ª      | 2 * t_{ANT}   | sobre a 2ª parcela |
+| 3ª      | 3 * t_{ANT}   | sobre a 3ª parcela |
 
 Fórmula do Desconto Total
 
-\[
-\text{Desconto Total} = V \cdot \left(1 - \frac{t{MDR}}{100}\right) \cdot \left(\frac{t{ANT}}{100} \cdot \frac{n+1}{2}\right)
-\]
+```plaintext
+Desconto Total = V * (1 - t_{MDR}/100) * (t_{ANT}/100 * n+1/2)
+```
 
 ---
 
@@ -106,19 +106,19 @@ Exemplo Prático
 Venda de R$1.000, parcelada em 3x, com MDR de 3% e taxa de antecipação de 2%:
 
 1. Valor líquido após MDR:
-\[
-1000 \cdot (1 - 0{,}03) = R\$970{,}00
-\]
+```plaintext
+1000,00 * (1 - 0,03) = R$970,00
+```
 
 2. Desconto proporcional por antecipação:
-\[
-970 \cdot \left(0{,}02 \cdot \frac{3+1}{2}\right) = 970 \cdot 0{,}04 = R\$38{,}80
-\]
+```plaintext
+970,00 * (0,02 * 3+1/2) = 970,00 * 0,04 = R$38,80
+```
 
 3. Valor líquido final recebido:
-\[
-970 - 38{,}80 = R\$931{,}20
-\]
+```plaintext
+970,00 - 38,80 = R$931,20
+```
 
 ---
 
