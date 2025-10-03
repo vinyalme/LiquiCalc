@@ -72,7 +72,7 @@ Seja:
 A fórmula para o valor líquido final recebido é:
 
 ```plaintext
-Valor Líquido Final = V x (1 - t_{MDR}/100) x (1 - t_{ANT}/100 x n+1/2)
+Valor Líquido Final = V * (1 - t_{MDR}/100) * (1 - t_{ANT}/100 * n+1/2)
 ```
 
 Essa estrutura considera:
