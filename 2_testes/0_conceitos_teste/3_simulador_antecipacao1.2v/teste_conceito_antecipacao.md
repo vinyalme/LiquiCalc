@@ -59,7 +59,7 @@ Após validar os limites operacionais, é necessário testar o comportamento do 
 | Precisão Mínima     | 100.00%       |
 | Precisão Máxima     | 100.00%       |
 
-Este resumo reforça a confiabilidade dos cálculos realizados pelo LiquiCalc, demonstrando consistência absoluta em todas as simulações testadas.
+Este resumo reforça a confiabilidade dos cálculos realizados pelo **LiquiCalc**, demonstrando consistência absoluta em todas as simulações testadas.
 
 ---
 
@@ -72,5 +72,7 @@ Embora os resultados demonstrem precisão total, é importante lembrar que:
 - Estes testes não substituem auditorias contábeis formais.  
 - Toda nova versão do LiquiCalc deve passar por este processo de validação antes de ser disponibilizada.  
 - A manutenção da confiabilidade depende da continuidade dos testes em cada atualização futura.
+
+Essa abordagem garante que o **LiquiCalc** mantenha sua precisão mesmo diante da complexidade crescente das operações.
 
 ---
