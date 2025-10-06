@@ -169,11 +169,11 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 
 ## 💻 Tecnologias utilizadas
 
-- Excel
-- Batch Script (.bat)
-- HTML / CSS / JavaScript / Python
-- Markdown
-- GitHub Pages
+- `Excel`
+- `Batch Script (.bat)`
+- `HTML` / `CSS` / `JavaScript` / `Python`
+- `Markdown`
+- `GitHub Pages`
 
 ---
 
