@@ -1,6 +1,6 @@
 # ⏳ Antecipação — Conceito, Fórmula e Aplicação
 
-> 📘 _Autor: Vinicius • Última atualização: agosto/2025_
+> 📘 _Autor: Vinicius • Última atualização: Outubro/2025_
 
 ## 📑 Sumário
 
