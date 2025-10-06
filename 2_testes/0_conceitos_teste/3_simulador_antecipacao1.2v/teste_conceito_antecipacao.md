@@ -5,7 +5,7 @@ Este documento apresenta os testes realizados para validação dos cálculos de 
 1. **Testes de Valor Mínimo e Máximo** – para verificar os limites operacionais do sistema.  
 2. **Testes de Crédito Parcelado com Antecipação** – cobrindo todas as faixas de parcelamento de 1x a 21x, com variações de valores e taxas de antecipação.
 
-> ⚠️ Importante: Todos os cálculos seguem rigorosamente a lógica apresentada no documento técnico `modelo_antecipacao.md`. Este conjunto de testes serve como referência oficial para validar qualquer implementação que utilize essa estrutura de cálculo.
+> ⚠️ Importante: Todos os cálculos seguem rigorosamente a lógica apresentada no documento técnico [`2_antecipacao.md`](https://github.com/vinyalme/LiquiCalc/blob/main/0_conceitos/2_antecipacao.md). Este conjunto de testes serve como referência oficial para validar qualquer implementação que utilize essa estrutura de cálculo.
 
 ---
 
