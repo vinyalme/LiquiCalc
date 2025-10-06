@@ -2,10 +2,10 @@
 
 Este documento apresenta os testes realizados para validação dos cálculos de antecipação no sistema LiquiCalc, com foco em garantir precisão matemática, consistência lógica e confiabilidade técnica. Os testes foram divididos em dois grupos principais:
 
-- **Testes de Valor Mínimo e Máximo** – para verificar os limites operacionais do sistema.  
-- **Testes de Crédito Parcelado com Antecipação** – cobrindo todas as faixas de parcelamento de 1x a 21x, com variações de valores e taxas de antecipação.
+1. **Testes de Valor Mínimo e Máximo** – para verificar os limites operacionais do sistema.  
+2. **Testes de Crédito Parcelado com Antecipação** – cobrindo todas as faixas de parcelamento de 1x a 21x, com variações de valores e taxas de antecipação.
 
-⚠️ Importante: Todos os cálculos seguem rigorosamente a lógica apresentada no documento técnico `modelo_antecipacao.md`. Este conjunto de testes serve como referência oficial para validar qualquer implementação que utilize essa estrutura de cálculo.
+> ⚠️ Importante: Todos os cálculos seguem rigorosamente a lógica apresentada no documento técnico `modelo_antecipacao.md`. Este conjunto de testes serve como referência oficial para validar qualquer implementação que utilize essa estrutura de cálculo.
 
 ---
 
@@ -20,8 +20,7 @@ Este documento apresenta os testes realizados para validação dos cálculos de 
 
 ## 💳 Tabela 2 – Testes de Crédito Parcelado com Antecipação (1x a 5x)
 
-📌 Objetivo dos Testes de Parcelamento:
-
+📌 **Objetivo dos Testes de Parcelamento**:
 Após validar os limites operacionais, é necessário testar o comportamento do sistema em situações recorrentes. Os testes simulam transações com diferentes quantidades de parcelas, aplicando a taxa de antecipação proporcional conforme a fórmula:
 
 | Teste         | Tipo              | Parcelas | Valor da Venda | MDR (%) | ANT (%) | 🧮 Cálculo MDR                         | 🧮 Cálculo Antecipação                               | 🧮 Valor Retido (Total)                  | 🧮 Valor Líquido                            | ✅ Verificação                               | Diferença | Precisão |
