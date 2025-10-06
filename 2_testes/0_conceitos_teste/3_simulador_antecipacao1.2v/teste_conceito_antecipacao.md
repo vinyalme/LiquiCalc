@@ -20,7 +20,7 @@ Este documento apresenta os testes realizados para validação dos cálculos de 
 
 ## 💳 Tabela 2 – Testes de Crédito Parcelado com Antecipação (1x a 5x)
 
-📌 **Objetivo dos Testes de Parcelamento**:
+### 📌 **Objetivo dos Testes de Parcelamento**:
 Após validar os limites operacionais, é necessário testar o comportamento do sistema em situações recorrentes. Os testes simulam transações com diferentes quantidades de parcelas, aplicando a taxa de antecipação proporcional conforme a fórmula:
 
 | Teste         | Tipo              | Parcelas | Valor da Venda | MDR (%) | ANT (%) | 🧮 Cálculo MDR                         | 🧮 Cálculo Antecipação                               | 🧮 Valor Retido (Total)                  | 🧮 Valor Líquido                            | ✅ Verificação                               | Diferença | Precisão |
