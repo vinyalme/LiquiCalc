@@ -29,7 +29,7 @@ Este conjunto de testes serve como **referência oficial** para validar qualquer
 
 ## 💳 Tabela 2 – Testes de Crédito Parcelado com Fator Flexível (1x a 21x)
 
-📌 **Objetivo dos Testes de Parcelamento**:  
+### 📌 **Objetivo dos Testes de Parcelamento**:  
 Após validar os limites operacionais com valores mínimos e máximos, é necessário testar o comportamento do sistema em situações mais dinâmicas e recorrentes.  
 
 | Teste          | Tipo              | Parcelas | Valor da Venda | Fator base (%) | Fator 1 (%) | Fator Adicional (%)  | Cálculo Taxa                                    | Total Taxa (%) | 🧮 Valor Retido (Taxa) | 🧮 Valor Líquido | ✅ Verificação                              | Diferença | Precisão |
