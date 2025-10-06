@@ -38,10 +38,10 @@ Este documento apresenta o organograma técnico do projeto LiquiCalc, detalhando
 │   │   ├── 📁 2_simulador_mdr-flex3.1v/ (V)             # Script exclusivo para cálculo da MDR flexível
 │   │   │   └── 📄 simulador_mdr-flex.bat (V)
 │   │   └── 📁 3_simulador_antecipacao3.2v/ (V)          # Script para MDR padrão + antecipação de recebíveis
-│   │       └── 📄 simulador_antecipacao.bat (E)
+│   │       └── 📄 simulador_antecipacao.bat (V)
 │   │
 │   └── 📁 2_simulador-web/ (V)                          # Simulações web interativas com HTML, CSS e JS
-│       ├── 📄 README.md (R)
+│       ├── 📄 README.md (P)
 │       ├── 📁 0_LiquiCalc.4.3v/ (V)                     # Versão consolidada com todos os cálculos em uma única interface
 │       │   ├── 📄 index.html (E)
 │       │   ├── 📄 style.css (P)
@@ -63,11 +63,11 @@ Este documento apresenta o organograma técnico do projeto LiquiCalc, detalhando
 │   ├── 📄 README.md (A)                                 # Visão geral dos testes: objetivo, escopo e regras de validação
 │   ├── 📁 0_conceitos_teste/ (V)                        # Testes conceituais para validar a lógica dos cálculos do LiquiCalc
 │   │   ├── 📁 1_simulador_mdr-padrao1.0v/ (V)
-│   │   │   └──📄 teste_conceito_mdr-padrao.md (A)       # Teste conceitual da MDR padrão
+│   │   │   └──📄 teste_conceito_mdr-padrao.md (V)       # Teste conceitual da MDR padrão
 │   │   ├── 📁 2_simulador_mdr-flex1.1v/ (V)
-│   │   │   └──📄 teste_conceito_mdr-flex.md (A)         # Teste conceitual da MDR flexível
+│   │   │   └──📄 teste_conceito_mdr-flex.md (V)         # Teste conceitual da MDR flexível
 │   │   └── 📁 3_simulador_antecipacao1.2v/ (V)
-│   │       └──📄 teste_conceito_antecipacao.md (E)      # Teste conceitual da antecipação de recebíveis
+│   │       └──📄 teste_conceito_antecipacao.md (A)      # Teste conceitual da antecipação de recebíveis
 │   │
 │   ├── 📁 1_excel_teste/ (P)                            # Simuladores em Excel para testes manuais e validação visual
 │   │   ├── 📁 0_LiquiCalc.2.3v/ (P)                  
