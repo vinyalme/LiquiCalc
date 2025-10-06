@@ -126,7 +126,7 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 ├── 📁 3_docs/ 
 │   ├── 📄 0_roadmap_estrutura.md                        # Estrutura técnica do projeto: diretórios, arquivos e estados de maturidade
 │   ├── 📄 1_roadmap_releases.md                         # Cronograma de releases: etapas de desenvolvimento, versões e status de entrega
-│   ├── 📄 2_roadmap_testes.md.                          # Planejamento de testes: modalidades, simuladores, versões e rastreabilidade técnica
+│   ├── 📄 2_roadmap_testes.md                           # Planejamento de testes: modalidades, simuladores, versões e rastreabilidade técnica
 │   └── 📄 3_roadmap_inspiracoes.md                      # Referências técnicas e conceituais que inspiraram o desenvolvimento do LiquiCalc
 │
 ├── 📄 LICENSE                                           # Licença de uso do projeto (MIT License)
