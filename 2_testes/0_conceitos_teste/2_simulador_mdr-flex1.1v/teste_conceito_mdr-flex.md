@@ -85,3 +85,5 @@ Embora os resultados demonstrem precisão total, é importante lembrar que:
 Os testes de crédito parcelado com **MDR Flex** simulam transações com diferentes quantidades de parcelas (de 1x a 21x), variando também os fatores aplicados (Fator 1 e Fator 2).  
 
 Essa abordagem garante que o **LiquiCalc** mantenha sua precisão mesmo diante da complexidade crescente das operações.
+
+---
