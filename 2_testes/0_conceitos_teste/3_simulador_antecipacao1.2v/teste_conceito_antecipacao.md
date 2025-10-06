@@ -1,4 +1,4 @@
-# 📄 Relatório de Testes – Antecipação de Recebíveis | Conceito
+# Relatório de Testes – Antecipação de Recebíveis | Conceito
 
 Este documento apresenta os testes realizados para validação dos cálculos de antecipação no sistema LiquiCalc, com foco em garantir precisão matemática, consistência lógica e confiabilidade técnica. Os testes foram divididos em dois grupos principais:
 
@@ -58,6 +58,8 @@ Após validar os limites operacionais, é necessário testar o comportamento do 
 | Precisão Média      | 100.00%       |
 | Precisão Mínima     | 100.00%       |
 | Precisão Máxima     | 100.00%       |
+
+Este resumo reforça a confiabilidade dos cálculos realizados pelo LiquiCalc, demonstrando consistência absoluta em todas as simulações testadas.
 
 ---
 
