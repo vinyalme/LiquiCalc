@@ -41,3 +41,5 @@ Este documento apresenta o planejamento dos testes do projeto **LiquiCalc**, seg
 ## 📎 Considerações Finais
 
 A estrutura de testes do LiquiCalc foi pensada para acompanhar cada etapa do desenvolvimento, permitindo validações precisas e comparações entre versões. A separação por tipo de simulador e versão facilita a manutenção dos scripts e a identificação de regressões. Este documento será atualizado conforme novos testes forem implementados ou refinados, mantendo o alinhamento entre escopo técnico e qualidade funcional.
+
+---
