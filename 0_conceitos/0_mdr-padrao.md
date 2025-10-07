@@ -232,3 +232,5 @@ Cada etapa foi registrada em arquivos específicos, que servem como referência 
 - [TAXA de CARTÕES (MDR), como reduzir? – Indicadores Financeiros](https://www.youtube.com/watch?v=sh3Qw7o6cus)
 - [Venda com Cartão de Crédito: a MDR e Antecipação das Parcelas](https://www.youtube.com/watch?v=2io7VDFWdhk)
 - [MAQUININHA COM PARCELAMENTO EM 21 VEZES - 3RMS TECH](https://www.youtube.com/watch?v=29HUpPIBFtw)
+
+---
