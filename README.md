@@ -179,3 +179,5 @@ Escolha a versão que melhor se encaixa com o seu objetivo:
 
 © 2025 • Projeto LiquiCalc  
 Distribuído sob os termos da [MIT License](./LICENSE).
+
+---
