@@ -50,4 +50,6 @@ Você pode usar os arquivos desta pasta para:
 - Montar tutoriais ou artigos sobre o funcionamento das adquirentes
 - Validar os cálculos dos simuladores com base teórica
 - Traduzir os modelos para outras linguagens de programação ou plataformas
+
+---
   
