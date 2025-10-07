@@ -66,3 +66,5 @@ Essa tabela permite visualizar rapidamente a acurácia dos cálculos realizados 
 
 Os testes descritos aqui têm como foco garantir consistência técnica e lógica nos cálculos, mas não substituem processos formais de auditoria contábil.  
 Além disso, qualquer nova versão do LiquiCalc só deve ser disponibilizada após a inclusão e validação completa de seus respectivos testes, assegurando que os resultados permaneçam confiáveis e alinhados com os fundamentos definidos.
+
+---
