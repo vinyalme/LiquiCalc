@@ -252,3 +252,5 @@ Cada etapa foi registrada em arquivos técnicos específicos, que servem como ba
 * [Aspectos jurídicos e tributários – Antecipação de Recebíveis](https://bonettiassociados.com.br/index.php/2025/02/27/antecipacao-de-recebiveis-de-cartoes-de-credito-aspectos-juridicos-e-tributarios/)
 * [Meios de pagamento - Como calcular a taxa de antecipação](https://www.youtube.com/watch?v=lI4iiWQ4VhY)
 * [Como funciona a antecipação de pagamentos?](https://www.youtube.com/watch?v=VJIm7YCPHeE)
+
+---
