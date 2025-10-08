@@ -12,7 +12,7 @@ Este documento apresenta o planejamento dos testes do projeto **LiquiCalc**, seg
 |------------------------|-------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | MDR Padrão             | Conceitual        | 1.0.1      | [teste_conceito_mdr-padrao_1.0.md](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/1_simulador_mdr-padrao1.0v/teste_conceito_mdr-padrao.md)              | Concluído     |
 | MDR Flexível           | Conceitual        | 1.1.1      | [teste_conceito_mdr-flex_1.1.md](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/2_simulador_mdr-flex1.1v/teste_conceito_mdr-flex.md)                    | Concluído     |
-| Antecipação            | Conceitual        | 1.2.1      | [teste_conceito_antecipacao_1.2.md](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/3_simulador_antecipacao1.2v/teste_conceito_antecipacao.md)           | Em andamento  |
+| Antecipação            | Conceitual        | 1.2.1      | [teste_conceito_antecipacao_1.2.md](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/3_simulador_antecipacao1.2v/teste_conceito_antecipacao.md)           | Concluído     |
 | MDR Padrão             | Excel             | 2.0.1      | teste_calculo_mdr-padrao_2.0.md               | Pendente      |
 | MDR Flexível           | Excel             | 2.1.1      | teste_calculo_mdr-flex_2.1.md                 | Pendente      |
 | Antecipação            | Excel             | 2.2.1      | teste_calculo_antecipacao_2.2.md              | Pendente      |
