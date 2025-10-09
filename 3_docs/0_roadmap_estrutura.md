@@ -22,8 +22,8 @@ Este documento apresenta o organograma técnico do projeto LiquiCalc, detalhando
 │   │   ├── 📄 README.md (V)
 │   │   ├── 📁 0_LiquiCalc.2.3v/ (V)                     # Versão consolidada com todos os cálculos em um único arquivo
 │   │   │   └── 📄 LiquiCalc.2.3.xlsx (P) 
-│   │   ├── 📁 1_simulador_mdr-padrao2.0v/ (A)           # Simulador exclusivo para cálculo da MDR padrão
-│   │   │   └── 📄 simulador_mdr-padrao.xlsx (P)
+│   │   ├── 📁 1_simulador_mdr-padrao2.0v/ (V)           # Simulador exclusivo para cálculo da MDR padrão
+│   │   │   └── 📄 simulador_mdr-padrao.xlsx (V)
 │   │   ├── 📁 2_simulador_mdr-flex2.1v/ (V)             # Simulador exclusivo para cálculo da MDR flexível
 │   │   │   └── 📄 simulador_mdr-flex.xlsx (P)
 │   │   └── 📁 3_simulador_antecipacao2.2v/ (V)          # Simulador para MDR padrão + antecipação de recebíveis
