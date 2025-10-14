@@ -69,15 +69,15 @@ Este documento apresenta o organograma técnico do projeto LiquiCalc, detalhando
 │   │   └── 📁 3_simulador_antecipacao1.2v/ (V)
 │   │       └──📄 teste_conceito_antecipacao.md (V)      # Teste conceitual da antecipação de recebíveis
 │   │
-│   ├── 📁 1_excel_teste/ (P)                            # Simuladores em Excel para testes manuais e validação visual
-│   │   ├── 📁 0_LiquiCalc.2.3v/ (P)                  
-│   │   │   └── 📄 teste_calculo_liquicalc_2.3.md (P)    # Teste de cálculo da versão consolidada 1.3
-│   │   ├── 📁 1_simulador_mdr-padrao2.0v/ (P)          
-│   │   │   └── 📄 teste_calculo_mdr-padrao_2.0.md (P)   # Teste de cálculo da MDR padrão versão 1.0
-│   │   ├── 📁 2_simulador_mdr-flex2.1v/ (P)            
-│   │   │   └── 📄 teste_calculo_mdr-flex_2.1.md (P)     # Teste de cálculo da MDR flexível versão 1.1
-│   │   └── 📁 3_simulador_antecipacao2.2v/ (P)         
-│   │       └── 📄 teste_calculo_antecipacao_2.2.md (P)  # Teste de cálculo da antecipação versão 1.2
+│   ├── 📁 1_excel_teste/ (V)                            # Simuladores em Excel para testes manuais e validação visual
+│   │   ├── 📁 0_LiquiCalc.2.3v/ (V)                  
+│   │   │   └── 📄 teste_calculo_liquicalc_2.3.md (E)    # Teste de cálculo da versão consolidada 1.3
+│   │   ├── 📁 1_simulador_mdr-padrao2.0v/ (V)          
+│   │   │   └── 📄 teste_calculo_mdr-padrao_2.0.md (E)   # Teste de cálculo da MDR padrão versão 1.0
+│   │   ├── 📁 2_simulador_mdr-flex2.1v/ (V)            
+│   │   │   └── 📄 teste_calculo_mdr-flex_2.1.md (E)     # Teste de cálculo da MDR flexível versão 1.1
+│   │   └── 📁 3_simulador_antecipacao2.2v/ (V)         
+│   │       └── 📄 teste_calculo_antecipacao_2.2.md (E)  # Teste de cálculo da antecipação versão 1.2
 │   │
 │   ├── 📁 2_calculadora-bat_teste/ (P)                  # Scripts em BAT para execução automatizada dos cálculos via terminal
 │   │   ├── 📁 0_LiquiCalc.3.3v/ (P)                      
