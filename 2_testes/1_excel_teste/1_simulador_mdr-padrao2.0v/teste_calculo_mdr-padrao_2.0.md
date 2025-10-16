@@ -4,9 +4,9 @@
 
 | Tipo               | Teste                  | Modalidade         | Valor da Venda   | MDR (%) | 🧮 Valor Retido (Taxa)             | 🧮 Valor Líquido             | ✅ Verificação                                     | Diferença | Precisão   |
 |--------------------|------------------------|---------------------|------------------|---------|------------------------------------|-------------------------------|----------------------------------------------------|-----------|------------|
-| Dados esperados    | Valor Mínimo Débito    | Débito              | R$ 0,02          | 50.00   | R$ 0,02 × 50% = R$ 0,01            | R$ 0,01                       | ✅ R$ 0,01 + 0,01 = R$ 0,02                        | R$ 0,00   | 100.00%    |
-| Dados do Simulador | Valor Mínimo Débito    | Débito              | R$ 0,02          | 50.00   | R$ 0,02 × 50% = R$ 0,01            | R$ 0,01                       | ✅ R$ 0,01 + 0,01 = R$ 0,02                        | R$ 0,00   | 100.00%    |
-🔗 Evidência do simulador_mdr-padrao Valor Mínimo Débito
+| Dados esperados    | Valor Mínimo Débito    | Débito              | R$ 0,02          | 50.00   | R$ 0,02 × 50% = R$ 0,01            | R$ 0,01                       | ✅ R$ 0,01 + 0,01 = R$ 0,02                       | R$ 0,00   | 100.00%    |
+| Dados do Simulador | Valor Mínimo Débito    | Débito              | R$ 0,02          | 50.00   | R$ 0,02 × 50% = R$ 0,01            | R$ 0,01                       | ✅ R$ 0,01 + 0,01 = R$ 0,02                       | R$ 0,00   | 100.00%    |
+- 🔗 Evidência do simulador_mdr-padrao Valor Mínimo Débito
 
 | Tipo               | Teste                  | Modalidade         | Valor da Venda   | MDR (%) | 🧮 Valor Retido (Taxa)             | 🧮 Valor Líquido             | ✅ Verificação                                     | Diferença | Precisão   |
 |--------------------|------------------------|---------------------|------------------|---------|------------------------------------|-------------------------------|----------------------------------------------------|-----------|------------|
