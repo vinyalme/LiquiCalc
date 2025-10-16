@@ -62,8 +62,6 @@ Após validar os limites operacionais com valores mínimos e máximos, é necess
   | Precisão Mínima         | 100.00%          |
   | Precisão Máxima         | 100.00%          |
 
-Este resumo reforça a confiabilidade dos cálculos realizados pelo LiquiCalc, demonstrando consistência absoluta em todas as simulações testadas.
-
 Este resumo reforça a confiabilidade dos cálculos realizados pelo **LiquiCalc**, demonstrando consistência absoluta em todas as simulações testadas.
 
 ---
