@@ -20,7 +20,7 @@ Este conjunto de testes serve como **referência oficial** para validar qualquer
 
 
 
-| Teste         | Tipo               | Parcelas | Valor da Venda    | Fator Base (%) | Fator 1 (%) | Fator Adicional (%)  | Cálculo Taxa                     | Total Taxa (%) | 🧮 Valor Retido (Taxa) | 🧮 Valor Líquido  | ✅ Verificação                                       | Diferença | Precisão |
+| Teste         | Modalidade         | Parcelas | Valor da Venda    | Fator Base (%) | Fator 1 (%) | Fator Adicional (%)  | Cálculo Taxa                     | Total Taxa (%) | 🧮 Valor Retido (Taxa) | 🧮 Valor Líquido  | ✅ Verificação                                       | Diferença | Precisão |
 |---------------|--------------------|----------|-------------------|----------------|-------------|----------------------|----------------------------------|----------------|-------------------------|------------------|------------------------------------------------------|-----------|----------|
 | Valor Mínimo  | Crédito à Vista    | 1        | R$ 0,50           | 1.50           | 2.00        | —                    | 1.50% + 2.00%                    | 3.5%           | R$ 0,02                 | R$ 0,48          | ✅ R$ 0,48 + R$ 0,02 = R$ 0,50                       | R$ 0,00   | 100.00%  |
 | Valor Máximo  | Crédito Parcelado  | 21       | R$ 10.000.000,00  | 6.00           | 3.00        | 2.50                 | 6.00% + 3.00% + (21 − 1) × 2.50% | 59.00%         | R$ 5.900.000,00         | R$ 4.100.000,00  | ✅ R$ 4.100.000,00 + R$ 5.900.000,00 = R$ 10.000.000 | R$ 0,00   | 100.00%  |
@@ -32,7 +32,7 @@ Este conjunto de testes serve como **referência oficial** para validar qualquer
 ### 📌 **Objetivo dos Testes de Parcelamento**:  
 Após validar os limites operacionais com valores mínimos e máximos, é necessário testar o comportamento do sistema em situações mais dinâmicas e recorrentes.  
 
-| Teste          | Tipo              | Parcelas | Valor da Venda | Fator base (%) | Fator 1 (%) | Fator Adicional (%)  | Cálculo Taxa                                    | Total Taxa (%) | 🧮 Valor Retido (Taxa) | 🧮 Valor Líquido | ✅ Verificação                              | Diferença | Precisão |
+| Teste          | Modalidade        | Parcelas | Valor da Venda | Fator base (%) | Fator 1 (%) | Fator Adicional (%)  | Cálculo Taxa                                    | Total Taxa (%) | 🧮 Valor Retido (Taxa) | 🧮 Valor Líquido | ✅ Verificação                              | Diferença | Precisão |
 |----------------|-------------------|----------|----------------|----------------|-------------|----------------------|-------------------------------------------------|----------------|------------------------|------------------|---------------------------------------------|-----------|----------|
 | Parcelado 1x   | Crédito à Vista   | 1        | R$ 1.000,00    | 1.80           | 2.50        | —                    | 1.80% + 2.50%                                   | 4.30%          | R$ 43,00               | R$ 957,00        | ✅ R$ 957,00 + R$ 43,00 = R$ 1.000,00       | R$ 0,00   | 100.00%  |
 | Parcelado 2x   | Crédito Parcelado | 2        | R$ 1.500,00    | 2.00           | 2.50        | 2.80                 | 2.00% + 2.50% + (2 - 1) × 2.80%                 | 7.30%          | R$ 109,50              | R$ 1.390,50      | ✅ R$ 1.390,50 + R$ 109,50 = R$ 1.500,00    | R$ 0,00   | 100.00%  |
