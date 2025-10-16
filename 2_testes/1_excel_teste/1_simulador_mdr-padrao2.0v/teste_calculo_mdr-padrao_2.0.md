@@ -183,8 +183,6 @@ Após validar os limites operacionais com valores mínimos e máximos, é necess
 
 Este resumo reforça a confiabilidade dos cálculos realizados pelo LiquiCalc, demonstrando consistência absoluta em todas as simulações testadas.
 
-Este resumo reforça a confiabilidade dos cálculos realizados pelo **LiquiCalc**, demonstrando consistência absoluta em todas as simulações testadas.
-
 ---
 
 ## 📝 Considerações Finais
