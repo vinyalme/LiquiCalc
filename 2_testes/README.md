@@ -41,8 +41,8 @@ Cada pasta de teste conterá, ao final, uma tabela com os seguintes campos:
 
 ## 🧾 Cabeçalho da Tabela de Testes
 
-| Teste | Tipo | Valor da Venda | MDR (%) | 🧮 Valor Retido (Taxa) | 🧮 Valor Líquido | ✅ Verificação (Líquido + Taxa = Venda?) | Diferença | Precisão |
-|-------|------|----------------|---------|------------------------|------------------|------------------------------------------|-----------|----------|
+| Teste | Modalidade | Valor da Venda | MDR (%) | 🧮 Valor Retido (Taxa) | 🧮 Valor Líquido | ✅ Verificação (Líquido + Taxa = Venda?) | Diferença | Precisão |
+|-------|------------|----------------|---------|------------------------|------------------|------------------------------------------|-----------|----------|
 
 Essa tabela permite visualizar rapidamente a acurácia dos cálculos realizados em cada simulação.
 
