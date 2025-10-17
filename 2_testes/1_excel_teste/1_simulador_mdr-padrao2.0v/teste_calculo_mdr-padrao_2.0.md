@@ -34,7 +34,7 @@ Este documento apresenta os testes realizados para validação dos cálculos do 
 |--------------------|------------------------|---------------------|----------------------|---------|------------------------------------|-------------------------------|--------------------------------------------------------------|-----------|------------|
 | Dados esperados    | Valor Máximo Crédito   | Crédito Parcelado   | R$ 10.000.000,00     | 1.75    | R$ 10.000.000 × 1.75% = R$ 175.000 | R$ 9.825.000,00               | ✅ R$ 9.825.000,00 + R$ 175.000 = R$ 10.000.000,00          | R$ 0,00   | 100.00%    |
 | Dados do Simulador | Valor Máximo Crédito   | Crédito Parcelado   | R$ 10.000.000,00     | 1.75    | R$ 10.000.000 × 1.75% = R$ 175.000 | R$ 9.825.000,00               | ✅ R$ 9.825.000,00 + R$ 175.000 = R$ 10.000.000,00          | R$ 0,00   | 100.00%    |
-- 🔗 Evidência do simulador_mdr-padrao Valor Máximo Crédito
+- 🔗 Evidência do [simulador_mdr-padrao Valor Máximo Crédito](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/1_excel_teste/1_simulador_mdr-padrao2.0v/evidencias_de_calculo/simulador_mdr-padrao_valor_m%C3%A1ximo_cr%C3%A9dito.png)
 
 ---
 
