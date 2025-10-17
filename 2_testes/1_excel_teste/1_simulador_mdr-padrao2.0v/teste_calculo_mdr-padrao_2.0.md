@@ -22,7 +22,7 @@ Este documento apresenta os testes realizados para validação dos cálculos do 
 |--------------------|------------------------|---------------------|------------------|---------|------------------------------------|-------------------------------|-----------------------------------------------------|-----------|------------|
 | Dados esperados    | Valor Mínimo Crédito   | Crédito à Vista     | R$ 0,02          | 50.00   | R$ 0,02 × 50% = R$ 0,01            | R$ 0,01                       | ✅ R$ 0,01 + 0,01 = R$ 0,02                        | R$ 0,00   | 100.00%    |
 | Dados do Simulador | Valor Mínimo Crédito   | Crédito à Vista     | R$ 0,02          | 50.00   | R$ 0,02 × 50% = R$ 0,01            | R$ 0,01                       | ✅ R$ 0,01 + 0,01 = R$ 0,02                        | R$ 0,00   | 100.00%    |
-- 🔗 Evidência do simulador_mdr-padrao Valor Mínimo Crédito
+- 🔗 Evidência do [simulador_mdr-padrao Valor Mínimo Crédito](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/1_excel_teste/1_simulador_mdr-padrao2.0v/evidencias_de_calculo/simulador_mdr-padrao_valor_m%C3%ADnimo_cr%C3%A9dito.png)
 
 | Tipo               | Teste                  | Modalidade          | Valor da Venda       | MDR (%) | 🧮 Valor Retido (Taxa)             | 🧮 Valor Líquido             | ✅ Verificação                                              | Diferença | Precisão   |
 |--------------------|------------------------|---------------------|----------------------|---------|------------------------------------|-------------------------------|--------------------------------------------------------------|-----------|------------|
