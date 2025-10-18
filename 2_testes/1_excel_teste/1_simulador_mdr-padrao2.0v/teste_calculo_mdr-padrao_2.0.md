@@ -47,31 +47,31 @@ Após validar os limites operacionais com valores mínimos e máximos, é necess
 |--------------------|---------------|---------------------|----------------|---------|------------------------------------|-------------------------------|----------------------------------------------------|-----------|------------|
 | Dados esperados    | Parcelado 1x  | Crédito Parcelado   | R$ 300,00      | 4.00    | R$ 300,00 × 4.00% = R$ 12,00       | R$ 288,00                     | ✅ R$ 288,00 + R$ 12,00 = R$ 300,00                | R$ 0,00   | 100.00%    |
 | Dados do Simulador | Parcelado 1x  | Crédito Parcelado   | R$ 300,00      | 4.00    | R$ 300,00 × 4.00% = R$ 12,00       | R$ 288,00                     | ✅ R$ 288,00 + R$ 12,00 = R$ 300,00                | R$ 0,00   | 100.00%    |
-- 🔗 Evidência do simulador_mdr-padrao Parcelado 1x
+- 🔗 Evidência do [simulador_mdr-padrao Parcelado 1x](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/1_excel_teste/1_simulador_mdr-padrao2.0v/evidencias_de_calculo/simulador_mdr-padrao_parcelado_1x.png)
 
 | Tipo               | Teste         | Modalidade          | Valor da Venda | MDR (%) | 🧮 Valor Retido (Taxa)             | 🧮 Valor Líquido             | ✅ Verificação                                     | Diferença | Precisão   |
 |--------------------|---------------|---------------------|----------------|---------|------------------------------------|-------------------------------|----------------------------------------------------|-----------|------------|
 | Dados esperados    | Parcelado 2x  | Crédito Parcelado   | R$ 450,00      | 4.20    | R$ 450,00 × 4.20% = R$ 18,90       | R$ 431,10                     | ✅ R$ 431,10 + R$ 18,90 = R$ 450,00                | R$ 0,00   | 100.00%    |
 | Dados do Simulador | Parcelado 2x  | Crédito Parcelado   | R$ 450,00      | 4.20    | R$ 450,00 × 4.20% = R$ 18,90       | R$ 431,10                     | ✅ R$ 431,10 + R$ 18,90 = R$ 450,00                | R$ 0,00   | 100.00%    |
-- 🔗 Evidência do simulador_mdr-padrao Parcelado 2x
+- 🔗 Evidência do [simulador_mdr-padrao Parcelado 2x](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/1_excel_teste/1_simulador_mdr-padrao2.0v/evidencias_de_calculo/simulador_mdr-padrao_parcelado_2x.png)
 
 | Tipo               | Teste         | Modalidade          | Valor da Venda | MDR (%) | 🧮 Valor Retido (Taxa)             | 🧮 Valor Líquido             | ✅ Verificação                                     | Diferença | Precisão   |
 |--------------------|---------------|---------------------|----------------|---------|------------------------------------|-------------------------------|----------------------------------------------------|-----------|------------|
 | Dados esperados    | Parcelado 3x  | Crédito Parcelado   | R$ 600,00      | 4.50    | R$ 600,00 × 4.50% = R$ 27,00       | R$ 573,00                     | ✅ R$ 573,00 + R$ 27,00 = R$ 600,00                | R$ 0,00   | 100.00%    |
 | Dados do Simulador | Parcelado 3x  | Crédito Parcelado   | R$ 600,00      | 4.50    | R$ 600,00 × 4.50% = R$ 27,00       | R$ 573,00                     | ✅ R$ 573,00 + R$ 27,00 = R$ 600,00                | R$ 0,00   | 100.00%    |
-- 🔗 Evidência do simulador_mdr-padrao Parcelado 3x
+- 🔗 Evidência do [simulador_mdr-padrao Parcelado 3x](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/1_excel_teste/1_simulador_mdr-padrao2.0v/evidencias_de_calculo/simulador_mdr-padrao_parcelado_3x.png)
 
 | Tipo               | Teste         | Modalidade          | Valor da Venda | MDR (%) | 🧮 Valor Retido (Taxa)             | 🧮 Valor Líquido             | ✅ Verificação                                     | Diferença | Precisão   |
 |--------------------|---------------|---------------------|----------------|---------|------------------------------------|-------------------------------|----------------------------------------------------|-----------|------------|
 | Dados esperados    | Parcelado 4x  | Crédito Parcelado   | R$ 750,00      | 4.80    | R$ 750,00 × 4.80% = R$ 36,00       | R$ 714,00                     | ✅ R$ 714,00 + R$ 36,00 = R$ 750,00                | R$ 0,00   | 100.00%    |
 | Dados do Simulador | Parcelado 4x  | Crédito Parcelado   | R$ 750,00      | 4.80    | R$ 750,00 × 4.80% = R$ 36,00       | R$ 714,00                     | ✅ R$ 714,00 + R$ 36,00 = R$ 750,00                | R$ 0,00   | 100.00%    |
-- 🔗 Evidência do simulador_mdr-padrao Parcelado 4x
+- 🔗 Evidência do [simulador_mdr-padrao Parcelado 4x](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/1_excel_teste/1_simulador_mdr-padrao2.0v/evidencias_de_calculo/simulador_mdr-padrao_parcelado_4x.png)
 
 | Tipo               | Teste         | Modalidade          | Valor da Venda | MDR (%) | 🧮 Valor Retido (Taxa)             | 🧮 Valor Líquido             | ✅ Verificação                                     | Diferença | Precisão   |
 |--------------------|---------------|---------------------|----------------|---------|------------------------------------|-------------------------------|----------------------------------------------------|-----------|------------|
 | Dados esperados    | Parcelado 5x  | Crédito Parcelado   | R$ 900,00      | 5.00    | R$ 900,00 × 5.00% = R$ 45,00       | R$ 855,00                     | ✅ R$ 855,00 + R$ 45,00 = R$ 900,00                | R$ 0,00   | 100.00%    |
 | Dados do Simulador | Parcelado 5x  | Crédito Parcelado   | R$ 900,00      | 5.00    | R$ 900,00 × 5.00% = R$ 45,00       | R$ 855,00                     | ✅ R$ 855,00 + R$ 45,00 = R$ 900,00                | R$ 0,00   | 100.00%    |
-- 🔗 Evidência do simulador_mdr-padrao Parcelado 5x
+- 🔗 Evidência do [simulador_mdr-padrao Parcelado 5x](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/1_excel_teste/1_simulador_mdr-padrao2.0v/evidencias_de_calculo/simulador_mdr-padrao_parcelado_5x.png)
 
 | Tipo               | Teste         | Modalidade          | Valor da Venda | MDR (%) | 🧮 Valor Retido (Taxa)             | 🧮 Valor Líquido             | ✅ Verificação                                     | Diferença | Precisão   |
 |--------------------|---------------|---------------------|----------------|---------|------------------------------------|-------------------------------|----------------------------------------------------|-----------|------------|
