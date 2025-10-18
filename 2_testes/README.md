@@ -10,19 +10,19 @@ Os testes estão organizados em quatro categorias principais:
 
 - **🧪 Testes Conceituais**  
   Validam a lógica teórica dos cálculos, como MDR padrão, MDR flexível e antecipação de recebíveis.  
-  Acesse aqui: [*🧪 Testes Conceituais*](https://github.com/vinyalme/LiquiCalc/tree/main/2_testes/0_conceitos_teste)
+  Acesse aqui: [🧪 *Testes Conceituais*](https://github.com/vinyalme/LiquiCalc/tree/main/2_testes/0_conceitos_teste)
 
 - **📊 Testes em Excel**  
   Permitem conferência manual dos cálculos e fórmulas aplicadas nas planilhas.  
-  Acesse aqui: [*📊 Testes em Excel*](https://github.com/vinyalme/LiquiCalc/tree/main/2_testes/1_excel_teste)
+  Acesse aqui: [📊 *Testes em Excel*](https://github.com/vinyalme/LiquiCalc/tree/main/2_testes/1_excel_teste)
 
 - **🖥️ Testes Automatizados via BAT**  
   Executam os scripts no terminal para verificar precisão e robustez dos resultados.  
-  Acesse aqui: *🖥️ Testes BAT*
+  Acesse aqui: 🖥️ *Testes BAT*
 
 - **🌐 Testes Interativos Web**  
   Validam a interface visual, os inputs e outputs, além da usabilidade geral.  
-  Acesse aqui: *🌐 Testes Web*
+  Acesse aqui: 🌐 *Testes Web*
 
 ---
 
