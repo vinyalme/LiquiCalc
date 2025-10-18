@@ -14,7 +14,7 @@ Os testes estão organizados em quatro categorias principais:
 
 - **📊 Testes em Excel**  
   Permitem conferência manual dos cálculos e fórmulas aplicadas nas planilhas.  
-  Acesse aqui: *📊 Testes em Excel*
+  Acesse aqui: [*📊 Testes em Excel*](https://github.com/vinyalme/LiquiCalc/tree/main/2_testes/1_excel_teste)
 
 - **🖥️ Testes Automatizados via BAT**  
   Executam os scripts no terminal para verificar precisão e robustez dos resultados.  
