@@ -13,19 +13,19 @@ Este documento apresenta o planejamento dos testes do projeto **LiquiCalc**, seg
 | MDR Padrão             | Conceitual        | 1.0.1      | [teste_conceito_mdr-padrao_1.0.md](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/1_simulador_mdr-padrao1.0v/teste_conceito_mdr-padrao.md)              | Concluído     |
 | MDR Flexível           | Conceitual        | 1.1.1      | [teste_conceito_mdr-flex_1.1.md](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/2_simulador_mdr-flex1.1v/teste_conceito_mdr-flex.md)                    | Concluído     |
 | Antecipação            | Conceitual        | 1.2.1      | [teste_conceito_antecipacao_1.2.md](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/0_conceitos_teste/3_simulador_antecipacao1.2v/teste_conceito_antecipacao.md)           | Concluído     |
-| MDR Padrão             | Excel             | 2.0.1      | teste_calculo_mdr-padrao_2.0.md               | Pendente      |
-| MDR Flexível           | Excel             | 2.1.1      | teste_calculo_mdr-flex_2.1.md                 | Pendente      |
-| Antecipação            | Excel             | 2.2.1      | teste_calculo_antecipacao_2.2.md              | Pendente      |
-| Consolidado            | Excel             | 2.3.1      | teste_calculo_liquicalc_2.3.md                | Pendente      |
-| MDR Padrão             | BAT               | 3.0.1      | teste_calculo_mdr-padrao_3.0.md               | Pendente      |
-| MDR Flexível           | BAT               | 3.1.1      | teste_calculo_mdr-flex_3.1.md                 | Pendente      |
-| Antecipação            | BAT               | 3.2.1      | teste_calculo_antecipacao_3.2.md              | Pendente      |
-| Consolidado            | BAT               | 3.3.1      | teste_calculo_liquicalc_3.3.md                | Pendente      |
-| MDR Padrão             | Web               | 4.0.1      | teste_calculo_mdr-padrao_4.0.md               | Pendente      |
-| MDR Flexível           | Web               | 4.1.1      | teste_calculo_mdr-flex_4.1.md                 | Pendente      |
-| Antecipação            | Web               | 4.2.1      | teste_calculo_antecipacao_4.2.md              | Pendente      |
-| Consolidado            | Web               | 4.3.1      | teste_calculo_liquicalc_4.3.md                | Pendente      |
-| Testes integrados      | Web               | 4.4.0      | teste_calculo_liquicalc_4.4.md                | Pendente      |
+| MDR Padrão             | Excel             | 2.0.1      | [teste_calculo_mdr-padrao_2.0.md](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/1_excel_teste/1_simulador_mdr-padrao2.0v/teste_calculo_mdr-padrao_2.0.md)                | Concluído      |
+| MDR Flexível           | Excel             | 2.1.1      | teste_calculo_mdr-flex_2.1.md                                                                                                                                                       | Pendente      |
+| Antecipação            | Excel             | 2.2.1      | teste_calculo_antecipacao_2.2.md                                                                                                                                                    | Pendente      |
+| Consolidado            | Excel             | 2.3.1      | teste_calculo_liquicalc_2.3.md                                                                                                                                                      | Pendente      |
+| MDR Padrão             | BAT               | 3.0.1      | teste_calculo_mdr-padrao_3.0.md                                                                                                                                                     | Pendente      |
+| MDR Flexível           | BAT               | 3.1.1      | teste_calculo_mdr-flex_3.1.md                                                                                                                                                       | Pendente      |
+| Antecipação            | BAT               | 3.2.1      | teste_calculo_antecipacao_3.2.md                                                                                                                                                    | Pendente      |
+| Consolidado            | BAT               | 3.3.1      | teste_calculo_liquicalc_3.3.md                                                                                                                                                      | Pendente      |
+| MDR Padrão             | Web               | 4.0.1      | teste_calculo_mdr-padrao_4.0.md                                                                                                                                                     | Pendente      |
+| MDR Flexível           | Web               | 4.1.1      | teste_calculo_mdr-flex_4.1.md                                                                                                                                                       | Pendente      |
+| Antecipação            | Web               | 4.2.1      | teste_calculo_antecipacao_4.2.md                                                                                                                                                    | Pendente      |
+| Consolidado            | Web               | 4.3.1      | teste_calculo_liquicalc_4.3.md                                                                                                                                                      | Pendente      |
+| Testes integrados      | Web               | 4.4.0      | teste_calculo_liquicalc_4.4.md                                                                                                                                                      | Pendente      |
 ---
 
 ## 📊 Classificação por Estado de Maturidade
