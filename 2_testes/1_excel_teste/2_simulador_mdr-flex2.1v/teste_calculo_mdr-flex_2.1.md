@@ -75,9 +75,9 @@ Após validar os limites operacionais com valores mínimos e máximos, é necess
 | Dados do Simulador 
 - 🔗 Evidência do simulador_mdr-flex Crédito Parcelado 6x - [Simples]() e [Detalhado]()
 
-| Tipo               | Teste         | Modalidade         | Parcelas | Valor da Venda    | Fator Base (%) | Fator 1 (%) | Fator Adicional (%)  | Cálculo Taxa                     | Total Taxa (%) | 🧮 Valor Retido (Taxa) | 🧮 Valor Líquido  | ✅ Verificação                                       | Diferença | Precisão |
+| Tipo               | Teste         | Modalidade         | Parcelas | Valor da Venda    | Fator Base (%) | Fator 1 (%) | Fator Adicional (%)  | Cálculo Taxa                     | Total Taxa (%) | 🧮 Valor Retido (Taxa) | 🧮 Valor Líquido  | ✅ Verificação                                     | Diferença | Precisão |
 |--------------------|---------------|--------------------|----------|-------------------|----------------|-------------|----------------------|----------------------------------|----------------|-------------------------|------------------|------------------------------------------------------|-----------|----------|
-| Dados Esperados    | Parcelado 7x  | Crédito Parcelado  | 7        | R$ 4.000,00    | 2.20           | 2.50        | 2.80                 | 2.20% + 2.50% + (7 - 1) × 2.80%                 | 21.50%         | R$ 860,00              | R$ 3.140,00      | ✅ R$ 3.140,00 + R$ 860,00 = R$ 4.000,00    | R$ 0,00   | 100.00%  |
+| Dados Esperados    | Parcelado 7x  | Crédito Parcelado  | 7        | R$ 4.000,00       | 2.20           | 2.50        | 2.80                 | 2.20% + 2.50% + (7 - 1) × 2.80%  | 21.50%         | R$ 860,00              | R$ 3.140,00       | ✅ R$ 3.140,00 + R$ 860,00 = R$ 4.000,00            | R$ 0,00   | 100.00%  |
 | Dados do Simulador 
 - 🔗 Evidência do simulador_mdr-flex Crédito Parcelado 7x - [Simples]() e [Detalhado]()
 
