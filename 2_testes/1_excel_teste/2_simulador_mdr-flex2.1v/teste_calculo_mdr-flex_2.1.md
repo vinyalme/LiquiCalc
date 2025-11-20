@@ -30,7 +30,7 @@ Este conjunto de testes serve como **referência oficial** para validar qualquer
 |--------------------|---------------|--------------------|----------|-------------------|----------------|-------------|----------------------|----------------------------------|----------------|-------------------------|------------------|-----------------------------------------------------------|-----------|----------|
 | Dados Esperados    | Valor Máximo  | Crédito Parcelado  | 21       | R$ 10.000.000,00  | 6.00           | 3.00        | 2.50                 | 6.00% + 3.00% + (21 − 1) × 2.50% | 59.00%         | R$ 5.900.000,00         | R$ 4.100.000,00  | ✅ R$ 4.100.000,00 + R$ 5.900.000,00 = R$ 10.000.000,00   | R$ 0,00   | 100.00%  |
 | Dados do Simulador | Valor Máximo  | Crédito Parcelado  | 21       | R$ 10.000.000,00  | 6.00           | 3.00        | 2.50                 | 6.00% + 3.00% + (21 − 1) × 2.50% | 59.00%         | R$ 5.900.000,00         | R$ 4.100.000,00  | ✅ R$ 4.100.000,00 + R$ 5.900.000,00 = R$ 10.000.000,00   | R$ 0,00   | 100.00%  |
-- 🔗 Evidência do simulador_mdr-flex Valor Mínimo Crédito Parcelado - [Simples]() e [Detalhado]()
+- 🔗 Evidência do simulador_mdr-flex Valor Mínimo Crédito Parcelado - [Simples](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/1_excel_teste/2_simulador_mdr-flex2.1v/evidencias_de_calculo/simulador_mdr-flex_valor_m%C3%A1ximo_cr%C3%A9dito_simples.png) e [Detalhado]()
 
 ---
 
