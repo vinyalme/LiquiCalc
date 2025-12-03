@@ -163,7 +163,7 @@ Após validar os limites operacionais com valores mínimos e máximos, é necess
 |--------------------|---------------|--------------------|----------|-------------------|----------------|-------------|----------------------|----------------------------------|----------------|------------------------|--------------------|------------------------------------------------------------|-----------|----------|
 | Dados Esperados    | Parcelado 21x | Crédito Parcelado  | 21       | R$ 11.000,00      | 2.20           | 2.50        | 2.80                 | 2.20% + 2.50% + (21 - 1) × 2.80% | 60.70%         | R$ 6.677,00            | R$ 4.323,00        | ✅ R$ 4.323,00 + R$ 6.677,00 = R$ 11.000,00               | R$ 0,00   | 100.00%  |
 | Dados do Simulador | Parcelado 21x | Crédito Parcelado  | 21       | R$ 11.000,00      | 2.20           | 2.50        | 2.80                 | 2.20% + 2.50% + (21 - 1) × 2.80% | 60.70%         | R$ 6.677,00            | R$ 4.323,00        | ✅ R$ 4.323,00 + R$ 6.677,00 = R$ 11.000,00               | R$ 0,00   | 100.00%  |
-- 🔗 Evidência do simulador_mdr-flex Crédito Parcelado 21x - [Simples]() e [Detalhado]()
+- 🔗 Evidência do simulador_mdr-flex Crédito Parcelado 21x - [Simples](https://github.com/vinyalme/LiquiCalc/blob/main/2_testes/1_excel_teste/2_simulador_mdr-flex2.1v/evidencias_de_calculo/simulador_mdr-flex_parcelado_21x_simples.png) e [Detalhado]()
   
 ---
 
