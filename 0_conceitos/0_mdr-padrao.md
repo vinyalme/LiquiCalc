@@ -158,7 +158,7 @@ As versões disponíveis são:
 
 - **Simulador .BAT (Script Local)**  
   Desenvolvido para execução automatizada em ambiente Windows. Ideal para testes em lote, validação técnica e auditoria de cenários.  
-  - 🔗 [`simulador_mdr-padrao.bat`](https://github.com/vinyalme/LiquiCalc/blob/main/1_simuladores/1_simulador_bat/1_simulador_mdr-padrao3.0v/simulador_mdr-padrao.bat)
+  - 🔗 [`simulador_mdr-padrao.bat`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat/1_simulador_mdr-padrao3.0v)
 
 - **Simulador Web (LiquiCalc)**  
   Disponível na interface online do LiquiCalc. Oferece simulação interativa com foco em usabilidade, precisão e acesso rápido.  
