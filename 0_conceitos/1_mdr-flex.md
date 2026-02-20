@@ -158,7 +158,7 @@ Implementado em planilha com fórmulas abertas e estrutura modular. Permite simu
 
 - **Simulador .BAT (Script Local)**
 Desenvolvido para execução automatizada em ambiente Windows. Ideal para rodar cenários em lote, validar combinações de taxas flexíveis e realizar auditoria técnica.
-  - 🔗 [`simulador_mdr-flex.bat`](https://github.com/vinyalme/LiquiCalc/blob/main/1_simuladores/1_simulador_bat/2_simulador_mdr-flex3.1v/simulador_mdr-flex.bat)
+  - 🔗 [`simulador_mdr-flex.bat`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat/2_simulador_mdr-flex3.1v)
 
 - **Simulador Web (LiquiCalc)**
 Disponível na interface online do LiquiCalc. Oferece simulação interativa com múltiplas configurações de taxa flexível, garantindo precisão e acessibilidade em qualquer dispositivo.
