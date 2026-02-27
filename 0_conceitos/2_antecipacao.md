@@ -168,7 +168,7 @@ Implementado em planilha com fórmulas abertas e estrutura modular. Permite simu
 
 - **Simulador .BAT (Script Local)**
 Desenvolvido para execução automatizada em ambiente Windows. Permite testes em lote de múltiplos cenários de antecipação, incluindo variações extremas de receita e diferentes prazos (D+1, D+2, D+5, D+15, D+30). Perfeito para validação técnica e auditoria de cenários complexos.
-  - 🔗 [`simulador_antecipacao.bat`](https://github.com/vinyalme/LiquiCalc/blob/main/1_simuladores/1_simulador_bat/3_simulador_antecipacao3.2v/simulador_antecipacao.bat)
+  - 🔗 [`simulador_antecipacao.bat`](https://github.com/vinyalme/LiquiCalc/tree/main/1_simuladores/1_simulador_bat/3_simulador_antecipacao3.2v)
 
 - **Simulador Web (LiquiCalc)**
 Disponível na interface online do LiquiCalc. Oferece simulação interativa com foco em usabilidade, precisão e acesso rápido, permitindo avaliar diferentes combinações de parcelas, taxas e prazos de antecipação de forma prática e visual.
